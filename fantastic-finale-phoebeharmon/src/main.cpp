@@ -16,10 +16,10 @@ int main( ){
 	//ofRunApp(new ofApp());
     std::string url_string = "https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=1&from=2019-11-20&to=2019-11-20";
     
+    // Convert url string to vector of Item objects
     DataProcessor processor;
     std::string url_content = processor.ReadUrl(url_string);
     nlohmann::json json_object = processor.ConvertStringToJson(url_content);
-    
     std::vector<Item> items = processor.ConvertJsonToItems(json_object);
     
     for (Item element : items) {
