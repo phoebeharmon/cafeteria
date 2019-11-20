@@ -10,6 +10,8 @@
 #include <iostream>
 
 std::string DataProcessor::ReadUrl(std::string url_string) {
+    // Start a libcurl easy session
+    // Returns a CURL easy handle
     auto curl = curl_easy_init();
     
     // Convert std::string to char array
@@ -22,11 +24,15 @@ std::string DataProcessor::ReadUrl(std::string url_string) {
     if (curl) {
         std::string response_string;
 
+        // Set options for a curl easy handle
         curl_easy_setopt(curl, CURLOPT_URL, char_array);
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteFunction);
         curl_easy_setopt(curl, CURLOPT_WRITEDATA, &response_string);
     
+        // Perform a blocking file transfer
         curl_easy_perform(curl);
+        
+        // End a libcurl easy handle
         curl_easy_cleanup(curl);
         curl = NULL;
 
