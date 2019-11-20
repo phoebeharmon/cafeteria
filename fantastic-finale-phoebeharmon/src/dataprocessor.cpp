@@ -36,6 +36,10 @@ std::string DataProcessor::ReadUrl(std::string url_string) {
     return NULL;
 }
 
+nlohmann::json DataProcessor::ConvertStringToJson(std::string json_string) {
+    auto json_object = nlohmann::json::parse(json_string);
+}
+
 size_t WriteFunction(void *ptr, size_t size, size_t nmemb, std::string* data) {
     data->append((char*) ptr, size * nmemb);
     

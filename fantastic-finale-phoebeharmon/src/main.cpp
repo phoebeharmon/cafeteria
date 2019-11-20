@@ -1,9 +1,7 @@
 #include "ofMain.h"
 #include "ofApp.h"
 #include "dataprocessor.hpp"
-#include <curl/curl.h>
 #include <iostream>
-
 
 //========================================================================
 
@@ -15,7 +13,8 @@ int main( ){
 	// can be OF_WINDOW or OF_FULLSCREEN
 	// pass in width and height too:
 	//ofRunApp(new ofApp());
-    
+    std::string url_string = "https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=4&from=2019-11-20&to=2019-11-20";
     DataProcessor processor;
-    std::cout << processor.ReadUrl("https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=4&from=2019-11-20&to=2019-11-20");
+    std::cout << processor.ReadUrl(url_string) << std::endl;
+    std::cout << processor.ConvertStringToJson(processor.ReadUrl(url_string));
 }
