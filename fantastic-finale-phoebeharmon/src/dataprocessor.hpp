@@ -10,12 +10,17 @@
 
 #include <stdio.h>
 #include <string>
+#include <curl/curl.h>
+
 
 #endif /* dataprocessor_hpp */
 
+size_t WriteFunction(void *ptr, size_t size, size_t nmemb, std::string* data);
+
+
 class DataProcessor {
 public:
-    std::string ConvertUrlStringToJsonString(std::string url_string);
+    //std::string ConvertUrlStringToJsonString(std::string url_string);
     std::string ReadUrl(std::string url_string);
-    bool IsValidUrl(std::string url_string);
+    //bool IsValidUrl(std::string url_string);
 };
