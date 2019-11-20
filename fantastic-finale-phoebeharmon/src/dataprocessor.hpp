@@ -12,7 +12,7 @@
 #include <string>
 #include <curl/curl.h>
 #include <json.hpp>
-
+#include "item.hpp"
 
 #endif /* dataprocessor_hpp */
 
@@ -21,6 +21,7 @@ public:
     //std::string ConvertUrlStringToJsonString(std::string url_string);
     std::string ReadUrl(std::string url_string);
     nlohmann::json ConvertStringToJson(std::string json_string);
+    std::vector<Item> ConvertJsonToItems(nlohmann::json json_object);
 
     //bool IsValidUrl(std::string url_string);
 };

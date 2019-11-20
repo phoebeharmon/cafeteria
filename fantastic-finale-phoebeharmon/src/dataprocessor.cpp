@@ -47,3 +47,20 @@ size_t WriteFunction(void *ptr, size_t size, size_t nmemb, std::string* data) {
     
     return size * nmemb;
 }
+
+std::vector<Item> DataProcessor::ConvertJsonToItems(nlohmann::json json_object) {
+    nlohmann::json menu = json_object.at("Menus");
+    nlohmann::json items_json = menu.at("Item");
+    
+    std::vector<Item> items;
+    
+    for (nlohmann::json item_json : items_json) {
+        //std::cout << item << std::endl;
+        Item item;
+        item.formal_name = item_json.at("FormalName");
+        item.item_id = item_json.at("ItemID");
+        items.push_back(item);
+    }
+    
+    return items;
+}
