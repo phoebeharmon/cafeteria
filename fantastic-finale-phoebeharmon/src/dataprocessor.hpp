@@ -9,5 +9,13 @@
 #define dataprocessor_hpp
 
 #include <stdio.h>
+#include <string>
 
 #endif /* dataprocessor_hpp */
+
+class DataProcessor {
+public:
+    std::string ConvertUrlStringToJsonString(std::string url_string);
+    std::string ReadUrl(std::string url_string);
+    bool IsValidUrl(std::string url_string);
+};
