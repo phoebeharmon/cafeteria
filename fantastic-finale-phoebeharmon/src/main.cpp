@@ -22,6 +22,6 @@ int main( ){
     std::vector<Item> items = processor.ConvertJsonToItems(json_object);
     
     for (Item element : items) {
-        std::cout << element.formal_name << std::endl;
+        std::cout << element.formal_name << "\t" << element.item_id << std::endl;
     }
 }

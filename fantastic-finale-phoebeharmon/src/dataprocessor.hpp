@@ -9,7 +9,6 @@
 #define dataprocessor_hpp
 
 #include <stdio.h>
-#include <string>
 #include <curl/curl.h>
 #include <json.hpp>
 #include "item.hpp"
@@ -18,7 +17,6 @@
 
 class DataProcessor {
 public:
-    //std::string ConvertUrlStringToJsonString(std::string url_string);
     std::string ReadUrl(std::string url_string);
     nlohmann::json ConvertStringToJson(std::string json_string);
     std::vector<Item> ConvertJsonToItems(nlohmann::json json_object);
