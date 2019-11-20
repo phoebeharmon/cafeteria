@@ -1,7 +1,9 @@
 #include "ofMain.h"
 #include "ofApp.h"
 #include "dataprocessor.hpp"
+#include "item.hpp"
 #include <iostream>
+#include <vector>
 
 //========================================================================
 
@@ -15,6 +17,24 @@ int main( ){
 	//ofRunApp(new ofApp());
     std::string url_string = "https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=4&from=2019-11-20&to=2019-11-20";
     DataProcessor processor;
-    std::cout << processor.ReadUrl(url_string) << std::endl;
-    std::cout << processor.ConvertStringToJson(processor.ReadUrl(url_string));
+    nlohmann::json json_object = processor.ConvertStringToJson(processor.ReadUrl(url_string));
+    //std::cout << json_object;
+    nlohmann::json menu = json_object.at("Menus");
+    nlohmann::json items_json = menu.at("Item");
+    
+    std::vector<Item> items;
+    
+    for (nlohmann::json item_json : items_json) {
+        //std::cout << item << std::endl;
+        Item item;
+        item.formal_name = item_json.at("FormalName");
+        item.item_id = item_json.at("ItemID");
+        items.push_back(item);
+        //std::cout << item.formal_name << std::endl;
+        
+    }
+    
+    for (Item element : items) {
+        std::cout << element.formal_name << std::endl;
+    }
 }

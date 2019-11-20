@@ -10,6 +10,7 @@
 		106B9A6182DF98E835C09B47 /* ofxBaseGui.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BA20A4B3FEF378FA209B9E4E /* ofxBaseGui.cpp */; };
 		22B48FAC2384C6EA009D6066 /* dataprocessor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22B48FAA2384C6EA009D6066 /* dataprocessor.cpp */; };
 		22B48FAF2384E4F2009D6066 /* json.hpp in Frameworks */ = {isa = PBXBuildFile; fileRef = 22B48FAE2384E4F2009D6066 /* json.hpp */; };
+		22B48FB22384EB89009D6066 /* item.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22B48FB02384EB89009D6066 /* item.cpp */; };
 		413B65A0F41D699F37AB4C06 /* ofxSliderGroup.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 99B37C8367EB4811EEF8E78D /* ofxSliderGroup.cpp */; };
 		75E465AE7EDAD189B42B8D95 /* ofxInputField.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0C357D495FA2C612DDB38FC2 /* ofxInputField.cpp */; };
 		81BE400C35825643551A3190 /* ofxLabel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 73799D65360CD587DCAE90A0 /* ofxLabel.cpp */; };
@@ -41,6 +42,8 @@
 		22B48FAA2384C6EA009D6066 /* dataprocessor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dataprocessor.cpp; sourceTree = "<group>"; };
 		22B48FAB2384C6EA009D6066 /* dataprocessor.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = dataprocessor.hpp; sourceTree = "<group>"; };
 		22B48FAE2384E4F2009D6066 /* json.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = json.hpp; path = ../../../../../../Downloads/json.hpp; sourceTree = "<group>"; };
+		22B48FB02384EB89009D6066 /* item.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = item.cpp; sourceTree = "<group>"; };
+		22B48FB12384EB89009D6066 /* item.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = item.hpp; sourceTree = "<group>"; };
 		27CE0445D02D803853EC74E8 /* ofxPanel.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxPanel.cpp; path = ../../../../addons/ofxGui/src/ofxPanel.cpp; sourceTree = SOURCE_ROOT; };
 		44C0961009D36089EBA9C36F /* ofxGuiGroup.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxGuiGroup.h; path = ../../../../addons/ofxGui/src/ofxGuiGroup.h; sourceTree = SOURCE_ROOT; };
 		481083C90D96C0AAA580E194 /* ofxButton.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxButton.h; path = ../../../../addons/ofxGui/src/ofxButton.h; sourceTree = SOURCE_ROOT; };
@@ -620,6 +623,8 @@
 				E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */,
 				22B48FAA2384C6EA009D6066 /* dataprocessor.cpp */,
 				22B48FAB2384C6EA009D6066 /* dataprocessor.hpp */,
+				22B48FB02384EB89009D6066 /* item.cpp */,
+				22B48FB12384EB89009D6066 /* item.hpp */,
 			);
 			path = src;
 			sourceTree = SOURCE_ROOT;
@@ -724,6 +729,7 @@
 			files = (
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
 				E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */,
+				22B48FB22384EB89009D6066 /* item.cpp in Sources */,
 				106B9A6182DF98E835C09B47 /* ofxBaseGui.cpp in Sources */,
 				A61B54CA66E926867C59D2C6 /* ofxButton.cpp in Sources */,
 				CA7E31A02CAF4836F8551ADD /* ofxColorPicker.cpp in Sources */,
