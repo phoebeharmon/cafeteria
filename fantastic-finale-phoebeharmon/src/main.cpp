@@ -15,6 +15,7 @@ int main( ){
 	// pass in width and height too:
 	//ofRunApp(new ofApp());
     std::string url_string = "https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=4&from=2019-11-20&to=2019-11-20";
+    
     DataProcessor processor;
     nlohmann::json json_object = processor.ConvertStringToJson(processor.ReadUrl(url_string));
     
