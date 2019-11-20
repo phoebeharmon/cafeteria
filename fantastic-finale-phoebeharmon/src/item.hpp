@@ -16,5 +16,9 @@
 class Item {
 public:
     std::string formal_name;
+    std::string course;
+    std::string meal;
+    std::string ingredients;
     int item_id;
+    int dining_hall_id;
 };

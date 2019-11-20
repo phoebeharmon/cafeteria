@@ -14,7 +14,7 @@ int main( ){
 	// can be OF_WINDOW or OF_FULLSCREEN
 	// pass in width and height too:
 	//ofRunApp(new ofApp());
-    std::string url_string = "https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=4&from=2019-11-20&to=2019-11-20";
+    std::string url_string = "https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=1&from=2019-11-20&to=2019-11-20";
     
     DataProcessor processor;
     nlohmann::json json_object = processor.ConvertStringToJson(processor.ReadUrl(url_string));
@@ -22,6 +22,8 @@ int main( ){
     std::vector<Item> items = processor.ConvertJsonToItems(json_object);
     
     for (Item element : items) {
-        std::cout << element.formal_name << "\t" << element.item_id << std::endl;
+        std::cout << element.meal << "\t";
+        std::cout << element.course << "\t\t";
+        std::cout << element.formal_name << std::endl;
     }
 }

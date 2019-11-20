@@ -55,10 +55,14 @@ std::vector<Item> DataProcessor::ConvertJsonToItems(nlohmann::json json_object) 
     std::vector<Item> items;
     
     for (nlohmann::json item_json : items_json) {
-        //std::cout << item << std::endl;
         Item item;
         item.formal_name = item_json.at("FormalName");
         item.item_id = item_json.at("ItemID");
+        item.course = item_json.at("Course");
+        item.dining_hall_id = item_json.at("DiningOptionID");
+        item.ingredients = item_json.at("Traits");
+        item.meal = item_json.at("Meal");
+
         items.push_back(item);
     }
     
