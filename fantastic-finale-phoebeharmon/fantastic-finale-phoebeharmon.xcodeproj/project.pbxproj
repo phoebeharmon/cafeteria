@@ -14,6 +14,7 @@
 		22B48FBC2385F59F009D6066 /* catch.hpp in Frameworks */ = {isa = PBXBuildFile; fileRef = 22B48FBB2385F59F009D6066 /* catch.hpp */; };
 		22B48FD82385F9EA009D6066 /* testsuite.m in Sources */ = {isa = PBXBuildFile; fileRef = 22B48FD72385F9EA009D6066 /* testsuite.m */; };
 		22B48FE02385FE0A009D6066 /* json.hpp in Frameworks */ = {isa = PBXBuildFile; fileRef = 22B48FAE2384E4F2009D6066 /* json.hpp */; };
+		22B48FE423930B13009D6066 /* datecalculator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22B48FE223930B13009D6066 /* datecalculator.cpp */; };
 		413B65A0F41D699F37AB4C06 /* ofxSliderGroup.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 99B37C8367EB4811EEF8E78D /* ofxSliderGroup.cpp */; };
 		75E465AE7EDAD189B42B8D95 /* ofxInputField.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0C357D495FA2C612DDB38FC2 /* ofxInputField.cpp */; };
 		81BE400C35825643551A3190 /* ofxLabel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 73799D65360CD587DCAE90A0 /* ofxLabel.cpp */; };
@@ -61,6 +62,8 @@
 		22B48FD52385F9EA009D6066 /* testsuite.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testsuite.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22B48FD72385F9EA009D6066 /* testsuite.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testsuite.m; sourceTree = "<group>"; };
 		22B48FD92385F9EA009D6066 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22B48FE223930B13009D6066 /* datecalculator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = datecalculator.cpp; sourceTree = "<group>"; };
+		22B48FE323930B13009D6066 /* datecalculator.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = datecalculator.hpp; sourceTree = "<group>"; };
 		27CE0445D02D803853EC74E8 /* ofxPanel.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxPanel.cpp; path = ../../../../addons/ofxGui/src/ofxPanel.cpp; sourceTree = SOURCE_ROOT; };
 		44C0961009D36089EBA9C36F /* ofxGuiGroup.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxGuiGroup.h; path = ../../../../addons/ofxGui/src/ofxGuiGroup.h; sourceTree = SOURCE_ROOT; };
 		481083C90D96C0AAA580E194 /* ofxButton.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxButton.h; path = ../../../../addons/ofxGui/src/ofxButton.h; sourceTree = SOURCE_ROOT; };
@@ -663,6 +666,8 @@
 				22B48FAB2384C6EA009D6066 /* dataprocessor.hpp */,
 				22B48FB02384EB89009D6066 /* item.cpp */,
 				22B48FB12384EB89009D6066 /* item.hpp */,
+				22B48FE223930B13009D6066 /* datecalculator.cpp */,
+				22B48FE323930B13009D6066 /* datecalculator.hpp */,
 			);
 			path = src;
 			sourceTree = SOURCE_ROOT;
@@ -810,6 +815,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22B48FE423930B13009D6066 /* datecalculator.cpp in Sources */,
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
 				E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */,
 				22B48FB22384EB89009D6066 /* item.cpp in Sources */,
