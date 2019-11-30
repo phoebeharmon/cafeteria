@@ -25,7 +25,7 @@ int main( ){
     
     // Get date information
     DateCalculator calculator;
-    calculator.GetCurrentDate();
+    std::cout << calculator.GetWeekLaterDate(calculator.GetCurrentDate());
     
     
     // Convert url string to vector of Item objects

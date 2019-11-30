@@ -42,22 +42,25 @@ std::string DateCalculator::GetWeekLaterDate(std::vector<std::string> initial_da
     int initial_month = ConvertDateStringToInt(initial_date[1]);
     int initial_day = ConvertDateStringToInt(initial_date[2]);
     
-    
-    // Update day
-    // If initial_day + 6 > num of days in month, add one to month and update day
-    /*if (initial_day + 6 > month_num_of_days.at(initial_month)) {
-        
+    // Update date
+    int later_year = initial_year;
+    int later_month = initial_month;
+    int later_day = initial_day + 6;
+    int days_in_month = month_num_of_days.at(initial_month);
+
+    // Check for new month/year
+    if (later_day > days_in_month) {
+        later_day -= month_num_of_days.at(initial_month);
+        later_month ++;
+        if (later_month > kNumOfMonths) {
+            later_month = 1;
+            later_year ++;
+        }
     }
     
-    // Update month
+    std::string later_date = std::to_string(later_year) + "-" + std::to_string(later_month) + "-" + std::to_string(later_day);
     
-    // Update year
-    
-    if (months.at(month)[0] == '0') {
-        day = '0' + day;
-    }
-    std::string later_date = year + "-" + months.at(month) + "-" + day;
-    //std::cout << "date: " << url_date_one;*/
+    return later_date;
 }
 
 int DateCalculator::ConvertDateStringToInt(std::string date_string) {
