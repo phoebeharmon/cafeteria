@@ -1,11 +1,9 @@
 #include "ofMain.h"
 #include "ofApp.h"
 #include "dataprocessor.hpp"
+#include "datecalculator.hpp"
 #include <iostream>
 #include <vector>
-#include <ctime>
-#include <map>
-#include <sstream>
 
 //========================================================================
 
@@ -20,10 +18,15 @@ int main( ){
     //https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=1&from=2019-12-02&to=2019-12-02
     std::string url_base = "https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=";
     std::string url_id = "1";
-    //std::string url_date_one = "2019-12-02";
+    std::string url_date_one = "2019-12-02";
     std::string url_date_two = "2019-12-02";
     
     std::string url_string = url_base + url_id + "&from=" + url_date_one + "&to=" + url_date_two;
+    
+    // Get date information
+    DateCalculator calculator;
+    calculator.GetCurrentDate();
+    
     
     // Convert url string to vector of Item objects
     DataProcessor processor;
