@@ -18,8 +18,6 @@ int main( ){
     //https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=1&from=2019-12-02&to=2019-12-02
     std::string url_base = "https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=";
     std::string url_id = "1";
-    //std::string url_date_one = "2019-12-02";
-    //std::string url_date_two = "2019-12-02";
     
     // Get date information
     DateCalculator calculator;
@@ -27,6 +25,7 @@ int main( ){
     std::string url_date_one = date[0];
     std::string url_date_two = date[1];
     
+    // Build URL
     std::string url_string = url_base + url_id + "&from=" + url_date_one + "&to=" + url_date_two;
     std::cout << url_string;
     
