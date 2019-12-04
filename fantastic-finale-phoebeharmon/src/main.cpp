@@ -1,6 +1,7 @@
 #include "ofMain.h"
 #include "ofApp.h"
 #include "dataprocessor.hpp"
+#include "userprocessor.hpp"
 #include <iostream>
 #include <vector>
 
@@ -15,6 +16,11 @@ int main( ){
 	//ofRunApp(new ofApp());
         
     // Convert url string to vector of Item objects
+    
+    UserProcessor processor;
+    processor.GetUserInput();
+    
+    /*
     DataProcessor processor;
     std::string hall_id = "1";
     std::string url_string = processor.BuildUrl(hall_id);
@@ -26,5 +32,5 @@ int main( ){
         std::cout << element.meal << "\t";
         std::cout << element.course << "\t\t";
         std::cout << element.formal_name << std::endl;
-    }
+    }*/
 }
