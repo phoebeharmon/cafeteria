@@ -6,8 +6,22 @@
 //
 
 #include "dataprocessor.hpp"
+#include "datecalculator.hpp"
 #include <cstring>
 #include <iostream>
+
+std::string DataProcessor::BuildUrl(std::string hall_id) {
+    // Get date information
+    DateCalculator calculator;
+    std::vector<std::string> date = calculator.GetDates();
+    std::string url_date_one = date[0];
+    std::string url_date_two = date[1];
+    
+    std::string url_string = kUrlBase + hall_id + "&from=" + url_date_one + "&to=" + url_date_two;
+    
+    return url_string;
+}
+
 
 std::string DataProcessor::ReadUrl(std::string url_string) {
     // Start a libcurl easy session
