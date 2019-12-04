@@ -22,7 +22,6 @@ std::string DataProcessor::BuildUrl(std::string hall_id) {
     return url_string;
 }
 
-
 std::string DataProcessor::ReadUrl(std::string url_string) {
     // Start a libcurl easy session
     // Returns a CURL easy handle
@@ -62,12 +61,6 @@ nlohmann::json DataProcessor::ConvertStringToJson(std::string json_string) {
     return json_object;
 }
 
-size_t WriteFunction(void *ptr, size_t size, size_t nmemb, std::string* data) {
-    data->append((char*) ptr, size * nmemb);
-    
-    return size * nmemb;
-}
-
 std::vector<Item> DataProcessor::ConvertJsonToItems(nlohmann::json json_object) {
     nlohmann::json menu = json_object.at("Menus");
     nlohmann::json items_json = menu.at("Item");
@@ -87,4 +80,10 @@ std::vector<Item> DataProcessor::ConvertJsonToItems(nlohmann::json json_object) 
     }
     
     return items;
+}
+
+size_t WriteFunction(void *ptr, size_t size, size_t nmemb, std::string* data) {
+    data->append((char*) ptr, size * nmemb);
+    
+    return size * nmemb;
 }

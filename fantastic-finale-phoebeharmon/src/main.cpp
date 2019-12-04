@@ -1,12 +1,10 @@
 #include "ofMain.h"
 #include "ofApp.h"
 #include "dataprocessor.hpp"
-#include "datecalculator.hpp"
 #include <iostream>
 #include <vector>
 
 //========================================================================
-
 
 int main( ){
 	//ofSetupOpenGL(1024,768,OF_WINDOW);			// <-------- setup the GL context
@@ -15,9 +13,7 @@ int main( ){
 	// can be OF_WINDOW or OF_FULLSCREEN
 	// pass in width and height too:
 	//ofRunApp(new ofApp());
-    
-    //std::cout << url_string;
-    
+        
     // Convert url string to vector of Item objects
     DataProcessor processor;
     std::string hall_id = "1";
