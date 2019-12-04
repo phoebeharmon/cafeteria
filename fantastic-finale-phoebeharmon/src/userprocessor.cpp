@@ -27,6 +27,7 @@ void UserProcessor::GetUserInput() {
     }
     
     GetFavoriteDishes(dishes);
+    std::cout << "\nYour list of favorites:\n";
     for (std::string dish : favorite_dishes) {
         std::cout << dish << "\n";
     }
@@ -36,7 +37,6 @@ void UserProcessor::GetFavoriteDishes(std::vector<std::string> dishes) {
     std::cout << "\nEnter the names of your favorite dishes.\nEnter 'quit' when done.\n";
     std::string dish_choice;
     std::getline(std::cin, dish_choice);
-    std::cout << "dish 1:" << dish_choice;
 
     while (dish_choice != "quit") {
         if (CheckValidDish(dish_choice, dishes)) {
@@ -51,8 +51,13 @@ void UserProcessor::GetFavoriteDishes(std::vector<std::string> dishes) {
 }
 
 bool UserProcessor::CheckValidDish(std::string dish, std::vector<std::string> dishes) {
-    return (std::count(dishes.begin(), dishes.end(), dish)
+    if (favorite_dishes.size() == 0) {
+        return true;
+    }
+    else {
+        return (std::count(dishes.begin(), dishes.end(), dish)
             && !std::count(favorite_dishes.begin(), favorite_dishes.end(), dish));
+    }
 }
 
 std::vector<std::string> UserProcessor::GetDishes(int meal) {
