@@ -10,35 +10,45 @@
 void UserProcessor::GetUserInput() {
     std::cout << "Choose a number to see dish options.\n";
     std::cout << "1 - Breakfast\t2 - Lunch\t3 - Dinner\n";
+    std::cout << "Enter '0' when finished.\n";
     
     int meal_choice;
     std::cin >> meal_choice;
     
-    while (!CheckValidMeal(meal_choice)) {
-        std::cout << "Error with input. Try again.\n";
-        std::cout << "Choose a meal to see dish options.\n";
-        std::cout << "Breakfast\tLunch\tDinner\n";
+    while (meal_choice != 0) {
+        if (CheckValidMeal(meal_choice)) {
+            std::vector<std::string> dishes = GetDishes(meal_choice);
+            for (std::string dish : dishes) {
+                std::cout << dish << "\n";
+            }
+            
+            GetFavoriteDishes(dishes);
+            std::cout << "\nYour current list of favorites:\n";
+            for (std::string dish : favorite_dishes) {
+                std::cout << dish << "\n";
+            }
+        }
+        else {
+            std::cout << "Error with meal input. Try again.\n";
+            std::cout << "1 - Breakfast\t2 - Lunch\t3 - Dinner\t0 - Quit\n";
+        }
+        
+        std::cout << "1 - Breakfast\t2 - Lunch\t3 - Dinner\t0 - Quit\n";
         std::cin >> meal_choice;
     }
     
-    std::vector<std::string> dishes = GetDishes(meal_choice);
-    for (std::string dish : dishes) {
-        std::cout << dish << "\n";
-    }
-    
-    GetFavoriteDishes(dishes);
-    std::cout << "\nYour list of favorites:\n";
+    std::cout << "\nYour final list of favorites:\n";
     for (std::string dish : favorite_dishes) {
         std::cout << dish << "\n";
     }
 }
 
 void UserProcessor::GetFavoriteDishes(std::vector<std::string> dishes) {
-    std::cout << "\nEnter the names of your favorite dishes.\nEnter 'quit' when done.\n";
+    std::cout << "\nEnter the names of your favorite dishes.\nEnter 'done' when done.\n";
     std::string dish_choice;
     std::getline(std::cin, dish_choice);
 
-    while (dish_choice != "quit") {
+    while (dish_choice != "done") {
         if (CheckValidDish(dish_choice, dishes)) {
             favorite_dishes.push_back(dish_choice);
         }
