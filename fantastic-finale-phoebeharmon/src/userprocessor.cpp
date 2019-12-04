@@ -95,3 +95,7 @@ std::vector<std::string> UserProcessor::GetDishes(int meal) {
 bool UserProcessor::CheckValidMeal(int meal) {
     return (meal == 1 || meal == 2 || meal == 3);
 }
+
+std::vector<std::string> UserProcessor::GetFavoriteDishesVector() {
+    return favorite_dishes;
+}

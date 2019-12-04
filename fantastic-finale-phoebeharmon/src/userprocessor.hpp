@@ -24,6 +24,7 @@ public:
     bool CheckValidMeal(int meal);
     bool CheckValidDish(std::string dish, std::vector<std::string> dishes);
     void GetFavoriteDishes(std::vector<std::string> dishes);
+    std::vector<std::string> GetFavoriteDishesVector();
 private:
     std::map<int, std::vector<std::string>> meal_id{
         {1, {"Breakfast", "Continental Breakfast"}},
