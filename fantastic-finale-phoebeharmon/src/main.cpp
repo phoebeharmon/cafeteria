@@ -27,7 +27,7 @@ int main( ){
     
     // Build URL
     std::string url_string = url_base + url_id + "&from=" + url_date_one + "&to=" + url_date_two;
-    std::cout << url_string;
+    //std::cout << url_string;
     
     // Convert url string to vector of Item objects
     DataProcessor processor;

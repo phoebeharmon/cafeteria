@@ -31,8 +31,13 @@ std::vector<std::string> DateCalculator::GetCurrentDate() {
     std::string month = months.at(current_date.substr(4, 3));
     std::string day = current_date.substr(8, 2);
     std::string year = current_date.substr(20, 4);
+    
+    // Deal with single digit days
+    if (day.substr(0,1) == " ") {
+        day = day.substr(1,1);
+    }
+    
     std::vector<std::string> date = {year, month, day};
-    //std::cout << "\ndate: " << year << " " << month << " " << day;
     
     return date;
 }
