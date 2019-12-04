@@ -6,11 +6,9 @@
 //
 
 #include "userprocessor.hpp"
-#include "dataprocessor.hpp"
-#include <iostream>
 
 void UserProcessor::GetUserInput() {
-   std::cout << "Choose a number to see dish options.\n";
+    std::cout << "Choose a number to see dish options.\n";
     std::cout << "1 - Breakfast\t2 - Lunch\t3 - Dinner\n";
     
     int meal_choice;
@@ -23,20 +21,50 @@ void UserProcessor::GetUserInput() {
         std::cin >> meal_choice;
     }
     
-    std::cout << DisplayDishes(meal_choice);
+    std::vector<std::string> dishes = GetDishes(meal_choice);
+    for (std::string dish : dishes) {
+        std::cout << dish << "\n";
+    }
+    
+    GetFavoriteDishes(dishes);
+    for (std::string dish : favorite_dishes) {
+        std::cout << dish << "\n";
+    }
 }
 
-std::string UserProcessor::DisplayDishes(int meal) {
+void UserProcessor::GetFavoriteDishes(std::vector<std::string> dishes) {
+    std::cout << "\nEnter the names of your favorite dishes.\nEnter 'quit' when done.\n";
+    std::string dish_choice;
+    std::getline(std::cin, dish_choice);
+    std::cout << "dish 1:" << dish_choice;
+
+    while (dish_choice != "quit") {
+        if (CheckValidDish(dish_choice, dishes)) {
+            favorite_dishes.push_back(dish_choice);
+        }
+        else {
+            std::cout << "Error with input. Try again.\n";
+        }
+        
+        std::getline(std::cin, dish_choice);
+    }
+}
+
+bool UserProcessor::CheckValidDish(std::string dish, std::vector<std::string> dishes) {
+    return (std::count(dishes.begin(), dishes.end(), dish)
+            && !std::count(favorite_dishes.begin(), favorite_dishes.end(), dish));
+}
+
+std::vector<std::string> UserProcessor::GetDishes(int meal) {
     DataProcessor processor;
     std::string hall_id = "1";
     std::string url_string = processor.BuildUrl(hall_id);
     std::string url_content = processor.ReadUrl(url_string);
     nlohmann::json json_object = processor.ConvertStringToJson(url_content);
-    std::vector<Item> items = processor.ConvertJsonToItems(json_object);
+    items = processor.ConvertJsonToItems(json_object);
     
     std::vector<std::string> meal_name = meal_id.at(meal);
     std::vector<std::string> menu;
-    std::string menu_string;
     
     // Check for meal type and duplicates
     for (Item element : items) {
@@ -46,12 +74,7 @@ std::string UserProcessor::DisplayDishes(int meal) {
         }
     }
     
-    for (std::string dish : menu) {
-        menu_string.append(dish);
-        menu_string.append("\n");
-    }
-    
-    return menu_string;
+    return menu;
 }
 
 bool UserProcessor::CheckValidMeal(int meal) {
