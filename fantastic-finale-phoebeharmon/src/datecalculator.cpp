@@ -27,7 +27,6 @@ std::vector<std::string> DateCalculator::GetCurrentDate() {
     std::time_t current_time = std::time(0);
     std::string current_date = std::ctime(&current_time);
     
-    // Magic numbers???
     std::string month = months.at(current_date.substr(4, 3));
     std::string day = current_date.substr(8, 2);
     std::string year = current_date.substr(20, 4);

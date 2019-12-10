@@ -4,11 +4,11 @@
 void ofApp::setup(){
     UserProcessor processor;
     processor.GetUserInput();
-    std::vector<std::string> dishes = processor.GetFavoriteDishesVector();
+    std::vector<Item> dishes = processor.GetFavoriteDishesVector();
     output_message = "Your favorite dishes:\n";
 
-    for (std::string dish : dishes) {
-        output_message += dish + "\n";
+    for (Item dish : dishes) {
+        output_message += dish.formal_name + "\n";
         output_message.append("\n");
     }
     

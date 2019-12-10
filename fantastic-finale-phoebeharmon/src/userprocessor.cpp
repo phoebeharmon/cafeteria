@@ -17,15 +17,15 @@ void UserProcessor::GetUserInput() {
     
     while (meal_choice != 0) {
         if (CheckValidMeal(meal_choice)) {
-            std::vector<std::string> dishes = GetDishes(meal_choice);
-            for (std::string dish : dishes) {
-                std::cout << dish << "\n";
+            std::vector<Item> dishes = GetDishes(meal_choice);
+            for (Item dish : dishes) {
+                std::cout << dish.formal_name << "\n";
             }
             
             GetFavoriteDishes(dishes);
             std::cout << "\nYour current list of favorites:\n";
-            for (std::string dish : favorite_dishes) {
-                std::cout << dish << "\n";
+            for (Item dish : favorite_dishes) {
+                std::cout << dish.formal_name << "\n";
             }
         }
         else {
@@ -38,19 +38,19 @@ void UserProcessor::GetUserInput() {
     }
     
     std::cout << "\nYour final list of favorites:\n";
-    for (std::string dish : favorite_dishes) {
-        std::cout << dish << "\n";
+    for (Item dish : favorite_dishes) {
+        std::cout << dish.formal_name << "\n";
     }
 }
 
-void UserProcessor::GetFavoriteDishes(std::vector<std::string> dishes) {
+void UserProcessor::GetFavoriteDishes(std::vector<Item> dishes) {
     std::cout << "\nEnter the names of your favorite dishes.\nEnter 'done' when done.\n";
     std::string dish_choice;
     std::getline(std::cin, dish_choice);
 
     while (dish_choice != "done") {
-        if (CheckValidDish(dish_choice, dishes)) {
-            favorite_dishes.push_back(dish_choice);
+        if (CheckValidDish(dish_choice, dishes) && !CheckValidDish(dish_choice, favorite_dishes)) {
+            favorite_dishes.push_back(GetItem(dish_choice, dishes));
         }
         else {
             std::cout << "Error with input. Try again.\n";
@@ -60,17 +60,26 @@ void UserProcessor::GetFavoriteDishes(std::vector<std::string> dishes) {
     }
 }
 
-bool UserProcessor::CheckValidDish(std::string dish, std::vector<std::string> dishes) {
-    if (favorite_dishes.size() == 0) {
-        return true;
-    }
-    else {
-        return (std::count(dishes.begin(), dishes.end(), dish)
-            && !std::count(favorite_dishes.begin(), favorite_dishes.end(), dish));
+Item UserProcessor::GetItem(std::string dish, std::vector<Item> dishes) {
+    for (Item element : dishes) {
+        if (element.formal_name == dish) {
+            return element;
+        }
     }
 }
 
-std::vector<std::string> UserProcessor::GetDishes(int meal) {
+// check that it's in dishes, check that it's not already in favorite_dishes
+bool UserProcessor::CheckValidDish(std::string dish, std::vector<Item> dishes) {
+    for (Item element : dishes) {
+        if (element.formal_name == dish) {
+            return true;
+        }
+    }
+    
+    return false;
+}
+
+std::vector<Item> UserProcessor::GetDishes(int meal) {
     DataProcessor processor;
     std::string hall_id = "1";
     std::string url_string = processor.BuildUrl(hall_id);
@@ -79,23 +88,37 @@ std::vector<std::string> UserProcessor::GetDishes(int meal) {
     items = processor.ConvertJsonToItems(json_object);
     
     std::vector<std::string> meal_name = meal_id.at(meal);
-    std::vector<std::string> menu;
+    std::vector<Item> menu;
     
     // Check for meal type and duplicates
-    for (Item element : items) {
-        if (std::count(meal_name.begin(), meal_name.end(), element.meal)
-            && !std::count(menu.begin(), menu.end(), element.formal_name)) {
-            menu.push_back(element.formal_name);
+    for (Item dish : items) {
+        /*if (std::count(meal_name.begin(), meal_name.end(), dish.meal) > 0
+            && std::count(menu.begin(), menu.end(), dish) == 0) {
+            menu.push_back(dish);
+        }*/
+        if (CheckValidDishForMeal(dish.meal, meal_name) && !CheckValidDish(dish.formal_name, menu)) {
+            menu.push_back(dish);
         }
     }
     
     return menu;
 }
 
+// check that the dish is in the meal
+bool UserProcessor::CheckValidDishForMeal(std::string meal_name, std::vector<std::string> meals) {
+    for (std::string meal : meals) {
+        if (meal == meal_name) {
+            return true;
+        }
+    }
+    
+    return false;
+}
+
 bool UserProcessor::CheckValidMeal(int meal) {
     return (meal == 1 || meal == 2 || meal == 3);
 }
 
-std::vector<std::string> UserProcessor::GetFavoriteDishesVector() {
+std::vector<Item> UserProcessor::GetFavoriteDishesVector() {
     return favorite_dishes;
 }
