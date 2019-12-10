@@ -2,9 +2,9 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    UserProcessor processor;
-    processor.GetUserInput();
-    std::vector<Item> dishes = processor.GetFavoriteDishesVector();
+    UserProcessor user_processor;
+    user_processor.GetUserInput();
+    std::vector<Item> dishes = user_processor.GetFavoriteDishes();
     output_message = "Your favorite dishes:\n";
 
     for (Item dish : dishes) {

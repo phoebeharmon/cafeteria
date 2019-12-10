@@ -13,7 +13,7 @@
 #include <string>
 #include <iostream>
 
-std::vector<std::string> DateCalculator::GetDates() {
+std::vector<std::string> DateCalculator::GetWeekDatesRange() {
     std::vector<std::string> date_one_vector = GetCurrentDate();
     std::string date_one = ConvertDateVectorToString(date_one_vector);
     std::string date_two = GetWeekLaterDate(date_one_vector);

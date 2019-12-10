@@ -24,8 +24,8 @@ public:
     bool CheckValidMeal(int meal);
     bool CheckValidDish(std::string dish, std::vector<Item> dishes);
     Item GetItem(std::string dish, std::vector<Item> dishes);
-    void GetFavoriteDishes(std::vector<Item> dishes);
-    std::vector<Item> GetFavoriteDishesVector();
+    void RequestFavoriteDishes(std::vector<Item> dishes);
+    std::vector<Item> GetFavoriteDishes();
     bool CheckValidDishForMeal(std::string meal_name, std::vector<std::string> meals);
 private:
     std::map<int, std::vector<std::string>> meal_id{
