@@ -18,9 +18,14 @@
 class DataProcessor {
 public:
     /**
-           Builds URL string
+           Builds URL string for current week
         */
-    std::string BuildUrl(std::string hall_id);
+    std::string BuildUrlWeekOne(std::string hall_id);
+    
+    /**
+           Builds URL string for next week
+        */
+    std::string BuildUrlWeekTwo(std::string hall_id);
     
     /**
         Takes a URL in string form and returns the content of that website as a string

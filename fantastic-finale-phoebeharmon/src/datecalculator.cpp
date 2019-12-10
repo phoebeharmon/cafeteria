@@ -16,7 +16,7 @@
 std::vector<std::string> DateCalculator::GetWeekDatesRange() {
     std::vector<std::string> date_one_vector = GetCurrentDate();
     std::string date_one = ConvertDateVectorToString(date_one_vector);
-    std::string date_two = GetWeekLaterDate(date_one_vector);
+    std::string date_two = ConvertDateVectorToString(GetWeekLaterDate(date_one_vector));
     std::vector<std::string> dates = {date_one, date_two};
     
     return dates;
@@ -41,7 +41,7 @@ std::vector<std::string> DateCalculator::GetCurrentDate() {
     return date;
 }
 
-std::string DateCalculator::GetWeekLaterDate(std::vector<std::string> initial_date) {
+std::vector<std::string> DateCalculator::GetWeekLaterDate(std::vector<std::string> initial_date) {
     int initial_year = ConvertDateStringToInt(initial_date[0]);
     int initial_month = ConvertDateStringToInt(initial_date[1]);
     int initial_day = ConvertDateStringToInt(initial_date[2]);
@@ -62,7 +62,9 @@ std::string DateCalculator::GetWeekLaterDate(std::vector<std::string> initial_da
         }
     }
     
-    std::string later_date = std::to_string(later_year) + "-" + std::to_string(later_month) + "-" + std::to_string(later_day);
+    //std::vector<std::string> later_date = std::to_string(later_year) + "-" + std::to_string(later_month) + "-" + std::to_string(later_day);
+    
+    std::vector<std::string> later_date = {std::to_string(later_year), std::to_string(later_month), std::to_string(later_day)};
     
     return later_date;
 }

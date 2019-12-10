@@ -90,7 +90,7 @@ bool UserProcessor::CheckValidDish(std::string dish, std::vector<Item> dishes) {
 std::vector<Item> UserProcessor::GetDishes(int meal) {
     DataProcessor processor;
     std::string hall_id = "1";
-    std::string url_string = processor.BuildUrl(hall_id);
+    std::string url_string = processor.BuildUrlWeekOne(hall_id);
     std::string url_content = processor.ReadUrl(url_string);
     nlohmann::json json_object = processor.ConvertStringToJson(url_content);
     items = processor.ConvertJsonToItems(json_object);
