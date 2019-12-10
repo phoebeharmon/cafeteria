@@ -12,8 +12,6 @@
 #include <string>
 #include <map>
 #include <vector>
-#include "item.hpp"
-#include "dataprocessor.hpp"
 #include "userprocessor.hpp"
 #include "datecalculator.hpp"
 
