@@ -2,6 +2,7 @@
 
 #include "ofMain.h"
 #include "userprocessor.hpp"
+#include "favoritesprocessor.hpp"
 
 
 class ofApp : public ofBaseApp{

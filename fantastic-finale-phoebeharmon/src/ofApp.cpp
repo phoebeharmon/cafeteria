@@ -12,6 +12,14 @@ void ofApp::setup(){
         output_message.append("\n");
     }
     
+    FavoritesProcessor favorites_processor;
+    std::vector<Item> menu = favorites_processor.GetFutureMenu();
+    std::map<int, std::map<std::string, Item>> serving_info = favorites_processor.FindFavoritesInFutureMenu(menu);
+    std::string chart = favorites_processor.GetChart(serving_info);
+    
+    output_message.append("\n--------------Where to get your favorite dishes next week:-------------------\n");
+    output_message.append(chart);
+    
     ofBackground(254, 236, 255);
     //font.loadFont("verdana.ttf", 80);
 }
