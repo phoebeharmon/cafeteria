@@ -53,6 +53,25 @@ std::map<int, std::map<std::string, Item>> FavoritesProcessor::FindFavoritesInFu
     return favorites_serving_info;
 }
 
-std::string FavoritesProcessor::GetChart() {
+std::string FavoritesProcessor::GetChart(std::map<int, std::map<std::string, Item>> serving_info) {
+    std::string chart;
     
+    std::map<int, std::map<std::string, Item>>::iterator it;
+    std::map<std::string, Item>::iterator it_two;
+
+    
+    for (it = serving_info.begin(); it != serving_info.end(); it++)
+    {
+        int item_id = it->first;
+        std::map<std::string, Item> map_two = it->second;
+        
+        for (it_two = map_two.begin(); it_two != map_two.end(); it_two++) {
+            std::string date = it_two->first;
+            Item dish = it_two->second;
+            
+            chart.append(dish.formal_name + "\n\n");
+            chart.append(date + "\t" + dish.meal + "\t" + dining_hall_ids.at(dish.dining_hall_id) + "\n");
+        }
+    }
 }
+

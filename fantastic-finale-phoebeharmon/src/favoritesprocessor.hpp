@@ -33,7 +33,7 @@ public:
     /**
      Create a chart to neatly display the information about dishes/locations/times
      */
-    std::string GetChart();
+    std::string GetChart(std::map<int, std::map<std::string, Item>>);
 private:
     std::map<int, std::string> dining_hall_ids{{1, "Ikenberry"}, {2, ""}, {3, ""}, {4, ""}, {5, ""}, {6, ""}, {7, ""}, {8, ""}, {9, ""}, {10, ""}, {11, ""}, {12, ""}, {13, ""}, {14, ""}, {15, ""}, {16, ""}, {17, ""}, {18, ""}, {19, ""}, {20, ""}, {21, ""}};
     int kNumOfDiningHalls = 30;
