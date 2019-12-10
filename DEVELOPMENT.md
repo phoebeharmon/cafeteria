@@ -18,3 +18,15 @@
 **12/4/19**
 
 * Start implementing GUI
+
+**12/9/19**
+
+* Find locations and times for user's favorite dishes
+
+**12/10/19**
+
+* Display serving information
+
+**12/11/19**
+
+* Implement ofxGUI for all input and output
