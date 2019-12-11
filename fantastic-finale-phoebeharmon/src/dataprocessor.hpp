@@ -12,6 +12,7 @@
 #include <curl/curl.h>
 #include <json.hpp>
 #include "item.hpp"
+#include "datecalculator.hpp"
 
 #endif /* dataprocessor_hpp */
 
@@ -21,6 +22,9 @@ public:
            Builds URL string for current week
         */
     std::string BuildUrlWeekOne(std::string hall_id);
+    
+    std::string BuildUrlDay(std::string hall_id, std::string date);
+
     
     /**
            Builds URL string for next week
@@ -43,6 +47,7 @@ public:
     std::vector<Item> ConvertJsonToItems(nlohmann::json json_object);
 private:
     std::string kUrlBase = "https://web.housing.illinois.edu/MobileDining2/WebService/Search.aspx?t=json&k=7A828F94-620B-4EE3-A56F-328036CC3C04&id=";
+    std::string item_date;
 };
 
 size_t WriteFunction(void *ptr, size_t size, size_t nmemb, std::string* data);

@@ -6,7 +6,6 @@
 //
 
 #include "dataprocessor.hpp"
-#include "datecalculator.hpp"
 #include <cstring>
 #include <iostream>
 
@@ -22,11 +21,20 @@ std::string DataProcessor::BuildUrlWeekOne(std::string hall_id) {
     return url_string;
 }
 
+std::string DataProcessor::BuildUrlDay(std::string hall_id, std::string date) {
+    std::string url_string = kUrlBase + hall_id + "&from=" + date + "&to=" + date;
+    item_date = date;
+    
+    return url_string;
+}
+
 std::string DataProcessor::BuildUrlWeekTwo(std::string hall_id) {
     // Get date information
     DateCalculator calculator;
-    std::vector<std::string> date_one = calculator.GetCurrentDate();
+    std::vector<std::string> date_now = calculator.GetCurrentDate();
+    std::vector<std::string> date_one = calculator.GetWeekLaterDate(date_now);
     std::vector<std::string> date_two = calculator.GetWeekLaterDate(date_one);
+
 
     std::string url_date_one = calculator.ConvertDateVectorToString(date_one);
     std::string url_date_two = calculator.ConvertDateVectorToString(date_two);
@@ -79,6 +87,7 @@ std::vector<Item> DataProcessor::ConvertJsonToItems(nlohmann::json json_object) 
     nlohmann::json menu = json_object.at("Menus");
     nlohmann::json items_json = menu.at("Item");
     
+    DateCalculator calculator;
     std::vector<Item> items;
     
     for (nlohmann::json item_json : items_json) {
@@ -89,6 +98,7 @@ std::vector<Item> DataProcessor::ConvertJsonToItems(nlohmann::json json_object) 
         item.dining_hall_id = item_json.at("DiningOptionID");
         item.ingredients = item_json.at("Traits");
         item.meal = item_json.at("Meal");
+        item.date = item_date;
 
         items.push_back(item);
     }

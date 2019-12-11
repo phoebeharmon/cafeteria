@@ -19,6 +19,7 @@ public:
     std::string course;
     std::string meal;
     std::string ingredients;
+    std::string date;
     int item_id;
     int dining_hall_id;
 };

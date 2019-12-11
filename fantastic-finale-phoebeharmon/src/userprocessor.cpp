@@ -44,17 +44,14 @@ void UserProcessor::GetUserInput() {
 }
 
 void UserProcessor::RequestFavoriteDishes(std::vector<Item> dishes) {
-    int first_entry = 0;
     std::cout << "\nEnter the names of your favorite dishes.\nEnter 'done' when done." << std::endl;
     std::string dish_choice;
     // Get rid of extra whitespace when switching to std::getline from std::cin
     std::getline(std::cin >> std::ws, dish_choice);
 
     while (dish_choice != "done") {
-        if ((CheckValidDish(dish_choice, dishes)
-             && (!CheckValidDish(dish_choice, favorite_dishes) || first_entry > 1))) {
+        if ((CheckValidDish(dish_choice, dishes) && (!CheckValidDish(dish_choice, favorite_dishes)))) {
             favorite_dishes.push_back(GetItem(dish_choice, dishes));
-            first_entry ++;
         }
         else {
             std::cout << "Error with input. Try again.\n";
@@ -87,13 +84,45 @@ bool UserProcessor::CheckValidDish(std::string dish, std::vector<Item> dishes) {
     return false;
 }
 
-std::vector<Item> UserProcessor::GetDishes(int meal) {
+/*std::vector<Item> UserProcessor::GetDishes(int meal) {
     DataProcessor processor;
     std::string hall_id = "1";
     std::string url_string = processor.BuildUrlWeekOne(hall_id);
     std::string url_content = processor.ReadUrl(url_string);
     nlohmann::json json_object = processor.ConvertStringToJson(url_content);
     items = processor.ConvertJsonToItems(json_object);
+    
+    std::vector<std::string> meal_name = meal_id.at(meal);
+    std::vector<Item> menu;
+    
+    // Check for meal type and duplicates
+    for (Item dish : items) {
+        if (CheckValidDishForMeal(dish.meal, meal_name) && !CheckValidDish(dish.formal_name, menu)) {
+            menu.push_back(dish);
+        }
+    }
+    
+    return menu;
+}*/
+
+std::vector<Item> UserProcessor::GetDishes(int meal) {
+    DataProcessor processor;
+    std::string hall_id = "1";
+    DateCalculator calculator;
+    std::vector<std::string> dates = calculator.GetWeekDatesVector();
+    std::cout << "\nLoading";
+    
+    for (int day = 0; day < 7; day++) {
+        std::string url_string = processor.BuildUrlDay(hall_id, dates.at(day));
+        std::cout << ".";
+        std::string url_content = processor.ReadUrl(url_string);
+        nlohmann::json json_object = processor.ConvertStringToJson(url_content);
+        std::vector<Item> items_for_one_day = processor.ConvertJsonToItems(json_object);
+        
+        for (Item dish : items_for_one_day) {
+            items.push_back(dish);
+        }
+    }
     
     std::vector<std::string> meal_name = meal_id.at(meal);
     std::vector<Item> menu;

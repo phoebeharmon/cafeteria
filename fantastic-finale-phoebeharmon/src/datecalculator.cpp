@@ -22,6 +22,31 @@ std::vector<std::string> DateCalculator::GetWeekDatesRange() {
     return dates;
 }
 
+std::vector<std::string> DateCalculator::GetWeekDatesVector() {
+    std::vector<std::string> dates;
+    std::vector<std::string> date_now = GetCurrentDate();
+    for (int day = 0; day < 7; day++) {
+        dates.push_back(ConvertDateVectorToString(date_now));
+        std::vector<std::string> next_date = GetDayLaterDate(date_now);
+        date_now = next_date;
+    }
+    
+    return dates;
+}
+
+std::vector<std::string> DateCalculator::GetWeekLaterDatesVector() {
+    std::vector<std::string> dates;
+    std::vector<std::string> date_now = GetWeekLaterDate(GetCurrentDate());
+    
+   for (int day = 0; day < 7; day++) {
+        dates.push_back(ConvertDateVectorToString(date_now));
+        std::vector<std::string> next_date = GetDayLaterDate(date_now);
+        date_now = next_date;
+    }
+    
+    return dates;
+}
+
 std::vector<std::string> DateCalculator::GetCurrentDate() {
     // Get current date
     std::time_t current_time = std::time(0);
@@ -61,13 +86,38 @@ std::vector<std::string> DateCalculator::GetWeekLaterDate(std::vector<std::strin
             later_year ++;
         }
     }
-    
-    //std::vector<std::string> later_date = std::to_string(later_year) + "-" + std::to_string(later_month) + "-" + std::to_string(later_day);
-    
+        
     std::vector<std::string> later_date = {std::to_string(later_year), std::to_string(later_month), std::to_string(later_day)};
     
     return later_date;
 }
+
+std::vector<std::string> DateCalculator::GetDayLaterDate(std::vector<std::string> initial_date) {
+    int initial_year = ConvertDateStringToInt(initial_date[0]);
+    int initial_month = ConvertDateStringToInt(initial_date[1]);
+    int initial_day = ConvertDateStringToInt(initial_date[2]);
+    
+    // Update date
+    int later_year = initial_year;
+    int later_month = initial_month;
+    int later_day = initial_day + 1;
+    int days_in_month = month_num_of_days.at(initial_month);
+
+    // Check for new month/year
+    if (later_day > days_in_month) {
+        later_day -= month_num_of_days.at(initial_month);
+        later_month ++;
+        if (later_month > kNumOfMonths) {
+            later_month = 1;
+            later_year ++;
+        }
+    }
+        
+    std::vector<std::string> later_date = {std::to_string(later_year), std::to_string(later_month), std::to_string(later_day)};
+    
+    return later_date;
+}
+
 
 int DateCalculator::ConvertDateStringToInt(std::string date_string) {
     std::stringstream value(date_string);
