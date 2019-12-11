@@ -11,18 +11,20 @@ std::vector<Item> FavoritesProcessor::GetFutureMenu() {
     DataProcessor processor;
     std::vector<Item> menu;
     
-    for (int hall_id = 0; hall_id <= kNumOfDiningHalls; hall_id++) {
+    for (int hall_id = 1; hall_id <= kNumOfDiningHalls; hall_id++) {
         std::string hall_id_string = std::to_string(hall_id);
         std::string url_string = processor.BuildUrlWeekTwo(hall_id_string);
         std::string url_content = processor.ReadUrl(url_string);
-        nlohmann::json json_object = processor.ConvertStringToJson(url_content);
-        std::vector<Item> temp_menu = processor.ConvertJsonToItems(json_object);
-        
-        for (Item dish : temp_menu) {
-            menu.push_back(dish);
+        if (!url_content.empty()) {
+            nlohmann::json json_object = processor.ConvertStringToJson(url_content);
+            std::vector<Item> temp_menu = processor.ConvertJsonToItems(json_object);
+            
+            for (Item dish : temp_menu) {
+                menu.push_back(dish);
+            }
         }
     }
-    
+
     return menu;
 }
 
@@ -49,7 +51,7 @@ std::map<int, std::map<std::string, Item>> FavoritesProcessor::FindFavoritesInFu
             }
         }
     }
-    
+
     return favorites_serving_info;
 }
 
@@ -73,5 +75,7 @@ std::string FavoritesProcessor::GetChart(std::map<int, std::map<std::string, Ite
             chart.append(date + "\t" + dish.meal + "\t" + dining_hall_ids.at(dish.dining_hall_id) + "\n");
         }
     }
+
+    return chart;
 }
 
