@@ -9,37 +9,9 @@
 #include <cstring>
 #include <iostream>
 
-std::string DataProcessor::BuildUrlWeekOne(std::string hall_id) {
-    // Get date information
-    DateCalculator calculator;
-    std::vector<std::string> date = calculator.GetWeekDatesRange();
-    std::string url_date_one = date[0];
-    std::string url_date_two = date[1];
-    
-    std::string url_string = kUrlBase + hall_id + "&from=" + url_date_one + "&to=" + url_date_two;
-    
-    return url_string;
-}
-
 std::string DataProcessor::BuildUrlDay(std::string hall_id, std::string date) {
     std::string url_string = kUrlBase + hall_id + "&from=" + date + "&to=" + date;
     item_date = date;
-    
-    return url_string;
-}
-
-std::string DataProcessor::BuildUrlWeekTwo(std::string hall_id) {
-    // Get date information
-    DateCalculator calculator;
-    std::vector<std::string> date_now = calculator.GetCurrentDate();
-    std::vector<std::string> date_one = calculator.GetWeekLaterDate(date_now);
-    std::vector<std::string> date_two = calculator.GetWeekLaterDate(date_one);
-
-
-    std::string url_date_one = calculator.ConvertDateVectorToString(date_one);
-    std::string url_date_two = calculator.ConvertDateVectorToString(date_two);
-    
-    std::string url_string = kUrlBase + hall_id + "&from=" + url_date_one + "&to=" + url_date_two;
     
     return url_string;
 }

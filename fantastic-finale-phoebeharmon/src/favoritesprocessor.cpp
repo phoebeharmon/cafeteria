@@ -7,27 +7,6 @@
 
 #include "favoritesprocessor.hpp"
 
-/*std::vector<Item> FavoritesProcessor::GetFutureMenuByWeek() {
-    DataProcessor processor;
-    std::vector<Item> menu;
-    
-    for (int hall_id = 1; hall_id <= kNumOfDiningHalls; hall_id++) {
-        std::string hall_id_string = std::to_string(hall_id);
-        std::string url_string = processor.BuildUrlWeekTwo(hall_id_string);
-        std::string url_content = processor.ReadUrl(url_string);
-        if (!url_content.empty()) {
-            nlohmann::json json_object = processor.ConvertStringToJson(url_content);
-            std::vector<Item> temp_menu = processor.ConvertJsonToItems(json_object);
-            
-            for (Item dish : temp_menu) {
-                menu.push_back(dish);
-            }
-        }
-    }
-
-    return menu;
-}*/
-
 std::vector<Item> FavoritesProcessor::GetFutureMenu() {
     DataProcessor processor;
     std::vector<Item> menu;

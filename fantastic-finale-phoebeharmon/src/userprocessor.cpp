@@ -84,27 +84,6 @@ bool UserProcessor::CheckValidDish(std::string dish, std::vector<Item> dishes) {
     return false;
 }
 
-/*std::vector<Item> UserProcessor::GetDishes(int meal) {
-    DataProcessor processor;
-    std::string hall_id = "1";
-    std::string url_string = processor.BuildUrlWeekOne(hall_id);
-    std::string url_content = processor.ReadUrl(url_string);
-    nlohmann::json json_object = processor.ConvertStringToJson(url_content);
-    items = processor.ConvertJsonToItems(json_object);
-    
-    std::vector<std::string> meal_name = meal_id.at(meal);
-    std::vector<Item> menu;
-    
-    // Check for meal type and duplicates
-    for (Item dish : items) {
-        if (CheckValidDishForMeal(dish.meal, meal_name) && !CheckValidDish(dish.formal_name, menu)) {
-            menu.push_back(dish);
-        }
-    }
-    
-    return menu;
-}*/
-
 std::vector<Item> UserProcessor::GetDishes(int meal) {
     DataProcessor processor;
     std::string hall_id = "1";

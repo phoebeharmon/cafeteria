@@ -17,7 +17,6 @@
 class DateCalculator {
 public:
     std::vector<std::string> GetCurrentDate();
-    std::vector<std::string> GetWeekDatesRange();
     std::vector<std::string> GetWeekDatesVector();
     std::vector<std::string> GetWeekLaterDatesVector();
     std::vector<std::string> GetWeekLaterDate(std::vector<std::string> date);
