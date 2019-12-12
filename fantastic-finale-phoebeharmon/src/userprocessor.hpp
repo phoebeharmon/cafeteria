@@ -5,9 +5,6 @@
 //  Created by Phoebe Harmon on 12/3/19.
 //
 
-#ifndef userprocessor_hpp
-#define userprocessor_hpp
-
 #include <stdio.h>
 #include <string>
 #include <vector>
@@ -16,8 +13,6 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-
-#endif /* userprocessor_hpp */
 
 class UserProcessor {
 public:

@@ -1,3 +1,10 @@
+Lemon Curd
+Desserts
+Specialty Restaurant
+Eggs,Milk,Sulfites,Vegetarian,
+2019-12-17
+10866
+6
 Sweet Potato Toppings
 Toppings
 Dinner
@@ -5,17 +12,10 @@ Corn,Gelatin,Milk,Soy,
 2019-12-11
 7436
 1
-Banana Nut Muffin
-Breads
-Breakfast
-Corn,Eggs,Gluten,Milk,Red Dye,Soy,Tree Nuts,Vegetarian,Wheat,
-2019-12-12
-10345
-1
-Sticky Rice
-Starches
+Cobb Salad
+Salads & Salad Bar
 Lunch
-Vegan,Vegetarian,
-2019-12-11
-11017
-6
+Alcohol,Eggs,Milk,Pork,Sulfites,
+2019-12-17
+5593
+4

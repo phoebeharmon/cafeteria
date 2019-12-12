@@ -5,14 +5,9 @@
 //  Created by Phoebe Harmon on 11/30/19.
 //
 
-#ifndef datecalculator_hpp
-#define datecalculator_hpp
-
 #include <stdio.h>
 #include <string>
 #include <map>
-
-#endif /* datecalculator_hpp */
 
 class DateCalculator {
 public:

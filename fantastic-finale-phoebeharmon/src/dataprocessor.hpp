@@ -5,16 +5,11 @@
 //  Created by Phoebe Harmon on 11/19/19.
 //
 
-#ifndef dataprocessor_hpp
-#define dataprocessor_hpp
-
 #include <stdio.h>
 #include <curl/curl.h>
 #include <json.hpp>
 #include "item.hpp"
 #include "datecalculator.hpp"
-
-#endif /* dataprocessor_hpp */
 
 class DataProcessor {
 public:
