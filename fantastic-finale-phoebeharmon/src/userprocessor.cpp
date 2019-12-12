@@ -14,7 +14,7 @@ void UserProcessor::GetUserInput() {
     
     int meal_choice;
     std::cin >> meal_choice;
-    
+        
     while (meal_choice != 0) {
         if (CheckValidMeal(meal_choice)) {
             std::vector<Item> dishes = GetDishes(meal_choice);
@@ -48,6 +48,8 @@ void UserProcessor::RequestFavoriteDishes(std::vector<Item> dishes) {
     std::string dish_choice;
     // Get rid of extra whitespace when switching to std::getline from std::cin
     std::getline(std::cin >> std::ws, dish_choice);
+    //dish_choice = ofSystemTextBoxDialog("Enter dish: ");
+
 
     while (dish_choice != "done") {
         if ((CheckValidDish(dish_choice, dishes) && (!CheckValidDish(dish_choice, favorite_dishes)))) {
@@ -58,6 +60,8 @@ void UserProcessor::RequestFavoriteDishes(std::vector<Item> dishes) {
         }
         
         std::getline(std::cin, dish_choice);
+        //dish_choice = ofSystemTextBoxDialog("Enter dish: ");
+
     }
 }
 
@@ -91,15 +95,14 @@ std::vector<Item> UserProcessor::GetDishes(int meal) {
     std::vector<std::string> dates = calculator.GetWeekDatesVector();
     std::cout << "\nLoading";
     
-    for (int hall_id = 1; hall_id <= kNumOfDiningHalls; hall_id++) {
-        std::string hall_id_string = std::to_string(hall_id);
-    
-        for (int day = 0; day < 7; day++) {
+    for (int day = 0; day < 7; day++) {
+        for (int hall_id = 1; hall_id <= kNumOfDiningHalls; hall_id++) {
+            std::string hall_id_string = std::to_string(hall_id);
             std::string url_string = processor.BuildUrlDay(hall_id_string, dates.at(day));
             std::string url_content = processor.ReadUrl(url_string);
 
             //std::cout << ".";
-            std::cout << "\n" << url_string << "\n";
+            std::cout << ".";
             if (!url_content.empty()) {
                 nlohmann::json json_object = processor.ConvertStringToJson(url_content);
                 std::vector<Item> temp_items = processor.ConvertJsonToItems(json_object);
@@ -141,4 +144,23 @@ bool UserProcessor::CheckValidMeal(int meal) {
 
 std::vector<Item> UserProcessor::GetFavoriteDishes() {
     return favorite_dishes;
+}
+
+void SaveItemsToFile(std::vector<Item> items) {
+    DateCalculator calculator;
+    std::string date = calculator.ConvertDateVectorToString(calculator.GetCurrentDate());
+    std::ofstream file;
+    file.open(date);
+    
+    for (Item dish : items) {
+        file << std::to_string() << "\n";
+    }
+    
+    file.close();
+    
+    
+}
+
+void SaveFavoritesToFile(std::vector<Item> favorite_dishes) {
+    
 }

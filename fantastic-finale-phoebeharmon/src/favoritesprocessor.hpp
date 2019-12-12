@@ -32,6 +32,6 @@ public:
      */
     std::string GetChart(std::map<int, std::vector<Item>>);
 private:
-    std::map<int, std::string> dining_hall_ids{{1, "Ikenberry"}, {2, "PAR\t"}, {3, ""}, {4, "Busey-Evans"}, {5, "LAR\t"}, {6, "FAR\t"}, {7, "57 North\t"}, {8, "Cafeteria"}, {9, "Caffeinator"}, {10, "Cafeteria"}, {11, "Busey Bean & Green"}, {12, "Field of Greens"}, {13, "Cafeteria"}, {14, "Urbana South Market"}, {15, "Cafeteria"}, {16, "Cafeteria"}, {17, "Taste of Asia"}, {18, "Chomps\t"}, {19, ""}, {20, "Better Burger IKE"}, {21, "Cafeteria"}, {22, "FAR Out Pizza"}, {23, "Kosher Kitchen"}, {24, "Cafeteria"}, {25, "Cafeteria"}, {26, "ARC Ignite"}, {27, "Blue 41\t"}, {28, "Orange on Green"}, {29, "Cafeteria"}, {30, "Cafeteria"}};
-    int kNumOfDiningHalls = 30;
+    std::map<int, std::string> dining_hall_ids{{1, "Ikenberry"}, {2, "PAR\t"}, {3, "ISR\t"}, {4, "Busey-Evans"}, {5, "LAR\t"}, {6, "FAR\t"}, {7, "57 North\t"}, {8, "Cracked Egg"}, {9, "Caffeinator"}, {10, "La Cocina"}, {11, "Busey Bean & Green"}, {12, "Field of Greens"}, {13, "Leafy!\t"}, {14, "Urbana South Market"}, {15, "Cafeteria"}, {16, "Soul Ingredient"}, {17, "Taste of Asia"}, {18, "Chomps\t"}, {19, "Oodles\t"}, {20, "Better Burger IKE"}, {21, "Neo Soul\t"}, {22, "FAR Out Pizza"}, {23, "Kosher Kitchen"}, {24, "d i s h\t"}, {25, "Better Burger"}, {26, "ARC Ignite"}, {27, "Blue 41\t"}, {28, "Orange on Green"}};
+    int kNumOfDiningHalls = 28;
 };
