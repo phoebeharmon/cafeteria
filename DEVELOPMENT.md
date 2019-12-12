@@ -30,4 +30,5 @@
 **12/11/19**
 
 * Switch to using json for individual days instead of json for a whole week
-* Implement ofxGUI for all input and output
+* Enhance GUI output
+* Implement caching for all items and favorite items
