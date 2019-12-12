@@ -1,21 +1,21 @@
-Apple Pie Filling
-Desserts
-Specialty Restaurant
-Corn,Vegan,Vegetarian,
-2019-12-17
-984
-6
-Sliced Strawberries
-Fruits
-Specialty Restaurant
-Vegan,Vegetarian,
-2019-12-17
-483
-6
-Pepperoni Pizza
-Entrees
-Light Lunch
-Corn,Gluten,Milk,Pork,Soy,Wheat,
+Sweet Potato Toppings
+Toppings
+Dinner
+Corn,Gelatin,Milk,Soy,
 2019-12-11
-20902
+7436
 1
+Banana Nut Muffin
+Breads
+Breakfast
+Corn,Eggs,Gluten,Milk,Red Dye,Soy,Tree Nuts,Vegetarian,Wheat,
+2019-12-12
+10345
+1
+Sticky Rice
+Starches
+Lunch
+Vegan,Vegetarian,
+2019-12-11
+11017
+6

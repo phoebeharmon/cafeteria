@@ -6,3 +6,7 @@
 //
 
 #include "item.hpp"
+
+bool Item::operator< (const Item &other) const {
+    return formal_name < other.formal_name;
+}

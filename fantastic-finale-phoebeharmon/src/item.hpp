@@ -15,6 +15,7 @@
 
 class Item {
 public:
+    bool operator< (const Item &other) const;
     std::string formal_name;
     std::string course;
     std::string meal;

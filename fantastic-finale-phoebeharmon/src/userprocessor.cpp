@@ -91,7 +91,10 @@ std::vector<Item> UserProcessor::GetDishes(int meal) {
         }
     }
     
-    return items_unique;
+    std::vector<Item> items_unique_copy = items_unique;
+    std::sort(items_unique_copy.begin(), items_unique_copy.end());
+
+    return items_unique_copy;
 }
 
 // Check that the dish is in the meal
@@ -163,43 +166,44 @@ std::vector<Item> UserProcessor::LoadItemsFile() {
     if (!file) {
         file_contents = GetDishes(0);
     }
-
-    // Runs if there is still lines left in file and builds Item objects
-    while(!file.eof()) {
-        Item item;
-        
-        getline(file, line);
-        item.formal_name = line;
-        
-        getline(file, line);
-        item.course = line;
-        
-        getline(file, line);
-        item.meal = line;
-        
-        getline(file, line);
-        item.ingredients = line;
-        
-        getline(file, line);
-        item.date = line;
-        
-        getline(file, line);
-        std::string id_string = line;
-        std::stringstream stream(id_string);
-        int id = 0;
-        stream >> id;
-        item.item_id = id;
-        
-        getline(file, line);
-        std::string hall_string = line;
-        std::stringstream stream_two(hall_string);
-        int hall_id = 0;
-        stream_two >> hall_id;
-        item.dining_hall_id = hall_id;
-        
-        file_contents.push_back(item);
+    else {
+        // Runs if there is still lines left in file and builds Item objects
+        while(!file.eof()) {
+            Item item;
+            
+            getline(file, line);
+            item.formal_name = line;
+            
+            getline(file, line);
+            item.course = line;
+            
+            getline(file, line);
+            item.meal = line;
+            
+            getline(file, line);
+            item.ingredients = line;
+            
+            getline(file, line);
+            item.date = line;
+            
+            getline(file, line);
+            std::string id_string = line;
+            std::stringstream stream(id_string);
+            int id = 0;
+            stream >> id;
+            item.item_id = id;
+            
+            getline(file, line);
+            std::string hall_string = line;
+            std::stringstream stream_two(hall_string);
+            int hall_id = 0;
+            stream_two >> hall_id;
+            item.dining_hall_id = hall_id;
+            
+            file_contents.push_back(item);
+        }
     }
-
+    
     file.close();
 
     return file_contents;
