@@ -9,7 +9,6 @@ void ofApp::setup(){
 
     for (Item dish : favorites) {
         output_message += dish.formal_name + "\n";
-        output_message.append("\n");
     }
     
     FavoritesProcessor favorites_processor;
