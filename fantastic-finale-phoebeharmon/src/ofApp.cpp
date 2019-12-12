@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     UserProcessor user_processor;
-    user_processor.GetUserInput();
+    user_processor.HandleUserInput();
     std::vector<Item> favorites = user_processor.GetFavoriteDishes();
     output_message = "Your favorite dishes:\n";
 
@@ -34,7 +34,6 @@ void ofApp::update(){
 void ofApp::draw(){
     ofSetColor(0);
     font.drawString(output_message, 30, 30);
-    //ofDrawBitmapString(output_message, 150, 150);
 }
 
 //--------------------------------------------------------------

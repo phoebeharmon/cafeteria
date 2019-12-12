@@ -16,12 +16,39 @@
 
 class DateCalculator {
 public:
+    /**
+     Get current date in vector form {year, month, day}
+     */
     std::vector<std::string> GetCurrentDate();
+    
+    /**
+     Get a vector of the 7 dates in the current week
+     */
     std::vector<std::string> GetWeekDatesVector();
+    
+    /**
+     Get a vector of the 7 dates in the next week
+     */
     std::vector<std::string> GetWeekLaterDatesVector();
+    
+    /**
+     Get the date a week after given date
+     */
     std::vector<std::string> GetWeekLaterDate(std::vector<std::string> date);
+    
+    /**
+     Get the date a day after given date
+     */
     std::vector<std::string> GetDayLaterDate(std::vector<std::string> date);
+    
+    /**
+     Converts a string to an integer
+     */
     int ConvertDateStringToInt(std::string date);
+    
+    /**
+     Converts a date vector {year, month, day} to date string "year-month-day"
+     */
     std::string ConvertDateVectorToString(std::vector<std::string>);
 
 private:

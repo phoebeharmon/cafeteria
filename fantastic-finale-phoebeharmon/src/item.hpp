@@ -15,7 +15,11 @@
 
 class Item {
 public:
+    /**
+     Overloads < for Item by comparing the name of the dish
+     */
     bool operator< (const Item &other) const;
+    
     std::string formal_name;
     std::string course;
     std::string meal;

@@ -23,7 +23,7 @@ public:
     std::vector<Item> GetFutureMenu();
     
     /**
-    Determine the location and times that the user's favorite dishes will be served
+     Determine the location and times that the user's favorite dishes will be served
      */
     std::map<int, std::vector<Item>> FindFavoritesInFutureMenu(std::vector<Item> menu, std::vector<Item> favorites);
     

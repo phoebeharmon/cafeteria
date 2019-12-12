@@ -19,22 +19,22 @@
 class DataProcessor {
 public:
     /**
-        Builds URL string for a given date
+     Builds URL string for a given date
     */
     std::string BuildUrlDay(std::string hall_id, std::string date);
     
     /**
-        Takes a URL in string form and returns the content of that website as a string
+     Takes a URL in string form and returns the content of that website as a string
      */
     std::string ReadUrl(std::string url_string);
     
     /**
-        Takes a json string and converts it to a json object
+     Takes a json string and converts it to a json object
      */
     nlohmann::json ConvertStringToJson(std::string json_string);
     
     /**
-        Takes a json object and converts it to a vector of Item objects
+     Takes a json object and converts it to a vector of Item objects
      */
     std::vector<Item> ConvertJsonToItems(nlohmann::json json_object);
 private:

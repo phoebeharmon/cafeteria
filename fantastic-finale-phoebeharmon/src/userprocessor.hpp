@@ -21,17 +21,54 @@
 
 class UserProcessor {
 public:
-    void GetUserInput();
-    std::vector<Item> GetDishes(int meal);
-    bool CheckValidMeal(int meal);
+    /**
+     Call helper methods in order to display items as well as get and deal with user input
+     */
+    void HandleUserInput();
+    
+    /**
+     Return vector of all unique dishes
+     */
+    std::vector<Item> GetDishes();
+    
+    /**
+     Check that the given dish is not already in the given vector
+     */
     bool CheckValidDish(std::string dish, std::vector<Item> dishes);
+    
+    /**
+     Returns Item object corresponding to a name of a dish from a vector of Items
+     */
     Item GetItem(std::string dish, std::vector<Item> dishes);
+    
+    /**
+     Generate vector of favorite dishes based on user input
+     */
     void RequestFavoriteDishes(std::vector<Item> dishes);
+    
+    /**
+     Return vector of favorite dishes
+     */
     std::vector<Item> GetFavoriteDishes();
-    bool CheckValidDishForMeal(std::string meal_name, std::vector<std::string> meals);
+    
+    /**
+     Save information about all items into a file
+     */
     void SaveItemsToFile();
+    
+    /**
+     Save information about user's favorite items into a file
+     */
     void SaveFavoritesToFile();
+    
+    /**
+     Load a file with info about all items into a vector of Item objects
+     */
     std::vector<Item> LoadItemsFile();
+    
+    /**
+     Load a file with info about user's favorite items into a vector of Item objects
+     */
     void LoadFavoritesFile();
 
 private:

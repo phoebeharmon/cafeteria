@@ -6,12 +6,12 @@
 //
 
 #include "userprocessor.hpp"
-void UserProcessor::GetUserInput() {
+void UserProcessor::HandleUserInput() {
     std::cout << "All dish options:\n";
         
     items_unique = LoadItemsFile();
-    
     SaveItemsToFile();
+    
     for (Item dish : items_unique) {
         std::cout << dish.formal_name << "\n";
     }
@@ -60,7 +60,7 @@ bool UserProcessor::CheckValidDish(std::string dish, std::vector<Item> dishes) {
     return false;
 }
 
-std::vector<Item> UserProcessor::GetDishes(int meal) {
+std::vector<Item> UserProcessor::GetDishes() {
     DataProcessor processor;
     DateCalculator calculator;
     std::vector<std::string> dates = calculator.GetWeekDatesVector();
@@ -95,21 +95,6 @@ std::vector<Item> UserProcessor::GetDishes(int meal) {
     std::sort(items_unique_copy.begin(), items_unique_copy.end());
 
     return items_unique_copy;
-}
-
-// Check that the dish is in the meal
-bool UserProcessor::CheckValidDishForMeal(std::string meal_name, std::vector<std::string> meals) {
-    for (std::string meal : meals) {
-        if (meal == meal_name) {
-            return true;
-        }
-    }
-    
-    return false;
-}
-
-bool UserProcessor::CheckValidMeal(int meal) {
-    return (meal == 1 || meal == 2 || meal == 3);
 }
 
 std::vector<Item> UserProcessor::GetFavoriteDishes() {
@@ -164,7 +149,7 @@ std::vector<Item> UserProcessor::LoadItemsFile() {
             "/Users/phoebeharmon/Documents/of_v20191112_osx_release/apps/myApps/fantastic-finale-phoebeharmon/fantastic-finale-phoebeharmon/src/items.txt");
 
     if (!file) {
-        file_contents = GetDishes(0);
+        file_contents = GetDishes();
     }
     else {
         // Runs if there is still lines left in file and builds Item objects
