@@ -42,4 +42,7 @@ private:
     std::string item_date;
 };
 
+/**
+ Helper function for using libcurl library
+ */
 size_t WriteFunction(void *ptr, size_t size, size_t nmemb, std::string* data);

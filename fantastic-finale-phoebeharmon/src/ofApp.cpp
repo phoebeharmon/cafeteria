@@ -2,6 +2,7 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
+    // Deal with user input
     UserProcessor user_processor;
     user_processor.HandleUserInput();
     std::vector<Item> favorites = user_processor.GetFavoriteDishes();
@@ -11,6 +12,7 @@ void ofApp::setup(){
         output_message += dish.formal_name + "\n";
     }
     
+    // Determine serving locations of favorite dishes
     FavoritesProcessor favorites_processor;
     std::vector<Item> menu = favorites_processor.GetFutureMenu();
     std::map<int, std::vector<Item>> serving_info = favorites_processor.FindFavoritesInFutureMenu(menu, favorites);

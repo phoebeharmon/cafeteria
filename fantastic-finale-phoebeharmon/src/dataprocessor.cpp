@@ -58,8 +58,6 @@ nlohmann::json DataProcessor::ConvertStringToJson(std::string json_string) {
 std::vector<Item> DataProcessor::ConvertJsonToItems(nlohmann::json json_object) {
     nlohmann::json menu = json_object.at("Menus");
     nlohmann::json items_json = menu.at("Item");
-    
-    DateCalculator calculator;
     std::vector<Item> items;
     
     for (nlohmann::json item_json : items_json) {

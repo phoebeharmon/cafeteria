@@ -16,6 +16,7 @@
 std::vector<std::string> DateCalculator::GetWeekDatesVector() {
     std::vector<std::string> dates;
     std::vector<std::string> date_now = GetCurrentDate();
+    
     for (int day = 0; day < 7; day++) {
         dates.push_back(ConvertDateVectorToString(date_now));
         std::vector<std::string> next_date = GetDayLaterDate(date_now);
@@ -68,7 +69,7 @@ std::vector<std::string> DateCalculator::GetWeekLaterDate(std::vector<std::strin
     int later_day = initial_day + 6;
     int days_in_month = month_num_of_days.at(initial_month);
 
-    // Check for new month/year
+    // Check for new month and year
     if (later_day > days_in_month) {
         later_day -= month_num_of_days.at(initial_month);
         later_month ++;

@@ -12,14 +12,17 @@ std::vector<Item> FavoritesProcessor::GetFutureMenu() {
     std::vector<Item> menu;
     DateCalculator calculator;
     std::vector<std::string> dates = calculator.GetWeekLaterDatesVector();
-    std::cout << "\nLoading";
+    std::cout << "\nLoading...\n";
+    
+    // Build a URL for each day and each dining hall
     for (int day = 0; day < 7; day++) {
         for (int hall_id = 1; hall_id <= kNumOfDiningHalls; hall_id++) {
+            // Convert URL to vector of Item objects
             std::string hall_id_string = std::to_string(hall_id);
             std::string url_string = processor.BuildUrlDay(hall_id_string, dates.at(day));
-            std::cout << ".";
             std::string url_content = processor.ReadUrl(url_string);
             
+            // Ignore dining halls that aren't serving food that day
             if (!url_content.empty()) {
                 nlohmann::json json_object = processor.ConvertStringToJson(url_content);
                 std::vector<Item> temp_menu = processor.ConvertJsonToItems(json_object);
@@ -41,6 +44,7 @@ std::map<int, std::vector<Item>> FavoritesProcessor::FindFavoritesInFutureMenu(s
         favorites_serving_info.insert({dish.item_id, {}});
     }
     
+    // Add items to favorites_serving_info if they have the same ID as a favorite dish
     for (Item menu_dish : menu) {
         for (Item favorite_dish : favorites) {
             if (menu_dish.item_id == favorite_dish.item_id) {
@@ -54,9 +58,9 @@ std::map<int, std::vector<Item>> FavoritesProcessor::FindFavoritesInFutureMenu(s
 
 std::string FavoritesProcessor::GetChart(std::map<int, std::vector<Item>> serving_info) {
     std::string chart;
-    
     std::map<int, std::vector<Item>>::iterator it;
     
+    // Create string to display serving info (name of dish, date, location)
     for (it = serving_info.begin(); it != serving_info.end(); it++)
     {
         int item_id = it->first;
