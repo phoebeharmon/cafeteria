@@ -6,7 +6,7 @@
 //
 
 #include "userprocessor.hpp"
-
+/*
 void UserProcessor::GetUserInput() {
     std::cout << "Choose a number to see dish options.\n";
     std::cout << "1 - Breakfast\t2 - Lunch\t3 - Dinner\n";
@@ -37,6 +37,27 @@ void UserProcessor::GetUserInput() {
         std::cin >> meal_choice;
     }
     
+    std::cout << "\nYour final list of favorites:\n";
+    for (Item dish : favorite_dishes) {
+        std::cout << dish.formal_name << "\n";
+    }
+}
+*/
+void UserProcessor::GetUserInput() {
+    std::cout << "All dish options:\n";
+        
+    GetDishes(0);
+    SaveItemsToFile();
+    for (Item dish : items_unique) {
+        std::cout << dish.formal_name << "\n";
+    }
+    
+    RequestFavoriteDishes(items_unique);
+    std::cout << "\nYour current list of favorites:\n";
+    for (Item dish : favorite_dishes) {
+        std::cout << dish.formal_name << "\n";
+    }
+
     std::cout << "\nYour final list of favorites:\n";
     for (Item dish : favorite_dishes) {
         std::cout << dish.formal_name << "\n";
@@ -90,7 +111,6 @@ bool UserProcessor::CheckValidDish(std::string dish, std::vector<Item> dishes) {
 
 std::vector<Item> UserProcessor::GetDishes(int meal) {
     DataProcessor processor;
-    std::string hall_id = "1";
     DateCalculator calculator;
     std::vector<std::string> dates = calculator.GetWeekDatesVector();
     std::cout << "\nLoading";
@@ -108,23 +128,29 @@ std::vector<Item> UserProcessor::GetDishes(int meal) {
                 std::vector<Item> temp_items = processor.ConvertJsonToItems(json_object);
                 
                 for (Item dish : temp_items) {
-                    items.push_back(dish);
+                    items_repeat.push_back(dish);
                 }
             }
         }
     }
     
-    std::vector<std::string> meal_name = meal_id.at(meal);
-    std::vector<Item> menu;
+    //std::vector<std::string> meal_name = meal_id.at(meal);
+    //std::vector<Item> menu;
     
     // Check for meal type and duplicates
-    for (Item dish : items) {
+    /*for (Item dish : items_repeat) {
         if (CheckValidDishForMeal(dish.meal, meal_name) && !CheckValidDish(dish.formal_name, menu)) {
             menu.push_back(dish);
         }
+    }*/
+    
+    for (Item dish : items_repeat) {
+        if (!CheckValidDish(dish.formal_name, items_unique)) {
+            items_unique.push_back(dish);
+        }
     }
     
-    return menu;
+    return items_unique;
 }
 
 // check that the dish is in the meal
@@ -146,21 +172,26 @@ std::vector<Item> UserProcessor::GetFavoriteDishes() {
     return favorite_dishes;
 }
 
-void SaveItemsToFile(std::vector<Item> items) {
+void UserProcessor::SaveItemsToFile() {
     DateCalculator calculator;
     std::string date = calculator.ConvertDateVectorToString(calculator.GetCurrentDate());
     std::ofstream file;
-    file.open(date);
+    std::string file_name = "/Users/phoebeharmon/Documents/of_v20191112_osx_release/apps/myApps/fantastic-finale-phoebeharmon/fantastic-finale-phoebeharmon/src/items.txt";
+    file.open(file_name);
     
-    for (Item dish : items) {
-        file << std::to_string() << "\n";
+    for (Item dish : items_unique) {
+        file << dish.formal_name << "\n";
+        file << dish.course << "\n";
+        file << dish.meal << "\n";
+        file << dish.ingredients << "\n";
+        file << dish.date << "\n";
+        file << std::to_string(dish.item_id) << "\n";
+        file << std::to_string(dish.dining_hall_id) << "\n";
     }
     
     file.close();
-    
-    
 }
 
-void SaveFavoritesToFile(std::vector<Item> favorite_dishes) {
+void UserProcessor::SaveFavoritesToFile() {
     
 }

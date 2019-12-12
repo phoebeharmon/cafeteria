@@ -26,11 +26,6 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-        void buttonPressed();
-        ofxPanel gui;
-        ofxTextField textField, text, text2, text3;
-        ofxLabel label_meal;
-        ofxButton button_breakfast, button_lunch, button_dinner;
 
     private:
         std::string output_message;

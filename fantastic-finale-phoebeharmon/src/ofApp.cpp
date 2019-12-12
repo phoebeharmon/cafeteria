@@ -2,19 +2,6 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    //gui.setup();
-    /*gui.add(button_breakfast.setup("Breakfast"));
-    gui.add(button_lunch.setup("Lunch"));
-    gui.add(button_dinner.setup("Dinner"));
-    button_breakfast.addListener(this, &ofApp::buttonPressed);
-    //circleResolution.addListener(this, &ofApp::circleResolutionChanged);
-
-    //float height = 100.0;
-    //float width = 100.0;
-    //gui.add(label_meal.setup("Select meal", height, width));
-    //gui.add(textField.setup("textfield:", "your favorite dishes"));*/
-    
-    
     UserProcessor user_processor;
     user_processor.GetUserInput();
     std::vector<Item> favorites = user_processor.GetFavoriteDishes();
@@ -46,7 +33,7 @@ void ofApp::draw(){
     //gui.draw();
     //ofClear(0);
     ofSetColor(0);
-    ofSystemTextBoxDialog("Enter choice: ");
+    //ofSystemTextBoxDialog("Enter choice: ");
     /*
     ofDrawBitmapString("Select meal: ", 0, 0);
     if (button_breakfast) {
@@ -55,10 +42,6 @@ void ofApp::draw(){
     //font.drawString(output_message, 150, 150);
     ofDrawBitmapString(output_message, 150, 150);
 
-}
-
-//--------------------------------------------------------------
-void ofApp::buttonPressed(){
 }
 
 //--------------------------------------------------------------

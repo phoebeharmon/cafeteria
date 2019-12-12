@@ -28,14 +28,15 @@ public:
     void RequestFavoriteDishes(std::vector<Item> dishes);
     std::vector<Item> GetFavoriteDishes();
     bool CheckValidDishForMeal(std::string meal_name, std::vector<std::string> meals);
-    void SaveItemsToFile(std::vector<Item> items);
-    void SaveFavoritesToFile(std::vector<Item> favorite_dishes);
+    void SaveItemsToFile();
+    void SaveFavoritesToFile();
 private:
     std::map<int, std::vector<std::string>> meal_id{
         {1, {"Breakfast", "Continental Breakfast"}},
         {2, {"Lunch", "Light Lunch"}},
         {3, {"Dinner", "After Dark Late Dinner"}}};
     std::vector<Item> favorite_dishes;
-    std::vector<Item> items;
+    std::vector<Item> items_repeat;
+    std::vector<Item> items_unique;
     int kNumOfDiningHalls = 28;
 };
