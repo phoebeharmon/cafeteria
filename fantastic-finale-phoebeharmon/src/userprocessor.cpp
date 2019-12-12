@@ -193,5 +193,19 @@ void UserProcessor::SaveItemsToFile() {
 }
 
 void UserProcessor::SaveFavoritesToFile() {
+    std::ofstream file;
+    std::string file_name = "/Users/phoebeharmon/Documents/of_v20191112_osx_release/apps/myApps/fantastic-finale-phoebeharmon/fantastic-finale-phoebeharmon/src/favorites.txt";
+    file.open(file_name);
     
+    for (Item dish : favorite_dishes) {
+        file << dish.formal_name << "\n";
+        file << dish.course << "\n";
+        file << dish.meal << "\n";
+        file << dish.ingredients << "\n";
+        file << dish.date << "\n";
+        file << std::to_string(dish.item_id) << "\n";
+        file << std::to_string(dish.dining_hall_id) << "\n";
+    }
+    
+    file.close();
 }
