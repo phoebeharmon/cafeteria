@@ -91,15 +91,23 @@ std::vector<Item> UserProcessor::GetDishes(int meal) {
     std::vector<std::string> dates = calculator.GetWeekDatesVector();
     std::cout << "\nLoading";
     
-    for (int day = 0; day < 7; day++) {
-        std::string url_string = processor.BuildUrlDay(hall_id, dates.at(day));
-        std::cout << ".";
-        std::string url_content = processor.ReadUrl(url_string);
-        nlohmann::json json_object = processor.ConvertStringToJson(url_content);
-        std::vector<Item> items_for_one_day = processor.ConvertJsonToItems(json_object);
-        
-        for (Item dish : items_for_one_day) {
-            items.push_back(dish);
+    for (int hall_id = 1; hall_id <= kNumOfDiningHalls; hall_id++) {
+        std::string hall_id_string = std::to_string(hall_id);
+    
+        for (int day = 0; day < 7; day++) {
+            std::string url_string = processor.BuildUrlDay(hall_id_string, dates.at(day));
+            std::string url_content = processor.ReadUrl(url_string);
+
+            //std::cout << ".";
+            std::cout << "\n" << url_string << "\n";
+            if (!url_content.empty()) {
+                nlohmann::json json_object = processor.ConvertStringToJson(url_content);
+                std::vector<Item> temp_items = processor.ConvertJsonToItems(json_object);
+                
+                for (Item dish : temp_items) {
+                    items.push_back(dish);
+                }
+            }
         }
     }
     

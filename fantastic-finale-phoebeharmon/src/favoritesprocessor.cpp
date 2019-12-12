@@ -65,10 +65,12 @@ std::string FavoritesProcessor::GetChart(std::map<int, std::vector<Item>> servin
     {
         int item_id = it->first;
         std::vector<Item> dishes = it->second;
-        chart.append("\n\n" + dishes.at(0).formal_name + "\n");
-        
-        for (Item serving : dishes) {
-            chart.append(serving.date + "\t" + dining_hall_ids.at(serving.dining_hall_id) + "\t" + serving.meal + "\n");
+        if (!dishes.empty()) {
+            chart.append("\n\n" + dishes.at(0).formal_name + "\n");
+            
+            for (Item serving : dishes) {
+                chart.append(serving.date + "\t" + dining_hall_ids.at(serving.dining_hall_id) + "\t" + serving.meal + "\n");
+            }
         }
     }
 

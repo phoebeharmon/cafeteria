@@ -34,4 +34,5 @@ private:
         {3, {"Dinner", "After Dark Late Dinner"}}};
     std::vector<Item> favorite_dishes;
     std::vector<Item> items;
+    int kNumOfDiningHalls = 30;
 };
