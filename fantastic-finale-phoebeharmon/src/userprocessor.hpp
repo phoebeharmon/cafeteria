@@ -15,6 +15,7 @@
 #include "dataprocessor.hpp"
 #include <iostream>
 #include <fstream>
+#include <sstream>
 
 #endif /* userprocessor_hpp */
 
@@ -30,13 +31,15 @@ public:
     bool CheckValidDishForMeal(std::string meal_name, std::vector<std::string> meals);
     void SaveItemsToFile();
     void SaveFavoritesToFile();
+    std::vector<Item> LoadItemsFile();
+    void LoadFavoritesFile();
+
 private:
     std::map<int, std::vector<std::string>> meal_id{
         {1, {"Breakfast", "Continental Breakfast"}},
         {2, {"Lunch", "Light Lunch"}},
         {3, {"Dinner", "After Dark Late Dinner"}}};
     std::vector<Item> favorite_dishes;
-    std::vector<Item> items_repeat;
     std::vector<Item> items_unique;
     int kNumOfDiningHalls = 28;
 };
