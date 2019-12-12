@@ -31,4 +31,5 @@
 
 * Switch to using json for individual days instead of json for a whole week
 * Enhance GUI output
+* Order displays alphabetically
 * Implement caching for all items and favorite items
