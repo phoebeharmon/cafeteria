@@ -16,11 +16,13 @@ void ofApp::setup(){
     std::map<int, std::vector<Item>> serving_info = favorites_processor.FindFavoritesInFutureMenu(menu, favorites);
     std::string chart = favorites_processor.GetChart(serving_info);
     
-    output_message.append("\n--------------Where to get your favorite dishes next week:-------------------\n");
+    output_message.append("\n-----------------------------------------------------\n");
+    output_message.append("Where to get your favorite dishes next week\n");
+    output_message.append("-----------------------------------------------------\n");
     output_message.append(chart);
     
-    ofBackground(254, 236, 255);
-    //ofBackground(254, 236, 255);
+    ofBackground(173, 237, 222);
+    font.load("Zekton.ttf", 14);
 }
 
 //--------------------------------------------------------------
@@ -30,18 +32,9 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    //gui.draw();
-    //ofClear(0);
     ofSetColor(0);
-    //ofSystemTextBoxDialog("Enter choice: ");
-    /*
-    ofDrawBitmapString("Select meal: ", 0, 0);
-    if (button_breakfast) {
-        ofDrawBitmapString("The breakfast dishes: ", 150, 150);
-    }*/
-    //font.drawString(output_message, 150, 150);
-    ofDrawBitmapString(output_message, 150, 150);
-
+    font.drawString(output_message, 30, 30);
+    //ofDrawBitmapString(output_message, 150, 150);
 }
 
 //--------------------------------------------------------------

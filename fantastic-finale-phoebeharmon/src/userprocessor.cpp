@@ -22,7 +22,7 @@ void UserProcessor::GetUserInput() {
 void UserProcessor::RequestFavoriteDishes(std::vector<Item> dishes) {
     std::cout << "\nEnter the names of your favorite dishes.\nEnter 'done' when done." << std::endl;
     std::string dish_choice;
-    // Get rid of extra whitespace when switching to std::getline from std::cin
+    // Gets rid of extra whitespace for switching to std::getline from std::cin
     std::getline(std::cin >> std::ws, dish_choice);
 
 
@@ -49,7 +49,7 @@ Item UserProcessor::GetItem(std::string dish, std::vector<Item> dishes) {
     }
 }
 
-// check that it's in dishes, check that it's not already in favorite_dishes
+// Check that it's in dishes, check that it's not already in favorite_dishes
 bool UserProcessor::CheckValidDish(std::string dish, std::vector<Item> dishes) {
     for (Item element : dishes) {
         if (element.formal_name == dish) {
