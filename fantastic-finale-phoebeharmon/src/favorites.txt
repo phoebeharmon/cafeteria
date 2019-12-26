@@ -1,17 +1,10 @@
-Lemon Curd
-Desserts
-Specialty Restaurant
-Eggs,Milk,Sulfites,Vegetarian,
-2019-12-17
-10866
-6
 Sweet Potato Toppings
 Toppings
 Dinner
 Corn,Gelatin,Milk,Soy,
-2019-12-11
+2019-12-16
 7436
-1
+5
 Cobb Salad
 Salads & Salad Bar
 Lunch
@@ -19,3 +12,10 @@ Alcohol,Eggs,Milk,Pork,Sulfites,
 2019-12-17
 5593
 4
+Udon Noodles
+Starches
+Lunch
+Corn,Gluten,Vegan,Vegetarian,Wheat,
+2019-12-12
+17117
+2

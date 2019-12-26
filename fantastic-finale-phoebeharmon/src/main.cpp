@@ -1,6 +1,5 @@
 #include "ofMain.h"
 #include "ofApp.h"
-//#include "userprocessor.hpp"
 #include <iostream>
 #include <vector>
 

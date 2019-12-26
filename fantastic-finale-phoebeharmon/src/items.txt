@@ -9,49 +9,49 @@ Dinner
 Entrees
 Dinner
 Soy,
-2019-12-11
+2019-12-12
 11632
 1
 12" Flour Tortilla
 Breads
 Daily Menu
 Corn,Gluten,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 1629
 14
 12oz Ribeye Steak
 Entrees
 Dinner
-Soy,
-2019-12-11
-10826
+
+2019-12-12
+1368
 1
 14" Cheese Pizza
 Entrees
 Specialty Restaurant
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-16
 17966
 6
 3pc Chicken Tenders
 Entrees
 Daily Menu
 Corn,Eggs,Gelatin,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 17296
 7
 4" French Rolls
 Breads
-Dinner
+Lunch
 Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 19368
 5
 5pc Chicken Tenders
 Entrees
 Daily Menu
 Corn,Eggs,Gelatin,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 19809
 18
 6" Flour Tortilla
@@ -72,37 +72,30 @@ Soy,
 Entrees
 Specialty Restaurant
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-16
 17964
 6
 7" Pepperoni Pizza
 ALC Daily Specials
 Daily Menu
 Corn,Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
+2019-12-12
 20056
 18
 7" Sausage Pizza
 ALC Daily Specials
 Daily Menu
 Corn,Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
+2019-12-12
 20057
 18
 7-inch Cheese Pizza
 Entrees
 Daily Menu
 Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 5657
 14
-8" Flour Tortillas
-Breads
-Kosher Lunch
-Corn,Gluten,Kosher,Soy,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
-18580
-5
 9-Grain Bread
 Breads
 Lunch
@@ -117,62 +110,48 @@ Eggs,Milk,Soy,Vegetarian,
 2019-12-17
 17821
 1
-Acai Puree
-Entrees
-Midnight Breakfast
-Vegan,Vegetarian,
-2019-12-11
-17684
-5
 Alfredo Sauce
 Sauces
-Specialty Restaurant
+Dinner
 Gluten,Milk,Sulfites,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 4582
-6
+1
 All-Beef Eisenberg Hot Dog
 Entrees
 Lunch
 Soy,
-2019-12-11
+2019-12-17
 3389
-2
+1
 All-Beef Hot Dog
 Entrees
 Daily Menu
 Corn,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-12
 17173
 7
 Almond Croissant
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Gluten,Milk,Tree Nuts,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 12234
 9
-Almond Danish
-Desserts
-Midnight Breakfast
-Corn,Eggs,Gluten,Milk,Soy,Tree Nuts,Vegetarian,Wheat,
-2019-12-11
-13524
-1
 Almond Macaron
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Milk,Soy,Tree Nuts,
-2019-12-11
+2019-12-12
 19763
 9
 American Cheese Slice
 Cheeses
 Lunch
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 89
-1
+2
 American Fried Potatoes
 Starches
 Lunch
@@ -194,13 +173,6 @@ Alcohol,Corn,Gluten,Milk,Sulfites,Vegetarian,Wheat,
 2019-12-17
 15710
 5
-Andes Chocolate Mint Pie
-Desserts
-Dinner
-Coconut,Corn,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
-2019-12-11
-8476
-1
 Apple Crisp
 Desserts
 Dinner
@@ -208,18 +180,18 @@ Gluten,Vegan,Vegetarian,Wheat,
 2019-12-12
 17340
 1
-Apple Croissant
+Apple Crumble Bar
 Desserts
-Midnight Breakfast
-Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-12232
-1
+Lunch
+Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
+2019-12-18
+13981
+5
 Apple Danish
 Desserts
-Midnight Breakfast
+Breakfast
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 13525
 1
 Apple Pie
@@ -240,7 +212,7 @@ Apple Turnovers
 ALC Daily Specials
 Daily Menu
 Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 9753
 11
 Apple and Wild Rice Salad
@@ -268,14 +240,14 @@ Artichoke Hearts
 Vegetables
 Lunch
 Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 292
 2
 Asian Garlic Chili Sauce
 Sauces
 Lunch
 Corn,Gluten,Sesame,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 1587
 2
 Asparagus Cuts & Tips
@@ -289,7 +261,7 @@ Assorted Cake Pops
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Gluten,Milk,Red Dye,Soy,Wheat,
-2019-12-11
+2019-12-12
 19154
 11
 Assorted Cheesecakes
@@ -303,7 +275,7 @@ Assorted Cookies (contains peanuts)
 Desserts
 After Dark Late Dinner
 Coconut,Eggs,Gluten,Milk,Peanuts,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 7998
 2
 Assorted Danish
@@ -317,21 +289,21 @@ Assorted Danishes
 Breads
 Breakfast
 Corn,Eggs,Gluten,Milk,Soy,Tree Nuts,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 4236
 2
 Assorted Dinner Rolls
 Breads
-Kosher Dinner
+Dinner
 Gluten,Sesame,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
-9430
+2019-12-13
+4631
 5
 Assorted Donuts
 Breads
 Breakfast
 Coconut,Corn,Eggs,Gelatin,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 3965
 2
 Assorted Fruit Scones
@@ -341,34 +313,20 @@ Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-13
 9579
 5
-Assorted Mini Danishes
+Assorted Muffins
 Breads
 Breakfast
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-7709
-5
-Assorted Muffins
-Breads
-Continental Breakfast
-Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-5606
+2019-12-12
+927
 2
 Avocado Halves
 Vegetables
 Daily Menu
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 1661
 14
-Avocado Toast Bar
-Appetizers & Sides
-Midnight Breakfast
-Corn,Eggs,Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
-19374
-5
 Award-Winning Zucchini Quinoa Lasagna
 Entrees
 Lunch
@@ -390,13 +348,13 @@ Corn,Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
 2019-12-17
 15817
 1
-BBQ Chicken Pizza
+BBQ Chicken Breast
 Entrees
-Dinner
-Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
-7005
-1
+Lunch
+Corn,
+2019-12-18
+8154
+4
 BBQ Pork Rib Tips
 Entrees
 Lunch
@@ -418,13 +376,13 @@ Corn,Pork,
 2019-12-17
 17228
 2
-BBQ Rubbed Smoked Chicken
+BBQ Pulled Pork Sandwich
 Entrees
-Specialty Restaurant
-
-2019-12-16
-18398
-24
+Lunch
+Corn,Gluten,Pork,Soy,Wheat,
+2019-12-18
+5639
+6
 BBQ Sauce
 Sauces
 After Dark Late Dinner
@@ -432,53 +390,46 @@ Corn,
 2019-12-14
 7474
 2
-BLT Salad
-Salads & Salad Bar
-Lunch
-Corn,Eggs,Gluten,Pork,Soy,Wheat,
-2019-12-11
-14583
-6
 Baby Carrots
 Vegetables
-Dinner
+Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-15
 14469
-1
+2
 Baby Corn
 Vegetables
 Lunch
 Corn,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 7853
 2
 Baby Spinach
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6885
 2
 Bacon
 Entrees
 Dinner
 Pork,
-2019-12-11
+2019-12-12
 1492
 1
 Bacon Bits
-Toppings
-Light Lunch
+Proteins
+After Dark Late Dinner
 Corn,Pork,
-2019-12-11
+2019-12-12
 339
-1
+2
 Bacon Cheddar Panini on RosemaryFocaccia
 ALC Daily Specials
 Daily Menu
 Corn,Gluten,Milk,Pork,Wheat,
-2019-12-11
+2019-12-12
 20039
 9
 Bacon Cheeseburger Pizza
@@ -492,30 +443,16 @@ Bacon Egg & Cheese Croissant
 Entrees
 Daily Menu
 Eggs,Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
+2019-12-12
 19143
 14
 Bacon Egg and Cheese Breakfast Pizza
 Entrees
-Midnight Breakfast
+After Dark Late Dinner
 Corn,Eggs,Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
+2019-12-12
 12593
-1
-Bacon Tomato Onion Pizza
-Entrees
-Lunch
-Corn,Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
-10466
 2
-Bagel Bar
-Breads
-Midnight Breakfast
-Alcohol,Corn,Gluten,Milk,Red Dye,Sesame,Soy,Sulfites,Vegetarian,Wheat,
-2019-12-11
-4918
-5
 Baked Beans
 Vegetables
 Kosher Dinner
@@ -544,6 +481,13 @@ Dinner
 2019-12-16
 17611
 2
+Baked Potato and Pea Samosas
+Appetizers & Sides
+Dinner
+Gluten,Vegan,Vegetarian,Wheat,
+2019-12-18
+18888
+1
 Baked Potatoes
 Starches
 Dinner
@@ -551,13 +495,6 @@ Vegan,Vegetarian,
 2019-12-12
 3180
 4
-Baked Sweet Potato
-Starches
-Dinner
-Vegan,Vegetarian,
-2019-12-11
-6211
-1
 Baked Sweet Potato Falafel
 Entrees
 Specialty Restaurant
@@ -572,18 +509,25 @@ Kosher,Vegan,Vegetarian,
 2019-12-16
 18597
 5
+Baked Ziti w/ Italian Sausage & Mushroom
+Entrees
+Specialty Restaurant
+Corn,Gluten,Milk,Pork,Sulfites,Wheat,
+2019-12-18
+9857
+6
 Bamboo Shoots
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 293
 2
 Banana
 Fruits
 Breakfast
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 841
 1
 Banana Blueberry Cake
@@ -600,6 +544,13 @@ Corn,Gelatin,Gluten,Milk,Soy,Wheat,
 2019-12-12
 2620
 27
+Banana Ice Bars
+Desserts
+Specialty Restaurant
+Corn,Milk,Vegetarian,
+2019-12-18
+14596
+17
 Banana Nut Brownie
 Desserts
 Lunch
@@ -618,7 +569,7 @@ Banana Peppers
 Dressings & Condiments
 Oglesby Grinder Bar
 Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 1898
 6
 Banana Pudding
@@ -646,9 +597,16 @@ Bavarian Peach Danish
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-15
 19335
 9
+Bavarian Pretzel Roll
+Breads
+Lunch
+Gluten,Soy,Vegan,Vegetarian,Wheat,
+2019-12-18
+14715
+1
 Bean Enchilada Casserole
 Entrees
 Lunch
@@ -663,13 +621,6 @@ Corn,
 2019-12-12
 3310
 1
-Beef Au Jus
-Sauces
-Dinner
-
-2019-12-11
-5014
-2
 Beef Barley Soup
 Soups
 Lunch
@@ -677,20 +628,20 @@ Gluten,Soy,
 2019-12-16
 2959
 5
-Beef Bulgogi
+Beef Burgers
 Entrees
-Lunch
-Alcohol,Gluten,Sesame,Soy,Sulfites,Wheat,
-2019-12-11
-6818
-1
+Kosher Lunch
+Kosher,
+2019-12-18
+19099
+23
 Beef Chili
 Soups
-Lunch
+Light Lunch
 Corn,Fish,Gluten,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-17
 1318
-6
+1
 Beef Chili Mac
 Entrees
 Lunch
@@ -698,13 +649,6 @@ Corn,Fish,Gluten,Soy,Sulfites,Wheat,
 2019-12-16
 9279
 6
-Beef Enchilada Casserole
-Entrees
-Lunch
-Corn,Milk,
-2019-12-17
-6781
-4
 Beef Gravy
 Sauces
 Dinner
@@ -716,7 +660,7 @@ Beef Kabob
 Entrees
 Dinner
 Corn,Gluten,Sesame,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-12
 10329
 1
 Beef Lasagna
@@ -726,20 +670,6 @@ Corn,Eggs,Gluten,Milk,Sulfites,Wheat,
 2019-12-13
 8214
 1
-Beef Roast
-Entrees
-Dinner
-Soy,Sulfites,
-2019-12-11
-14755
-2
-Beef Thai Pasta Entree
-Entrees
-Lunch
-Corn,Gluten,Sesame,Soy,Sulfites,Wheat,
-2019-12-16
-5192
-4
 Beef Tips with Mushroom & Red Wine
 Entrees
 Dinner
@@ -786,9 +716,16 @@ Beer-Battered Onion Rings
 Appetizers & Sides
 Daily Menu
 Alcohol,Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 17175
 7
+Beer-Battered Pollock Fish Fillets
+Entrees
+Dinner
+Alcohol,Corn,Fish,Gluten,Sustainable Seafood,Wheat,
+2019-12-18
+20537
+4
 Beet Spritzer
 Beverages
 Lunch
@@ -807,42 +744,42 @@ Berry Almond Chia Overnight Oats
 Cereals
 Daily Menu
 Gluten,Tree Nuts,Wheat,
-2019-12-11
+2019-12-12
 19231
 12
 Beyond Burger Patty
 Entrees
 Dinner
 Coconut,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 19669
 1
 Bi Bim Bap Bar
 Entrees
 Lunch
 
-2019-12-11
+2019-12-13
 16855
 28
 Bi Bim Bap Pickled Cucumber
 Toppings
 Lunch
 Sesame,Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-13
 12528
 28
 Bi Bim Bap Poached Bean Sprouts
 Toppings
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-13
 12524
 28
 Bi Bim Bap Sauteed Mushrooms
 Toppings
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-13
 12525
 28
 Biscuits
@@ -852,13 +789,6 @@ Corn,Gluten,Milk,Vegetarian,Wheat,
 2019-12-12
 1200
 2
-Biscuits and Gravy
-Entrees
-Midnight Breakfast
-Corn,Gluten,Milk,Pork,Wheat,
-2019-12-11
-7673
-1
 Bistro Style Skirt Steak
 Entrees
 Lunch
@@ -870,28 +800,28 @@ Black Bean Burger
 Entrees
 Daily Menu
 Corn,Eggs,Gluten,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 16641
 7
+Black Bean Burger Wrap
+Entrees
+Lunch
+Corn,Gluten,Milk,Soy,Sulfites,Vegetarian,Wheat,
+2019-12-18
+14896
+1
 Black Bean Chili
 Soups
 Specialty Restaurant L
 Corn,Sulfites,Vegan,Vegetarian,
 2019-12-16
 11673
-27
-Black Bean and Vegetable Quesadilla
-Entrees
-Lunch
-Corn,Gluten,Milk,Soy,Sulfites,Vegetarian,Wheat,
-2019-12-11
-6712
-4
+10
 Black Olives
-Toppings
-Specialty Restaurant
+Vegetables
+Oglesby Grinder Bar
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 352
 6
 Black Sesame Seeds
@@ -901,25 +831,18 @@ Sesame,Vegan,Vegetarian,
 2019-12-12
 6676
 1
-Black Truffle Sea Salt
-Toppings
-Midnight Breakfast
-
-2019-12-11
-12935
-5
-Blackened Tilapia
-Entrees
+Blackberry Almond Oat Bars
+Desserts
 Lunch
-Fish,Milk,Soy,Sustainable Seafood,
-2019-12-11
-18233
-5
+Coconut,Corn,Gluten,Tree Nuts,Vegan,Vegetarian,Wheat,
+2019-12-18
+20025
+1
 Bleu Cheese Crumbles
 Cheeses
-Lunch
+Light Lunch
 Milk,Vegetarian,
-2019-12-11
+2019-12-17
 8796
 1
 Blonde Chess Brownies
@@ -937,40 +860,26 @@ Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 10253
 1
 Blondie Chocolate Chip Bar
-ALC Daily Specials
-Daily Menu
+Desserts
+Lunch
 Alcohol,Corn,Eggs,Gluten,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 6124
-11
+2
 Blubana Smoothie
 Beverages
 Daily Menu
 Corn,Milk,Red Dye,Vegetarian,
-2019-12-11
+2019-12-12
 5615
 26
 Blue Cheese Dressing
 Dressings & Condiments
-Specialty Restaurant
+Lunch
 Milk,Soy,Vegetarian,
-2019-12-11
+2019-12-12
 2151
-6
-Blueberry Cream Cheese
-Dressings & Condiments
-Midnight Breakfast
-Corn,Milk,Sulfites,Vegetarian,
-2019-12-11
-13436
-1
-Blueberry Croissant
-Desserts
-Midnight Breakfast
-Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-12230
-1
+2
 Blueberry Danish
 Desserts
 Breakfast
@@ -980,11 +889,11 @@ Corn,Eggs,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
 1
 Blueberry Muffin
 Breads
-Breakfast
+Daily Menu
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-10346
-1
+2019-12-12
+10356
+7
 Blueberry Pancakes
 Entrees
 Breakfast
@@ -1010,14 +919,14 @@ Blueberry Yogurt Granola Parfait
 ALC Daily Specials
 Daily Menu
 Corn,Gluten,Milk,Wheat,
-2019-12-11
+2019-12-16
 12496
 11
 Bok Choy
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6511
 2
 Boneless Buffalo Chicken Wings
@@ -1031,7 +940,7 @@ Boneless Chicken Wings
 Appetizers & Sides
 Daily Menu
 Corn,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-12
 16564
 7
 Boston Cream Pie
@@ -1050,11 +959,11 @@ Alcohol,Corn,Gluten,Soy,Wheat,
 2
 Braised Bok Choy
 Vegetables
-Dinner
+Lunch
 Corn,Gluten,Sesame,Soy,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-16
 14056
-2
+5
 Brazilian Salmon
 Entrees
 Dinner
@@ -1078,11 +987,11 @@ Gluten,Wheat,
 12
 Bread Sticks
 Breads
-Light Lunch
+Dinner
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 4381
-1
+2
 Breaded Catfish Filet
 Entrees
 After Dark Late Dinner
@@ -1101,14 +1010,14 @@ Brioche Bun
 Breads
 Dinner
 Eggs,Gluten,Milk,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 19121
 1
 Brioche French Toast
 Entrees
-Midnight Breakfast
+Lunch
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-15
 14131
 1
 Broccoli
@@ -1122,9 +1031,9 @@ Broccoli Cheddar Soup
 Soups
 Lunch
 Corn,Gelatin,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-14
 8001
-5
+2
 Broccoli Cheese Soup
 Soups
 Dinner
@@ -1141,9 +1050,9 @@ Gluten,Sesame,Sulfites,Vegan,Vegetarian,Wheat,
 5
 Broccoli Florets
 Vegetables
-Light Lunch
+Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 3172
 1
 Broccoli Raisin Salad
@@ -1232,23 +1141,23 @@ Coconut,Corn,Gluten,Milk,MSG,Soy,Wheat,
 2
 Buffalo Chicken Stromboli
 Entrees
-Dinner
+Lunch
 Corn,Gluten,Milk,MSG,Soy,Wheat,
-2019-12-11
+2019-12-14
 12875
-1
+5
 Buffalo Sauce
 Sauces
 Daily Menu
 Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 17206
 7
 Buffalo Wing Sauce
 Sauces
 Lunch
 Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 5409
 1
 Build Your Own Chilaquiles
@@ -1269,7 +1178,7 @@ Build Your Own Quesadilla Bar
 Entrees
 Daily Menu
 Coconut,Corn,Gluten,Milk,Pork,Shellfish,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-12
 17150
 12
 Build-Your-Own Peanut Butter&Jelly Toast
@@ -1279,18 +1188,18 @@ Lunch
 2019-12-16
 21204
 12
-Butter Herb Tilapia
+Bulgur Stuffed Pepper
 Entrees
-Dinner
-Fish,Milk,Sulfites,Sustainable Seafood,
-2019-12-11
-17614
-2
+Lunch
+Gluten,Sulfites,Vegan,Vegetarian,Wheat,
+2019-12-18
+5545
+5
 Butter Sugar Cookie
 Desserts
 Lunch
 Eggs,Gluten,Kosher,Milk,Vegetarian,Wheat,
-2019-12-11
+2019-12-14
 206
 1
 Butter Sugar Cookies with Sprinkles
@@ -1302,23 +1211,23 @@ Corn,Eggs,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
 4
 Buttermilk Biscuits
 Breads
-Breakfast
+After Dark Late Dinner
 Corn,Gluten,Milk,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 4321
 2
 Buttermilk Pancakes
 Entrees
 Breakfast
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 2949
-1
+2
 Buttermilk Ranch Dressing
 Dressings & Condiments
 Lunch
 Eggs,Milk,Soy,Vegetarian,
-2019-12-11
+2019-12-12
 7896
 2
 Butternut Squash & Rice Casserole
@@ -1344,11 +1253,11 @@ Coconut,Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 1
 Caesar Salad
 Salads & Salad Bar
-Specialty Restaurant
+Specialty Restaurant Lunch
 Corn,Eggs,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-13
 5308
-6
+4
 Cajun Salmon
 Entrees
 Lunch
@@ -1356,13 +1265,6 @@ Fish,Milk,
 2019-12-17
 5600
 6
-Cajun Seasoning
-Toppings
-Midnight Breakfast
-Vegan,Vegetarian,
-2019-12-11
-1635
-5
 California Blend Vegetables
 Vegetables
 After Dark Late Dinner
@@ -1384,13 +1286,13 @@ Milk,Vegetarian,
 2019-12-16
 6221
 5
-Candy Cookie
-Desserts
-Dinner
-Corn,Eggs,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
-2019-12-17
-7219
-4
+Cantonese Style Pollock
+Entrees
+Specialty Restaurant
+Fish,Gluten,Sesame,Soy,Sustainable Seafood,Wheat,
+2019-12-18
+20540
+17
 Cape Cod Blend Vegetables
 Vegetables
 Lunch
@@ -1409,7 +1311,7 @@ Caprese Panini with Pesto
 ALC Daily Specials
 Daily Menu
 Corn,Gluten,Milk,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 17422
 9
 Caprese Pasta Salad
@@ -1437,7 +1339,7 @@ Caramel Macchiato 16oz
 Beverages
 Daily Menu
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 16910
 14
 Caramel Peanut Bar
@@ -1475,26 +1377,12 @@ Eggs,Milk,Soy,Vegetarian,
 2019-12-12
 14386
 2
-Carrot Cupcake
-Desserts
-Light Lunch
-Corn,Eggs,Gluten,Milk,Soy,Wheat,
-2019-12-11
-11793
-1
 Carrot Layer Cake with Nuts
 Desserts
 Lunch
 Corn,Eggs,Gluten,Milk,Soy,Tree Nuts,Vegetarian,Wheat,
 2019-12-15
 744
-5
-Carrot Sheet Cake
-Desserts
-Dinner
-Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-12633
 5
 Carrot Sheet Cake with Nuts
 Desserts
@@ -1503,13 +1391,6 @@ Corn,Eggs,Gluten,Milk,Soy,Tree Nuts,Vegetarian,Wheat,
 2019-12-16
 8760
 2
-Cashews
-Toppings
-Midnight Breakfast
-Tree Nuts,
-2019-12-11
-2283
-5
 Catalina Blend Vegetables
 Vegetables
 Lunch
@@ -1524,6 +1405,13 @@ Vegan,Vegetarian,
 2019-12-16
 3883
 1
+Cauliflower Frozen
+Vegetables
+Lunch
+Vegan,Vegetarian,
+2019-12-18
+534
+4
 Cauliflower Mashed Vegan
 Vegetables
 Lunch
@@ -1545,6 +1433,13 @@ Milk,Vegetarian,
 2019-12-12
 15601
 1
+Chana Masala
+Entrees
+Lunch
+Soy,Sulfites,Vegan,Vegetarian,
+2019-12-18
+10892
+4
 Char Grilled Beef Bulgogi
 Entrees
 Dinner
@@ -1556,16 +1451,16 @@ Char-Grilled Rosemary & Garlic Sirloin
 Entrees
 Dinner
 Sulfites,
-2019-12-11
+2019-12-16
 13828
-1
+27
 Cheddar Cheese
 Cheeses
 Lunch
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 6941
-1
+2
 Cheese Danish
 Breads
 Continental Breakfast
@@ -1591,16 +1486,16 @@ Cheese Pizza Slice
 Entrees
 Daily Menu
 Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 16207
 7
 Cheese Quesadilla
 Entrees
-Daily Menu
-Corn,Gluten,Milk,Sulfites,Vegetarian,Wheat,
-2019-12-11
-18091
-7
+Dinner
+Gluten,Milk,Sulfites,Vegetarian,Wheat,
+2019-12-12
+13630
+2
 Cheese Ravioli with Marinara Sauce
 Entrees
 Lunch
@@ -1612,7 +1507,7 @@ Cheese Sauce
 Sauces
 Lunch
 Corn,Milk,Vegetarian,
-2019-12-11
+2019-12-12
 1905
 1
 Cheese Sticks
@@ -1640,21 +1535,14 @@ Cheeseburger
 Entrees
 Daily Menu
 Corn,Eggs,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 17147
 7
-Cheesecake Pie
-Desserts
-Dinner
-Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-13742
-1
 Cheesy Garlic Bread
 Appetizers & Sides
 Dinner
 Corn,Gluten,Milk,Sulfites,Vegetarian,Wheat,
-2019-12-11
+2019-12-14
 10091
 2
 Cheezy Grits w/ Greens & Tomato
@@ -1682,16 +1570,9 @@ Chef's Choice Vegetable
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 14741
 2
-Cherry Croissant
-Desserts
-Midnight Breakfast
-Corn,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
-2019-12-11
-12229
-1
 Cherry Danish
 Desserts
 Breakfast
@@ -1708,18 +1589,18 @@ Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
 1
 Chia Seeds
 Toppings
-Midnight Breakfast
+Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-16
 17203
-5
+12
 Chicago-Style Hot Dog Toppings
 Dressings & Condiments
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-17
 8410
-6
+1
 Chick'n Bang Bang in Peanut Sauce
 Entrees
 Dinner
@@ -1731,9 +1612,9 @@ Chick'n Nuggets
 Entrees
 Lunch
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-16
 5034
-5
+1
 Chick'n Patty Sandwich
 Entrees
 Dinner
@@ -1749,31 +1630,31 @@ Alcohol,Corn,Gluten,Peanuts,Sesame,Soy,Sulfites,Vegan,Vegetarian,Wheat,
 9088
 27
 Chick'n Strips
-Proteins
-After Dark Late Dinner
+Entrees
+Light Lunch
 Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 8528
-2
+1
 Chicken
 Proteins
 Lunch
 
-2019-12-11
+2019-12-12
 19308
 2
 Chicken Biscuit Slider Sandwich
 Entrees
 Breakfast
 Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-18
 10748
-27
+1
 Chicken Breast
 Entrees
-Light Lunch
+Dinner
 
-2019-12-11
+2019-12-12
 3754
 1
 Chicken Caesar Salad
@@ -1799,23 +1680,23 @@ Corn,Milk,Soy,
 1
 Chicken Gravy
 Sauces
-After Dark Late Dinner
+Lunch
 Corn,Gluten,Milk,Wheat,
-2019-12-11
+2019-12-12
 3130
-2
+27
 Chicken Noodle Soup
 Soups
-Light Lunch
+Lunch
 Corn,Eggs,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-15
 2966
-1
+5
 Chicken Patty Sandwich
 Entrees
 Daily Menu
 Corn,Eggs,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 17183
 7
 Chicken Philly Sandwich
@@ -1825,19 +1706,19 @@ Corn,Gluten,Milk,Soy,Wheat,
 2019-12-13
 9489
 27
-Chicken Pot Pie
-Entrees
-Lunch
-Corn,Gluten,Milk,Wheat,
-2019-12-11
-4041
-6
 Chicken Quesadillas
 Entrees
 Lunch
 Corn,Gluten,Milk,Soy,Sulfites,Wheat,
 2019-12-12
 4459
+1
+Chicken Ramen Broth
+Soups
+Lunch
+Alcohol,Soy,
+2019-12-18
+13714
 1
 Chicken Salad
 Salads & Salad Bar
@@ -1848,11 +1729,11 @@ Eggs,Soy,Sulfites,
 6
 Chicken Sausage Links
 Entrees
-Midnight Breakfast
+After Dark Late Dinner
 
-2019-12-11
+2019-12-12
 16587
-1
+2
 Chicken Stir-Fry with Broccoli
 Entrees
 Lunch
@@ -1864,7 +1745,7 @@ Chicken Tenders
 Entrees
 After Dark Late Dinner
 Corn,Eggs,Gelatin,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-13
 3174
 2
 Chicken Thigh Tandoori Masala Halal
@@ -1895,13 +1776,6 @@ Corn,Eggs,Gluten,Sesame,Soy,Wheat,
 2019-12-13
 4905
 4
-Chicken and Wild Rice Soup
-Soups
-Specialty Restaurant
-Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
-5968
-6
 Chicken with Artichoke, Lemon, & Basil
 Entrees
 Dinner
@@ -1934,7 +1808,7 @@ Chihuahua Cheese Quesadilla
 Entrees
 Daily Menu
 Corn,Gluten,Milk,Sulfites,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 20059
 14
 Chili Oil
@@ -2000,25 +1874,25 @@ Eggs,Gluten,Kosher,Wheat,
 2019-12-15
 7898
 5
-Chocolate Cherry Cake
-Desserts
-Dinner
-Alcohol,Corn,Eggs,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
-2019-12-11
-14348
-2
+Chocolate Buttercream Frosting
+Toppings
+Lunch
+Corn,Milk,Soy,
+2019-12-18
+8764
+4
 Chocolate Chess Brownies
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 18460
 9
 Chocolate Chip Cookie Pizza
 Desserts
 Specialty Restaurant
 Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-16
 18015
 6
 Chocolate Chip Cookies
@@ -2028,18 +1902,11 @@ Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-12
 20888
 1
-Chocolate Chip Cream Cheese
-Dressings & Condiments
-Midnight Breakfast
-Coconut,Corn,Milk,Soy,Sulfites,
-2019-12-11
-13439
-1
 Chocolate Chip Muffin
 Breads
 Daily Menu
 Alcohol,Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 10358
 7
 Chocolate Chip Pancakes
@@ -2049,13 +1916,6 @@ Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-17
 8491
 6
-Chocolate Chip Rice Krispy Treats
-Desserts
-Lunch
-Corn,Gelatin,Milk,Soy,
-2019-12-11
-14488
-27
 Chocolate Chips
 Toppings
 Lunch
@@ -2065,30 +1925,30 @@ Milk,Soy,Vegetarian,
 12
 Chocolate Chunk Cookie
 Desserts
-Lunch
+Daily Menu
 Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 7220
-4
+12
 Chocolate Croissant
 ALC Daily Specials
 Daily Menu
 Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 12228
 11
 Chocolate Danish
-Desserts
-Midnight Breakfast
+ALC Daily Specials
+Daily Menu
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-10668
-1
+2019-12-16
+17265
+9
 Chocolate Donuts
 Breads
 Breakfast
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 10650
 1
 Chocolate Filled Churros
@@ -2098,13 +1958,13 @@ Corn,Eggs,Gluten,Milk,Soy,Wheat,
 2019-12-15
 19926
 6
-Chocolate Fondue
+Chocolate Marshmallow S'Mores Pie
 Desserts
-Midnight Breakfast
-Milk,Soy,Vegetarian,
-2019-12-11
-19223
-5
+Dinner
+Corn,Eggs,Gelatin,Gluten,Milk,Soy,Wheat,
+2019-12-18
+12448
+1
 Chocolate Mocha Cake
 Desserts
 Light Lunch
@@ -2140,6 +2000,13 @@ Alcohol,Corn,Gluten,Milk,Peanuts,Soy,Vegetarian,Wheat,
 2019-12-16
 6080
 1
+Chocolate Rugelach
+Desserts
+Kosher Lunch
+Gluten,Kosher,Wheat,
+2019-12-18
+18725
+23
 Chop Chae
 Entrees
 Dinner
@@ -2154,27 +2021,27 @@ Alcohol,Sesame,Soy,Sulfites,Tree Nuts,Vegan,Vegetarian,
 2019-12-16
 12399
 1
-Chopped Peanuts
-Toppings
-Dinner
-Peanuts,Vegan,Vegetarian,
-2019-12-11
-6381
-1
 Chopped Romaine
 Salads & Salad Bar
 Oglesby Grinder Bar
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6876
 6
+Chorizo Casserole
+Entrees
+Lunch
+Corn,Milk,Pork,
+2019-12-17
+9438
+4
 Chorizo Sausage
 Entrees
-Midnight Breakfast
+Lunch
 Pork,
-2019-12-11
+2019-12-15
 17107
-5
+1
 Chrissy's Smothered Chicken
 Entrees
 Specialty Restaurant
@@ -2188,7 +2055,7 @@ Specialty Restaurant L
 Corn,Eggs,Gluten,Soy,Vegetarian,Wheat,
 2019-12-16
 4716
-27
+10
 Cider-Roasted Pork Loin
 Entrees
 Dinner
@@ -2207,23 +2074,23 @@ Cinnamon Roll
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 11531
 9
 Cinnamon Sticks
 Desserts
 Light Lunch
 Corn,Gluten,Milk,Soy,Sulfites,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 14575
 1
 Cinnamon Twirls
 Breads
-Midnight Breakfast
+After Dark Late Dinner
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 4027
-1
+2
 Citrus Glazed Cornish Hens
 Entrees
 After Dark Late Dinner
@@ -2231,34 +2098,20 @@ After Dark Late Dinner
 2019-12-17
 18007
 2
-Citrus Simple Syrup
-Beverages
-Specialty Restaurant
-Vegan,Vegetarian,
-2019-12-16
-18083
-24
 Classic Chocolate Milkshake
 ALC Daily Specials
 Daily Menu
 Corn,Milk,Vegetarian,
-2019-12-11
+2019-12-12
 10587
 11
 Classic Vanilla Milkshake
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Milk,Vegetarian,
-2019-12-11
+2019-12-12
 10588
 11
-Clean and Green Juice
-Beverages
-Midnight Breakfast
-Vegan,Vegetarian,
-2019-12-11
-16622
-5
 Cobb Salad
 Salads & Salad Bar
 Lunch
@@ -2273,13 +2126,6 @@ Sulfites,Vegan,Vegetarian,
 2019-12-16
 6250
 28
-Cocina Pinto Beans
-Starches
-Lunch
-Pork,
-2019-12-17
-12705
-4
 Cocktail Sauce
 Dressings & Condiments
 Lunch
@@ -2298,7 +2144,7 @@ Coffee Cold Brew 16oz
 Beverages
 Daily Menu
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 19354
 14
 Cold-Smoked Turkey Reuben Sandwich
@@ -2322,6 +2168,13 @@ Vegan,Vegetarian,
 2019-12-17
 19787
 5
+Commanders Palace Salad w/Candied Pecans
+Salads & Salad Bar
+Lunch
+Alcohol,Eggs,Milk,Soy,Sulfites,Tree Nuts,Vegetarian,
+2019-12-18
+18388
+5
 Cookies & Cream Pie
 Desserts
 Dinner
@@ -2331,11 +2184,18 @@ Alcohol,Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
 1
 Corn
 Vegetables
-After Dark Late Dinner
+Lunch
 Corn,Vegan,Vegetarian,
-2019-12-11
+2019-12-14
 566
-2
+5
+Corn & Roasted Poblano Chowder
+Soups
+Light Lunch
+Corn,Gluten,Milk,Vegetarian,Wheat,
+2019-12-18
+14769
+1
 Corn Bread Dressing
 Starches
 Specialty Restaurant
@@ -2373,11 +2233,11 @@ Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 1
 Corona Beer Battered Cod
 Entrees
-Dinner
+Lunch
 Alcohol,Corn,Fish,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-13
 7430
-4
+27
 Couscous with Latin Flavors
 Entrees
 Lunch
@@ -2392,13 +2252,6 @@ Corn,Eggs,Gluten,Milk,Shellfish,Soy,Wheat,
 2019-12-13
 5498
 2
-Cranberry Spread
-Dressings & Condiments
-Lunch
-Milk,
-2019-12-16
-14450
-4
 Cranberry Sriracha & Mint Chicken Wings
 Entrees
 Dinner
@@ -2408,18 +2261,11 @@ Halal,Soy,Sulfites,
 1
 Cream Cheese
 Dressings & Condiments
-Midnight Breakfast
+Lunch
 Kosher,Milk,Vegetarian,
-2019-12-11
+2019-12-13
 95
 1
-Cream Cheese Apple Spread
-Candy
-Midnight Breakfast
-Corn,Milk,Sulfites,
-2019-12-11
-13437
-5
 Cream of Carrot and Ginger Soup
 Soups
 Lunch
@@ -2452,7 +2298,7 @@ Creamy Caesar Dressing
 Dressings & Condiments
 Specialty Restaurant
 Corn,Eggs,Milk,Soy,
-2019-12-11
+2019-12-16
 1948
 6
 Creamy Cole Slaw
@@ -2471,18 +2317,18 @@ Eggs,Soy,Sulfites,Vegetarian,
 2
 Creamy Pesto Sauce
 Sauces
-Lunch
+Dinner
 Gluten,Milk,Sulfites,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 4454
-2
+5
 Creamy Potato & Caramelized Onion Soup
 Soups
-Specialty Restaurant
+Dinner
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-14
 2973
-6
+27
 Creamy Shrimp Twist Salad
 Salads & Salad Bar
 Lunch
@@ -2490,6 +2336,13 @@ Eggs,Gluten,Shellfish,Soy,Sulfites,Wheat,
 2019-12-12
 3121
 6
+Creamy Tomato and Rosemary Soup
+Soups
+Lunch
+Corn,Milk,Sulfites,Vegetarian,
+2019-12-18
+16706
+4
 Creamy Yellow Potato w/ Rosemary Soup
 Soups
 Dinner
@@ -2529,7 +2382,7 @@ Crinkle Fries
 Appetizers & Sides
 Daily Menu
 Soy,
-2019-12-11
+2019-12-12
 17174
 7
 Crisp Garden Salad
@@ -2548,32 +2401,32 @@ Alcohol,Corn,Gluten,Soy,Sulfites,Wheat,
 4
 Crispy Vegetable Potstickers
 Appetizers & Sides
-Specialty Restaurant
+Specialty Restaurant Lunch
 Corn,Gluten,Sesame,Soy,Wheat,
-2019-12-11
+2019-12-13
 15026
-17
+4
 Crispy Vegetable Spring Rolls
 Appetizers & Sides
-Lunch
+Dinner
 Corn,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-12
 14706
-2
+1
 Crushed Red Pepper
 Toppings
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 750
 2
 Cucumber and Onion Salad
 Salads & Salad Bar
 Kosher Dinner
 Kosher,Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-18
 18602
-5
+23
 Curried Vegetable Stew
 Entrees
 Dinner
@@ -2585,23 +2438,16 @@ Daikon Slaw
 Toppings
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-13
 13722
 28
 Dang Cold Noodle Salad w/ Peanuts
 Salads & Salad Bar
 Lunch
 Alcohol,Corn,Gluten,Peanuts,Sesame,Soy,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-16
 7512
 2
-Dark Chocolate Cupcake
-Desserts
-Light Lunch
-Eggs,Gluten,Milk,Wheat,
-2019-12-11
-12931
-1
 Dark Leafy Greens
 Vegetables
 Dinner
@@ -2609,18 +2455,25 @@ Alcohol,Sulfites,Vegan,Vegetarian,
 2019-12-12
 16599
 27
+Dark Soy Sauce
+Sauces
+Lunch
+Gluten,Soy,Vegan,Vegetarian,Wheat,
+2019-12-18
+18177
+28
 Deli Ham
 Proteins
 Lunch
 Pork,
-2019-12-11
+2019-12-12
 39
 2
 Deli Roast Beef
 Proteins
 Lunch
 
-2019-12-11
+2019-12-12
 22
 2
 Deviled Eggs
@@ -2631,45 +2484,38 @@ Corn,Eggs,Soy,Vegetarian,
 3705
 6
 Diced Green Peppers
-Toppings
-Specialty Restaurant
+Vegetables
+After Dark Late Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6520
-6
+2
 Diced Ham
-Toppings
-Specialty Restaurant
+Proteins
+After Dark Late Dinner
 Pork,
-2019-12-11
+2019-12-12
 6230
-6
-Diced Onion
-Toppings
-Specialty Restaurant
-Vegan,Vegetarian,
-2019-12-11
-7870
-6
+2
 Diced Yellow Onion
 Vegetables
-Daily Menu
+After Dark Late Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 17114
-14
+2
 Dill Pickle Slices
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 333
-1
+2
 Dill Pickle Spears
 Dressings & Condiments
 Oglesby Grinder Bar
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 334
 6
 Dinner Rolls
@@ -2686,13 +2532,6 @@ Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-17
 8445
 6
-Dongpo Pork
-Entrees
-Dinner
-Alcohol,Corn,Gluten,Pork,Sesame,Soy,Sulfites,Wheat,
-2019-12-11
-18153
-2
 Donut Assorted Alpha
 Breads
 Continental Breakfast
@@ -2700,18 +2539,11 @@ Coconut,Corn,Eggs,Gelatin,Gluten,Milk,Soy,Wheat,
 2019-12-15
 21126
 5
-Donut Hole Plain
-Desserts
-Breakfast
-Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-8860
-5
 Double Cheeseburger
 Entrees
 Daily Menu
 Corn,Eggs,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 17168
 7
 Double Chocolate Chip Cookie
@@ -2735,13 +2567,6 @@ Alcohol,Corn,Eggs,Gluten,Milk,Soy,Wheat,
 2019-12-15
 17662
 5
-Double Chocolate Layer Cake
-Desserts
-Lunch
-Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-2605
-27
 Double Chocolate Muffin
 Breads
 Breakfast
@@ -2760,9 +2585,16 @@ Double Espresso Con Panna
 Beverages
 Daily Menu
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 10926
 14
+Dulce de Leche Cheesecake
+Desserts
+Specialty Restaurant
+Corn,Eggs,Gelatin,Gluten,Milk,Soy,Wheat,
+2019-12-18
+8184
+6
 Dutch Apple Pie
 Desserts
 Dinner
@@ -2781,8 +2613,22 @@ Edamame
 Vegetables
 Lunch
 Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 1568
+2
+Egg Drop Soup
+Soups
+Specialty Restaurant
+Corn,Eggs,Soy,Sulfites,
+2019-12-18
+3990
+17
+Egg Foo Yung
+Sauces
+Dinner
+Alcohol,Corn,Eggs,Gluten,Milk,Soy,Sulfites,Vegetarian,Wheat,
+2019-12-18
+3479
 2
 Egg Noodles
 Starches
@@ -2793,9 +2639,9 @@ Eggs,Gluten,Vegetarian,Wheat,
 4
 Egg Patty
 Toppings
-Lunch
+Light Lunch
 Eggs,Milk,Soy,Vegetarian,
-2019-12-11
+2019-12-12
 9090
 1
 Egg Salad
@@ -2821,18 +2667,11 @@ Corn,Eggs,Gluten,Milk,Pork,Soy,Sulfites,Wheat,
 6
 Elbow Macaroni
 Starches
-Light Lunch
+Lunch
 Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-14
 14470
-1
-English Muffins
-Breads
-Midnight Breakfast
-Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
-500
-1
+5
 Everything Pizza
 Entrees
 Lunch
@@ -2856,18 +2695,11 @@ Coconut,Corn,Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
 1
 Farfalle Pasta
 Starches
-Specialty Restaurant
+Light Lunch
 Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 5181
-6
-Fatoush
-Salads & Salad Bar
-Lunch
-Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
-11198
-5
+1
 Feta Cheese
 Toppings
 Light Lunch
@@ -2921,23 +2753,23 @@ Fish Sandwich
 Entrees
 Daily Menu
 Alcohol,Corn,Eggs,Fish,Gluten,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-12
 17171
 7
 Fish Tacos
 Entrees
-Kosher Lunch
-Corn,Fish,Gluten,Kosher,Soy,Sulfites,Sustainable Seafood,Wheat,
-2019-12-11
-20375
-5
+Lunch
+Corn,Fish,Gluten,Soy,Sulfites,Sustainable Seafood,Wheat,
+2019-12-17
+20538
+4
 Fish Tilapia with Lemon Butter & Capers
 Entrees
-Lunch
+After Dark Late Dinner
 Alcohol,Fish,Milk,Sustainable Seafood,
-2019-12-11
+2019-12-13
 19023
-27
+2
 Five Bean & Ham Hock Soup
 Soups
 Light Lunch
@@ -2945,6 +2777,13 @@ Corn,Fish,Gelatin,Milk,Pork,Soy,
 2019-12-12
 13907
 1
+Five Cup Salad
+Salads & Salad Bar
+Lunch
+Coconut,Corn,Gelatin,Milk,Sulfites,
+2019-12-18
+3128
+5
 Flan
 Desserts
 Lunch
@@ -2959,34 +2798,20 @@ Corn,
 2019-12-12
 12080
 5
-Flaxseed
-Toppings
-Midnight Breakfast
-Vegan,Vegetarian,
-2019-12-11
-12265
-5
-Folded Bao
-Entrees
-Dinner
-Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
-18995
-2
 French Baguette
 Breads
 Dinner
-Corn,Gluten,Wheat,
-2019-12-11
-7196
+Gluten,Vegan,Vegetarian,Wheat,
+2019-12-18
+8443
 1
 French Dip Sandwich
 Entrees
-Specialty Restaurant
+Lunch
 Corn,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-12
 3543
-6
+1
 French Fries
 Starches
 Lunch
@@ -3003,11 +2828,11 @@ Alcohol,Corn,Fish,Gluten,Milk,Soy,Wheat,
 4
 French Sandwich Roll
 Breads
-Specialty Restaurant
+Lunch
 Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 5859
-6
+1
 French Toast
 Entrees
 Breakfast
@@ -3022,26 +2847,12 @@ Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-13
 3998
 1
-French Vanilla Ice Cream
-Desserts
-Specialty Restaurant
-Corn,Eggs,Milk,Vegetarian,
-2019-12-16
-10114
-24
 Fresh Bean Sprouts
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-16
 642
-1
-Fresh Cilantro
-Toppings
-Lunch
-Vegan,Vegetarian,
-2019-12-11
-1972
 1
 Fresh Diced Cucumber
 Toppings
@@ -3051,10 +2862,10 @@ Vegan,Vegetarian,
 17112
 1
 Fresh Diced Tomatoes
-Vegetables
+Toppings
 Light Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6940
 1
 Fresh Green Beans
@@ -3064,18 +2875,11 @@ Vegan,Vegetarian,
 2019-12-14
 14893
 27
-Fresh Mint
-Toppings
-Lunch
-Vegan,Vegetarian,
-2019-12-11
-465
-1
 Fresh Orange Juice
 Beverages
 Daily Menu
 
-2019-12-11
+2019-12-12
 12348
 12
 Fresh Pineapple
@@ -3089,21 +2893,21 @@ Fresh Sliced Cucumbers
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 17115
 2
 Fresh Spinach
-Toppings
-Specialty Restaurant
+Vegetables
+Oglesby Grinder Bar
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 722
 6
 Fresh Steamed Broccoli
 Vegetables
-Lunch
+Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 15098
 1
 Fresh Steamed Spinach
@@ -3113,25 +2917,18 @@ Vegan,Vegetarian,
 2019-12-15
 17932
 1
-Fresh Thai Basil
-Toppings
-Lunch
-Vegan,Vegetarian,
-2019-12-11
-8323
-1
 Fresh Tomatillo Salsa
 Sauces
 Specialty Restaurant L
 Soy,Sulfites,Vegan,Vegetarian,
 2019-12-16
 11014
-27
+10
 Fresh Tomatoes
 Vegetables
 Oglesby Grinder Bar
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 730
 6
 Fresh Tortilla Chips
@@ -3141,18 +2938,11 @@ Corn,Soy,Vegan,Vegetarian,
 2019-12-17
 15048
 2
-Fresh-Cut French Fries
-Appetizers & Sides
-Lunch
-Soy,
-2019-12-11
-15103
-1
 Fried Battered Asparagus
 Appetizers & Sides
 Lunch
 Corn,Eggs,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 9534
 2
 Fried Battered Green Beans
@@ -3187,23 +2977,30 @@ Fried Chicken Potstickers
 Appetizers & Sides
 After Dark Late Dinner
 Corn,Gluten,Sesame,Soy,Wheat,
-2019-12-11
+2019-12-16
 14705
 2
 Fried Chicken Tender Sandwich
 Entrees
 Daily Menu
 Corn,Eggs,Gelatin,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 10081
 18
 Fried Egg
 Toppings
 Dinner
 Eggs,Soy,Vegetarian,
-2019-12-11
+2019-12-12
 18000
 1
+Fried Gost
+Desserts
+Specialty Restaurant
+Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
+2019-12-18
+15189
+17
 Fried Green Tomato Po' Boy Sandwich
 Entrees
 Specialty Restaurant
@@ -3229,7 +3026,7 @@ Fried Mozzarella Cheese Sticks
 Appetizers & Sides
 Daily Menu
 Corn,Eggs,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 17184
 7
 Fried Mushrooms
@@ -3250,9 +3047,9 @@ Fried Pickles
 Appetizers & Sides
 Lunch
 Corn,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-14
 11141
-1
+2
 Fried Plantains
 Appetizers & Sides
 Specialty Restaurant
@@ -3262,9 +3059,9 @@ Soy,
 1
 Fried Potato Chippers
 Starches
-Lunch
+Dinner
 Soy,
-2019-12-11
+2019-12-17
 14136
 4
 Fried Potato Cubes
@@ -3288,6 +3085,13 @@ Corn,Fish,Gluten,Soy,Sustainable Seafood,Wheat,
 2019-12-16
 18250
 5
+Fried Silverfin Fish Cakes
+Entrees
+Lunch
+Corn,Eggs,Fish,Gluten,Soy,Wheat,
+2019-12-18
+18237
+1
 Fried Tilapia
 Entrees
 Dinner
@@ -3295,6 +3099,13 @@ Corn,Fish,Gluten,Sustainable Seafood,Wheat,
 2019-12-13
 6715
 5
+Fried Tofu
+Entrees
+Lunch
+Gluten,Soy,Wheat,
+2019-12-18
+5411
+1
 Fruit & Nut Chicken Salad
 Salads & Salad Bar
 Lunch
@@ -3306,16 +3117,9 @@ Fruit Cup
 ALC Daily Specials
 Daily Menu
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 19026
 11
-Fruit Pizza
-Entrees
-Midnight Breakfast
-Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-10586
-1
 Fruit Punch
 Beverages
 Dinner
@@ -3332,16 +3136,16 @@ Vegan,Vegetarian,
 5
 Fruit Tray
 Fruits
-Midnight Breakfast
+Breakfast
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 13688
 1
 Fudge Brownie
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 7051
 11
 Fuego Fuego Burger
@@ -3367,11 +3171,11 @@ Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
 1
 Garlic & Butter Sauteed Spinach
 Vegetables
-Light Lunch
+Dinner
 Milk,Sulfites,Vegetarian,
-2019-12-11
+2019-12-13
 5582
-1
+5
 Garlic & Cheddar Biscuit
 Breads
 Breakfast
@@ -3394,10 +3198,10 @@ Gluten,Milk,Sulfites,Vegetarian,Wheat,
 4944
 2
 Garlicky Sauteed Spinach
-Vegetables
+Toppings
 Lunch
 Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-14
 16277
 1
 Gemelli Pasta
@@ -3409,16 +3213,16 @@ Gluten,Vegan,Vegetarian,Wheat,
 27
 General Tso's Chicken
 Entrees
-Lunch
+After Dark Late Dinner
 Alcohol,Corn,Gluten,Sesame,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-15
 5287
 2
 General Tso's Sauce
 Sauces
 Lunch
 Alcohol,Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 8434
 2
 General Tso's Tofu
@@ -3439,16 +3243,9 @@ Giardiniera
 Dressings & Condiments
 Lunch
 Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6622
-2
-Glazed Carrots
-Vegetables
-Dinner
-Milk,Vegetarian,
-2019-12-11
-5480
-5
+1
 Glazed Carrots w/ Mint (Vegan)
 Vegetables
 Lunch
@@ -3463,11 +3260,18 @@ Milk,Vegetarian,
 2019-12-13
 3515
 1
+Gnocchi w/ Roasted Vegetables and Pesto
+Entrees
+Dinner
+Eggs,Gluten,Milk,Sulfites,Vegetarian,Wheat,
+2019-12-18
+16651
+4
 Go Chu Jang Sauce
 Sauces
 Lunch
 Alcohol,Corn,Gluten,Sesame,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 12764
 28
 Goat Cheese
@@ -3479,11 +3283,11 @@ Milk,
 6
 Golden Fried Tofu with Chili Sauce
 Entrees
-Lunch
+After Dark Late Dinner
 Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-15
 7664
-6
+2
 Good Karma Bowl
 Entrees
 Lunch
@@ -3495,35 +3299,35 @@ Gourmet Hamburger Bun
 Breads
 Lunch
 Gluten,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 14716
 2
 Gourmet Hot Chocolate Large
 Beverages
 Daily Menu
 Alcohol,Milk,Vegetarian,
-2019-12-11
+2019-12-12
 11859
 14
 Grape Jelly
-Dressings & Condiments
-Midnight Breakfast
-Corn,Kosher,Vegetarian,
-2019-12-11
-16794
-1
+Toppings
+Lunch
+Corn,Vegan,Vegetarian,
+2019-12-16
+574
+12
 Grapefruit Halves
 Fruits
 Breakfast
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 3634
 1
 Grated Parmesan Cheese
 Toppings
 Lunch
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 99
 2
 Greek Chicken Breast
@@ -3533,20 +3337,27 @@ Alcohol,Milk,Soy,Sulfites,
 2019-12-14
 9439
 2
-Greek Yogurt Bar
-Appetizers & Sides
-Midnight Breakfast
-Gluten,Milk,Vegetarian,Wheat,
-2019-12-11
-16682
-5
+Greek Orzo Pasta Salad
+Salads & Salad Bar
+Lunch
+Alcohol,Gluten,Milk,Soy,Sulfites,Vegetarian,Wheat,
+2019-12-18
+5194
+6
+Green Bean Casserole
+Vegetables
+Dinner
+Corn,Gluten,Milk,MSG,Soy,Vegetarian,Wheat,
+2019-12-18
+3376
+4
 Green Beans
 Vegetables
-Kosher Dinner
+Lunch
 Vegan,Vegetarian,
-2019-12-11
-558
-5
+2019-12-12
+3142
+4
 Green Beans Almondine
 Vegetables
 Lunch
@@ -3575,13 +3386,6 @@ Vegan,Vegetarian,
 2019-12-12
 9015
 1
-Green Cabbage Kim Chi
-Salads & Salad Bar
-Lunch
-Sulfites,Vegan,Vegetarian,
-2019-12-11
-15049
-28
 Green Chili & Cheese Cornbread
 Breads
 Dinner
@@ -3589,6 +3393,13 @@ Corn,Eggs,Gluten,Milk,Soy,Wheat,
 2019-12-15
 7283
 6
+Green Chili Pickle
+Vegetables
+Dinner
+Corn,Gluten,Sulfites,Vegan,Vegetarian,Wheat,
+2019-12-18
+16745
+1
 Green Chili Strata
 Entrees
 Dinner
@@ -3610,18 +3421,18 @@ Alcohol,Corn,Soy,Sulfites,
 2019-12-15
 18481
 1
-Grilled Bratwurst with Peppers & Onions
+Grilled Bratwurst Sandwich
 Entrees
 Lunch
-Alcohol,Corn,Gluten,Pork,Soy,
-2019-12-11
-4920
-1
+Corn,Gluten,MSG,Pork,Soy,Wheat,
+2019-12-16
+6629
+4
 Grilled Buffalo Chicken
 Entrees
 Oglesby Grinder Bar
 Soy,
-2019-12-11
+2019-12-12
 11621
 6
 Grilled Caesar Salad w/ Chicken
@@ -3640,18 +3451,18 @@ Alcohol,Coconut,Corn,Eggs,Gluten,Milk,Pork,Soy,Sulfites,Wheat,
 1
 Grilled Cheese Sandwich
 Entrees
-Daily Menu
+Lunch
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-17182
-7
+2019-12-12
+3144
+4
 Grilled Chicken Breast
 Entrees
 Lunch
 Soy,
-2019-12-11
+2019-12-12
 4312
-2
+1
 Grilled Chicken Parmesan
 Entrees
 Dinner
@@ -3663,14 +3474,14 @@ Grilled Chicken Sandwich
 Entrees
 Daily Menu
 Corn,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-12
 19320
 18
 Grilled Chicken Tenderloin Sandwich
 Entrees
 Daily Menu
 Corn,Eggs,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-12
 12916
 7
 Grilled Ham
@@ -3687,13 +3498,6 @@ Corn,Gluten,Milk,Pork,Soy,Wheat,
 2019-12-13
 5223
 2
-Grilled Marinated Pork Chop
-Entrees
-Dinner
-Pork,
-2019-12-11
-9479
-5
 Grilled Muenster on Sourdough
 Entrees
 Lunch
@@ -3705,7 +3509,7 @@ Grilled NY Strip Steak
 Entrees
 Dinner
 Soy,
-2019-12-11
+2019-12-12
 4453
 1
 Grilled Peri Peri  Shrimp
@@ -3733,9 +3537,16 @@ Grilled Salmon
 Entrees
 Dinner
 Fish,Soy,
-2019-12-11
+2019-12-12
 11060
 1
+Grilled Salmon Filet
+Entrees
+Lunch
+Fish,Soy,
+2019-12-18
+17242
+5
 Grits
 Entrees
 Dinner
@@ -3749,7 +3560,7 @@ Specialty Restaurant L
 Corn,Gluten,Soy,Sulfites,Wheat,
 2019-12-16
 2905
-27
+10
 Ground Cinnamon
 Toppings
 After Dark Late Dinner
@@ -3799,13 +3610,20 @@ Halal,Soy,
 2019-12-16
 5221
 6
+Halal Butter Chicken
+Entrees
+Dinner
+Corn,Gluten,Halal,Milk,Red Dye,Soy,Sulfites,Wheat,
+2019-12-18
+21180
+1
 Halal Chicken Wing Bar
 Entrees
-Lunch
+Dinner
 Corn,Gluten,Halal,Sesame,Soy,Wheat,
-2019-12-11
+2019-12-16
 10608
-5
+27
 Halal Chicken Wings
 Entrees
 Lunch
@@ -3845,7 +3663,7 @@ Halal Hamburger
 ALC Daily Specials
 Daily Menu
 Corn,Gluten,Halal,Soy,Wheat,
-2019-12-11
+2019-12-16
 19027
 11
 Halal Italian Beef
@@ -3859,7 +3677,7 @@ Halal Italian Beef Sandwich au Jus
 Entrees
 Daily Menu
 Corn,Gluten,Halal,MSG,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-12
 7769
 7
 Halal Italian Meat Sauce
@@ -3878,11 +3696,18 @@ Corn,Halal,Soy,Sulfites,
 2
 Halal Mongolian Chicken Thighs
 Entrees
-Specialty Restaurant
+Dinner
 Corn,Gluten,Halal,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-12
 19639
-17
+4
+Halal Roast Hoisin Pineapple Lamb
+Entrees
+Dinner
+Alcohol,Coconut,Corn,Gluten,Halal,Soy,Sulfites,Wheat,
+2019-12-18
+18800
+5
 Halal Smoked BBQ Chicken Thighs
 Entrees
 Dinner
@@ -3897,13 +3722,6 @@ Gluten,Milk,Pork,Wheat,
 2019-12-16
 20019
 9
-Ham & Swiss Croissant
-Entrees
-Midnight Breakfast
-Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
-17804
-1
 Ham and Bean Soup
 Soups
 Lunch
@@ -3915,21 +3733,21 @@ Ham and Cheese Wrap
 Entrees
 Daily Menu
 Alcohol,Eggs,Gluten,Milk,Pork,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-12
 5644
 14
 Hamburger
 Entrees
 Daily Menu
 Corn,Eggs,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-12
 17167
 7
 Hamburger Bun
 Breads
 Lunch
 Corn,Gluten,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 1054
 1
 Hamburgers
@@ -3943,30 +3761,30 @@ Hard Cooked Eggs
 Entrees
 Breakfast
 Eggs,Vegetarian,
-2019-12-11
+2019-12-12
 3136
 1
 Hard Salami
 Proteins
 Oglesby Grinder Bar
 Pork,
-2019-12-11
+2019-12-12
 2725
 6
 Hash Brown Patty
 Starches
 Daily Menu
 Corn,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-12
 14135
 7
 Hash Browns
 Starches
 Breakfast
 Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 3620
-2
+5
 Hashbrown Potato and Cheese Casserole
 Starches
 Dinner
@@ -3976,9 +3794,9 @@ Corn,Milk,Vegetarian,
 27
 Hawaiian Pizza
 Entrees
-After Dark Late Dinner
+Lunch
 Corn,Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
+2019-12-12
 7184
 2
 Health Nut Multigrain Bread
@@ -3997,16 +3815,16 @@ Gluten,Milk,Tree Nuts,Vegetarian,Wheat,
 6
 Heidi's Guacamole
 Dressings & Condiments
-Lunch
+Oglesby Grinder Bar
 Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 236
-1
+6
 Herb & Parmesan Roasted Cauliflower
 Vegetables
-Lunch
+After Dark Late Dinner
 Milk,Sulfites,Vegetarian,
-2019-12-11
+2019-12-12
 9239
 2
 Herb Grilled Chicken Breast
@@ -4022,6 +3840,13 @@ Lunch
 Sulfites,Vegan,Vegetarian,
 2019-12-12
 4652
+4
+Herb Rubbed Tri Tip Beef
+Entrees
+Lunch
+Sulfites,
+2019-12-16
+12798
 4
 Herbed Boursin Cheese
 Cheeses
@@ -4059,12 +3884,12 @@ Alcohol,Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
 1593
 1
 Honey
-Dressings & Condiments
-Midnight Breakfast
+Toppings
+Lunch
 Kosher,Vegetarian,
-2019-12-11
+2019-12-16
 963
-5
+12
 Honey Baked Ham
 Entrees
 Lunch
@@ -4104,14 +3929,14 @@ Honey Miso Roasted Butternut Squash
 Vegetables
 Dinner
 Alcohol,Sesame,Soy,Sulfites,Vegetarian,
-2019-12-11
+2019-12-13
 13973
 1
 Honey Mustard Dressing
 Dressings & Condiments
 After Dark Late Dinner
 Alcohol,Eggs,Soy,Vegetarian,
-2019-12-11
+2019-12-13
 1188
 2
 Hormel Natural Choice Pork Sausage Links
@@ -4121,20 +3946,13 @@ Pork,
 2019-12-15
 3384
 1
-Hot Chocolate
-Beverages
-Midnight Breakfast
-Coconut,Corn,Milk,Soy,Vegetarian,
-2019-12-11
-2924
-1
 Hot Dog Bun
 Breads
-Lunch
-Corn,Gluten,Soy,Vegetarian,Wheat,
-2019-12-11
-6845
-1
+After Dark Late Dinner
+Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
+2019-12-14
+1057
+2
 Hot Dog Buns
 Breads
 Lunch
@@ -4142,13 +3960,6 @@ Corn,Gluten,Kosher,Soy,Vegan,Vegetarian,Wheat,
 2019-12-17
 11743
 1
-Hot Fudge Cake
-Desserts
-Dinner
-Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-18407
-4
 Hot Wing Sauce
 Sauces
 After Dark Late Dinner
@@ -4167,14 +3978,14 @@ Hummus
 Salads & Salad Bar
 Oglesby Grinder Bar
 Sesame,Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6233
 6
 Hummus & Vegetable Wrap
 Entrees
-After Dark Late Dinner
+Lunch
 Gluten,Sesame,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-16
 6792
 2
 Hummus on Pita Sandwich
@@ -4212,47 +4023,40 @@ Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-12
 7198
 2
-Iced Sweet Tea
-Beverages
-Specialty Restaurant
-Vegan,Vegetarian,
-2019-12-16
-12342
-24
 Iced Yeast Donut with Sprinkles
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 15093
 9
 Illini Salad
 Salads & Salad Bar
-Lunch
+Specialty Restaurant L
 Alcohol,Corn,Milk,Soy,Sulfites,
-2019-12-11
+2019-12-16
 10621
-5
+10
 Illinois-Grown Brown Rice
 Starches
 Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 20184
 1
 Illinois-Grown White Rice
 Starches
-Dinner
+Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-13
 20181
 5
 Italian Beef
 Entrees
-Dinner
-Soy,Sulfites,
-2019-12-11
-3532
+Kosher Lunch
+Kosher,Soy,Sulfites,
+2019-12-12
+20381
 5
 Italian Cut Green Beans
 Vegetables
@@ -4277,18 +4081,18 @@ Corn,Eggs,Gluten,Milk,Soy,Sulfites,Vegetarian,Wheat,
 5
 Italian Meat Sauce
 Sauces
-Specialty Restaurant
+Dinner
 Soy,Sulfites,
-2019-12-11
+2019-12-12
 3063
-6
+27
 Italian Sausage
-Toppings
-Specialty Restaurant
+Proteins
+After Dark Late Dinner
 Corn,Pork,
-2019-12-11
+2019-12-12
 7072
-6
+2
 Italian Sausage Slider
 Entrees
 Lunch
@@ -4304,12 +4108,12 @@ Alcohol,Gluten,Milk,Sulfites,Vegetarian,Wheat,
 8384
 2
 Italian Turkey Meatballs
-Proteins
-Specialty Restaurant
+Entrees
+Dinner
 Gluten,Milk,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-13
 18986
-6
+1
 Italian Vegetables
 Vegetables
 Lunch
@@ -4325,12 +4129,12 @@ Vegan,Vegetarian,
 18369
 5
 Jalapeno Bottle Caps
-Appetizers & Sides
-Lunch
+Toppings
+Light Lunch
 Alcohol,Corn,Gluten,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-17
 9616
-2
+1
 Jalapeno Cheddar Cornbread
 Breads
 After Dark Late Dinner
@@ -4342,7 +4146,7 @@ Jalapeno Corn Onion Muffins
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 20030
 9
 Jalapeno Poppers
@@ -4356,16 +4160,16 @@ Jalapeno Tortilla
 Breads
 Daily Menu
 Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 2521
 14
 Jalapeño Peppers
 Vegetables
-Lunch
+After Dark Late Dinner
 Vegan,Vegetarian,
-2019-12-11
-1130
-1
+2019-12-12
+1897
+2
 Jamaican Lentil Stew with Coconut Milk
 Entrees
 Dinner
@@ -4384,7 +4188,7 @@ Jasmine Rice
 Starches
 Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-13
 6529
 1
 Jerk Chick'n
@@ -4400,7 +4204,7 @@ Specialty Restaurant L
 Sulfites,Vegetarian,
 2019-12-16
 15071
-27
+10
 Jollof Rice
 Starches
 Specialty Restaurant
@@ -4408,18 +4212,11 @@ Corn,
 2019-12-16
 18821
 1
-Jumbo Cheese Ravioli
-Entrees
-Dinner
-Eggs,Gluten,Milk,Vegetarian,Wheat,
-2019-12-11
-18873
-2
 Jumbo Chocolate Chip Cookie
 ALC Daily Specials
 Daily Menu
 Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 2391
 9
 Jumbo Oatmeal Raisin Cookie
@@ -4433,9 +4230,16 @@ Jumbo Soft Pretzel
 Breads
 Daily Menu
 Corn,Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 3400
 7
+Kachumber Salad
+Dressings & Condiments
+Dinner
+Sulfites,Vegan,Vegetarian,
+2019-12-18
+15631
+1
 Kaiser Roll
 Breads
 Lunch
@@ -4443,6 +4247,13 @@ Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
 2019-12-12
 1051
 1
+Kale Caesar Salad
+Salads & Salad Bar
+Lunch
+Corn,Eggs,Gluten,Milk,Soy,Wheat,
+2019-12-18
+17655
+2
 Kale Chips
 Toppings
 Light Lunch
@@ -4457,6 +4268,27 @@ Gluten,Sulfites,Tree Nuts,Vegan,Vegetarian,Wheat,
 2019-12-15
 14983
 5
+Kale Walnut Pesto Pasta w/Cured Tomatoes
+Entrees
+Dinner
+Alcohol,Gluten,Soy,Sulfites,Tree Nuts,Vegetarian,Wheat,
+2019-12-18
+16809
+1
+Key Lime Pie
+Desserts
+Dinner
+Corn,Gelatin,Gluten,Milk,Soy,Wheat,
+2019-12-18
+1174
+1
+Kielbasa Sausage with Sauerkraut
+Entrees
+Lunch
+Corn,Pork,Soy,Sulfites,
+2019-12-18
+12361
+1
 Kimchi
 Toppings
 Lunch
@@ -4492,39 +4324,39 @@ Corn,Gluten,Kosher,Soy,Wheat,
 2019-12-16
 20189
 5
-Kosher Cookie Dough Oatmeal Raisin
-Desserts
-Kosher Lunch
-Eggs,Gluten,Kosher,Soy,Wheat,
-2019-12-11
-21102
-5
-Kosher Stuffed Cabbage
+Kosher Meatloaf
 Entrees
 Kosher Dinner
-Kosher,
-2019-12-11
-19098
-5
+Alcohol,Corn,Eggs,Gluten,Kosher,Milk,Sesame,Soy,Sulfites,Wheat,
+2019-12-18
+20178
+23
+Kosher Pastry Rugelach Cinnamon
+Desserts
+Kosher Dinner
+Gluten,Kosher,Wheat,
+2019-12-18
+19583
+23
 Kraft Catalina French Dressing
 Dressings & Condiments
 Specialty Restaurant
 Red Dye,Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-16
 1658
 6
 Krispy Kreme Assorted Donuts
 ALC Daily Specials
 Daily Menu
 Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 15883
 11
 Kung Pao Sauce
 Sauces
-Lunch
+Dinner
 Corn,Gluten,Sesame,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 18891
 2
 Kyoto Blend Vegetables
@@ -4538,42 +4370,42 @@ Large Americano Coffee
 Beverages
 Daily Menu
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 10961
 14
 Large Cappuccino
 Beverages
 Daily Menu
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 6314
 14
 Large Coffee (16oz)
 ALC Daily Specials
 Daily Menu
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 10966
 18
 Large Hot Tea
 Beverages
 Daily Menu
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 10959
 14
 Large Turtle Latte
 Beverages
 Daily Menu
 Milk,Tree Nuts,Vegetarian,
-2019-12-11
+2019-12-12
 10938
 14
 Large White Chocolate Mocha Latte
 Beverages
 Daily Menu
 Corn,Milk,Vegetarian,
-2019-12-11
+2019-12-12
 17067
 14
 Lay's Classic Potato Chips
@@ -4604,12 +4436,26 @@ Corn,Gluten,Milk,Pork,Soy,Wheat,
 2019-12-15
 12434
 2
+Lemon Bar
+Desserts
+Lunch
+Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
+2019-12-18
+12640
+2
 Lemon Bars
 Desserts
 Lunch
 Corn,Eggs,Gluten,Milk,Sulfites,Vegetarian,Wheat,
 2019-12-15
 9849
+1
+Lemon Buttermilk Cake
+Desserts
+Dinner
+Corn,Eggs,Gluten,Milk,Sulfites,Vegetarian,Wheat,
+2019-12-18
+13739
 1
 Lemon Curd
 Desserts
@@ -4632,6 +4478,13 @@ Corn,Eggs,Gluten,Soy,Vegetarian,Wheat,
 2019-12-14
 2757
 1
+Lemon Pepper Chicken Breast
+Entrees
+Lunch
+Soy,
+2019-12-18
+10741
+27
 Lemon Poppy Muffin
 Breads
 Breakfast
@@ -4639,13 +4492,20 @@ Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-13
 10351
 1
+Lemon Shake Up
+Beverages
+Lunch
+Vegan,Vegetarian,
+2019-12-18
+10261
+1
 Lettuce
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 682
-1
+2
 Light Soy Sauce
 Sauces
 Lunch
@@ -4699,21 +4559,21 @@ Macadamia Nut Cookie
 Desserts
 Lunch
 Eggs,Gluten,Milk,Soy,Tree Nuts,Vegetarian,Wheat,
-2019-12-11
+2019-12-18
 7223
 6
 Macaroni & Cheese
-Starches
+Entrees
 Dinner
 Gluten,Milk,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 3077
-4
+5
 Macaroni & Cheeze
 Entrees
-Kosher Lunch
+Kosher Dinner
 Coconut,Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-15
 14631
 5
 Made-to-Order Omelets
@@ -4741,9 +4601,9 @@ Malibu Burger
 Entrees
 Lunch
 Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 6581
-1
+2
 Malva Chocolate Pudding Cake
 Desserts
 Specialty Restaurant
@@ -4755,7 +4615,7 @@ Mandarin Chicken Pasta Salad
 ALC Daily Specials
 Daily Menu
 Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 20408
 11
 Mandarin Oranges
@@ -4769,14 +4629,14 @@ Mango Berry Smoothie
 Beverages
 Daily Menu
 Corn,Milk,Red Dye,Vegetarian,
-2019-12-11
+2019-12-12
 16883
 12
 Mango Ice Bars
 Desserts
 Specialty Restaurant
 Corn,Milk,Vegetarian,
-2019-12-11
+2019-12-18
 14595
 17
 Maple Glazed Baby Carrots
@@ -4818,7 +4678,7 @@ Marinara Sauce
 Sauces
 Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 3877
 1
 Marinated Grilled Chicken Breast
@@ -4842,13 +4702,6 @@ Alcohol,Sulfites,Vegan,Vegetarian,
 2019-12-14
 7433
 2
-Masala Fried Fish
-Entrees
-Lunch
-Fish,Milk,Sustainable Seafood,
-2019-12-11
-20545
-6
 Mashed Potatoes with Boursin Cheese
 Starches
 Dinner
@@ -4863,11 +4716,18 @@ Milk,Vegetarian,
 2019-12-12
 19738
 1
+Matcha Cake
+Desserts
+Dinner
+Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
+2019-12-18
+18720
+5
 Mayonnaise
 Dressings & Condiments
 Lunch
 Eggs,Soy,Vegetarian,
-2019-12-11
+2019-12-12
 818
 2
 Meatball Vegan Italian
@@ -4886,11 +4746,11 @@ Gluten,Milk,Pork,Wheat,
 1
 Meatballs & Marinara
 Entrees
-Lunch
+Specialty Restaurant
 Gluten,Milk,Pork,Wheat,
-2019-12-11
+2019-12-16
 13663
-1
+6
 Meatballs & Marinara Sauce
 Entrees
 Lunch
@@ -4912,6 +4772,20 @@ Corn,Eggs,Gluten,Milk,Sesame,Soy,Sulfites,Wheat,
 2019-12-12
 15350
 1
+Meatzza Lovers Pizza
+Entrees
+Lunch
+Corn,Gluten,Milk,Pork,Soy,Wheat,
+2019-12-18
+12217
+2
+Mediterranean Chicken Pizza
+Entrees
+Dinner
+Corn,Gluten,Milk,Soy,Sulfites,Wheat,
+2019-12-18
+18480
+1
 Mediterranean Vegetable Risotto
 Entrees
 Dinner
@@ -4923,14 +4797,14 @@ Medium Salsa
 Sauces
 Daily Menu
 Kosher,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6993
 14
 Melon Ice Bars
 Desserts
 Specialty Restaurant
 Corn,Milk,Vegetarian,
-2019-12-11
+2019-12-18
 14593
 17
 Mesclun Mix
@@ -4947,13 +4821,6 @@ Vegan,Vegetarian,
 2019-12-12
 2702
 2
-Millet Ginger Porridge w/Almonds & Fruit
-Cereals
-Midnight Breakfast
-Coconut,Milk,Sulfites,Tree Nuts,
-2019-12-11
-20410
-1
 Minestrone Soup
 Soups
 Lunch
@@ -4968,13 +4835,6 @@ Corn,Gluten,Kosher,Soy,Tree Nuts,Vegetarian,Wheat,
 2019-12-15
 20193
 23
-Mint Simple Syrup
-Beverages
-Specialty Restaurant
-Vegan,Vegetarian,
-2019-12-16
-18082
-24
 Miso Pollock
 Entrees
 Dinner
@@ -4982,20 +4842,20 @@ Alcohol,Corn,Fish,Soy,Sulfites,Sustainable Seafood,
 2019-12-13
 20539
 2
-Miso Roasted Butternut Squash
-Vegetables
-Midnight Breakfast
-Alcohol,Sesame,Soy,Sulfites,Vegan,Vegetarian,
-2019-12-11
-17610
-5
 Mixed Berry Compote
 Toppings
-Midnight Breakfast
+Lunch
 Milk,Sulfites,Vegetarian,
-2019-12-11
+2019-12-15
 16234
 1
+Mixed Vegetables
+Vegetables
+Dinner
+Corn,Vegan,Vegetarian,
+2019-12-18
+547
+5
 Molasses Baked Beans
 Vegetables
 Lunch
@@ -5005,11 +4865,11 @@ Corn,Vegan,Vegetarian,
 6
 Mongolian Beef
 Entrees
-Kosher Dinner
-Alcohol,Corn,Gluten,Kosher,Sesame,Soy,Sulfites,Wheat,
-2019-12-11
-20380
-5
+Lunch
+Alcohol,Corn,Gluten,Sesame,Soy,Sulfites,Wheat,
+2019-12-13
+5690
+2
 Mongolian Chicken Drumsticks
 Entrees
 Lunch
@@ -5042,14 +4902,14 @@ Mozzarella Cheese Sticks
 Appetizers & Sides
 Specialty Restaurant
 Corn,Eggs,Gluten,Milk,Red Dye,Soy,Wheat,
-2019-12-11
+2019-12-18
 4212
 6
 Muenster Cheese
 Cheeses
 Oglesby Grinder Bar
 Milk,
-2019-12-11
+2019-12-12
 6949
 6
 Muffaleta Pizza
@@ -5059,20 +4919,20 @@ Corn,Gluten,Milk,Pork,Soy,Sulfites,Wheat,
 2019-12-16
 9311
 2
-Muffaletta
-Entrees
-Lunch
-Corn,Gluten,Milk,Pork,Soy,Sulfites,Wheat,
-2019-12-11
-13285
-4
 Mullen's Applesauce
 Fruits
 Light Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 15157
 1
+Mulligatawny Soup
+Soups
+Lunch
+Coconut,Corn,Milk,
+2019-12-18
+7445
+5
 Mushroom Medley Pizza
 Entrees
 Dinner
@@ -5080,18 +4940,11 @@ Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-17
 20897
 1
-Mushroom Risotto
-Entrees
-Dinner
-Alcohol,Corn,Milk,Soy,Vegetarian,
-2019-12-11
-6023
-5
 Mushroom Swiss Burger
 Entrees
 Dinner
 Corn,Eggs,Fish,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 17625
 1
 Mushroom and Sage Gravy
@@ -5101,18 +4954,32 @@ Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-15
 16561
 1
+Mussels with Garlic Wine Sauce
+Entrees
+Dinner
+Alcohol,Corn,Milk,Shellfish,Sulfites,
+2019-12-18
+10422
+1
 Mustard
 Dressings & Condiments
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 348
 2
+Muttar Paneer
+Entrees
+Dinner
+Milk,Soy,Sulfites,Vegetarian,
+2019-12-18
+10688
+1
 Naan
 Breads
 Specialty Restaurant
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-18
 19358
 17
 Naan Flat Bread
@@ -5140,14 +5007,14 @@ Natural Cut French Fries
 Starches
 Lunch
 Soy,
-2019-12-11
+2019-12-12
 12960
 2
 Navel Orange
 Fruits
 Breakfast
 Kosher,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 2690
 1
 Neapolitan Spaghetti
@@ -5185,13 +5052,6 @@ Vegan,Vegetarian,
 2019-12-13
 7409
 1
-Num Banh Chok Cambodian Rice Noodle Soup
-Soups
-Breakfast
-Coconut,Corn,Eggs,Fish,Milk,Shellfish,Soy,Sulfites,
-2019-12-11
-17564
-1
 Nutella Hazelnut Spread
 Dressings & Condiments
 Breakfast
@@ -5199,18 +5059,11 @@ Milk,Soy,Tree Nuts,Vegetarian,
 2019-12-17
 16624
 1
-O'Brien Potatoes
-Starches
-Breakfast
-Soy,Vegan,Vegetarian,
-2019-12-11
-3307
-1
 Oatmeal
 Cereals
-Midnight Breakfast
+Breakfast
 Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 3612
 1
 Oatmeal Raisin Cookies
@@ -5221,17 +5074,17 @@ Coconut,Eggs,Gluten,Milk,Vegetarian,Wheat,
 222
 5
 Oie Muchim (Mixed Cucumbers)
-Toppings
+Salads & Salad Bar
 Lunch
 Fish,Sesame,Sulfites,
-2019-12-11
+2019-12-13
 18539
 28
 Olive Oil
-Sauces
-Specialty Restaurant
+Dressings & Condiments
+Oglesby Grinder Bar
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 586
 6
 Olive Spread
@@ -5243,25 +5096,18 @@ Alcohol,Soy,Vegan,Vegetarian,
 1
 Omelet Station
 Entrees
-Midnight Breakfast
+Specialty Restaurant
 Corn,Eggs,Milk,Pork,
-2019-12-11
-12548
-1
+2019-12-17
+6289
+6
 Onions
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 1457
 2
-Oodles Peanut Sauce
-Sauces
-Dinner
-Alcohol,Gluten,Peanuts,Sesame,Soy,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
-4854
-1
 Orange Chicken
 Entrees
 Dinner
@@ -5269,18 +5115,11 @@ Corn,Gluten,Soy,Wheat,
 2019-12-13
 12847
 2
-Orange Fluff Salad
-Salads & Salad Bar
-Lunch
-Coconut,Corn,Gelatin,Milk,Soy,
-2019-12-17
-3032
-4
 Orange Sauce
 Sauces
 Lunch
 Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 8335
 2
 Oreo Brownies
@@ -5292,11 +5131,11 @@ Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 1
 Original Popcorn Chicken
 Entrees
-After Dark Late Dinner
+Lunch
 Corn,Eggs,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-13
 5020
-2
+1
 Oven Roasted Carrots with Dill
 Vegetables
 Breakfast
@@ -5304,20 +5143,13 @@ Vegan,Vegetarian,
 2019-12-12
 14778
 1
-Oven Roasted Vegetables
-Vegetables
-Lunch
-Sulfites,Vegan,Vegetarian,
-2019-12-11
-5153
-27
 Pancake Syrup
 Sauces
-Midnight Breakfast
+After Dark Late Dinner
 Corn,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 629
-1
+2
 Pancakes
 Entrees
 After Dark Late Dinner
@@ -5350,7 +5182,7 @@ Passion Sunset Smoothie
 Beverages
 Daily Menu
 Coconut,Corn,Milk,Red Dye,Vegetarian,
-2019-12-11
+2019-12-12
 17238
 12
 Pasta Del Mar
@@ -5364,9 +5196,9 @@ Pasta Fagioli Soup
 Soups
 Lunch
 Corn,Gluten,Milk,Sulfites,Vegetarian,Wheat,
-2019-12-11
+2019-12-18
 5479
-4
+27
 Pasta Farfalle Bowtie Cooked
 Starches
 Dinner
@@ -5390,11 +5222,11 @@ Gluten,Vegan,Vegetarian,Wheat,
 4
 Peach Cobbler
 Desserts
-Dinner
-Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
-17573
-1
+Specialty Restaurant
+Corn,Gluten,Milk,Vegetarian,Wheat,
+2019-12-12
+7404
+6
 Peach Lemonade
 Beverages
 Specialty Restaurant
@@ -5416,20 +5248,13 @@ Gluten,Milk,Soy,Sulfites,Vegetarian,Wheat,
 2019-12-12
 12237
 1
-Peaches
-Fruits
-Midnight Breakfast
-Vegan,Vegetarian,
-2019-12-11
-2815
-5
 Peanut Butter
-Dressings & Condiments
-Midnight Breakfast
-Peanuts,Soy,Vegetarian,
-2019-12-11
-5953
-1
+Toppings
+Lunch
+Kosher,Peanuts,Soy,Vegan,Vegetarian,
+2019-12-16
+1075
+12
 Peanut Butter & Jelly Bar
 Desserts
 Lunch
@@ -5448,7 +5273,7 @@ Peas
 Vegetables
 Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-15
 3610
 1
 Peas and Pearl Onions
@@ -5474,11 +5299,11 @@ Corn,Eggs,Gluten,Milk,Soy,Tree Nuts,Vegetarian,Wheat,
 1
 Penne Pasta
 Starches
-Dinner
+Lunch
 Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-14
 4153
-1
+2
 Penne Pasta w/Cannellini Beans & Spinach
 Entrees
 Lunch
@@ -5495,39 +5320,32 @@ Corn,Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
 27
 Pepper Gravy
 Sauces
-Breakfast
+After Dark Late Dinner
 Gluten,Milk,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 6011
-27
-Pepperoncini Peppers
-Toppings
-Specialty Restaurant
-Sulfites,Vegan,Vegetarian,
-2019-12-11
-349
-6
+2
 Pepperoni
-Toppings
-Specialty Restaurant
+Proteins
+Oglesby Grinder Bar
 Milk,Pork,
-2019-12-11
+2019-12-12
 59
 6
 Pepperoni & Cheese Croissant
 ALC Daily Specials
 Daily Menu
 Corn,Gluten,Milk,Pork,Wheat,
-2019-12-11
+2019-12-12
 20020
 9
 Pepperoni Pizza
 Entrees
-Light Lunch
+Lunch
 Corn,Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
-20902
-1
+2019-12-12
+7564
+2
 Pepperoni Roll
 Entrees
 Lunch
@@ -5535,6 +5353,13 @@ Corn,Gluten,Milk,Pork,Soy,Wheat,
 2019-12-14
 4827
 27
+Pepperoni Stromboli
+Entrees
+Dinner
+Corn,Gluten,Milk,Pork,Soy,Wheat,
+2019-12-18
+12872
+1
 Pepperoni Thin Crust Pizza
 Entrees
 After Dark Late Dinner
@@ -5546,16 +5371,9 @@ Peppers
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6507
 2
-Peppers Chili Dried Nora
-Toppings
-Midnight Breakfast
-Vegan,Vegetarian,
-2019-12-11
-16925
-5
 Peri-Peri Chicken Breast
 Entrees
 Dinner
@@ -5564,47 +5382,26 @@ Corn,Soy,
 18819
 2
 Pesto Goat Cheese made with Nuts
-Dressings & Condiments
-Midnight Breakfast
+Toppings
+Light Lunch
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 15057
-5
+1
 Pesto Sauce
 Sauces
 Specialty Restaurant
 Milk,Vegetarian,
-2019-12-11
+2019-12-16
 2080
 6
 Philly Cheese Steak Sandwich
 Entrees
 Lunch
 Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-14
 5625
-6
-Philly Grilled Cheese Sandwich
-ALC Daily Specials
-Daily Menu
-Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
-20407
-11
-Pho
-Soups
-Lunch
-Corn,Sulfites,
-2019-12-11
-9252
-1
-Pho Soup Bar
-Entrees
-Lunch
-
-2019-12-11
-16863
-1
+2
 Pickled Red Onions
 Toppings
 Lunch
@@ -5616,7 +5413,7 @@ Pineapple Tidbits
 Toppings
 Specialty Restaurant
 Vegan,Vegetarian,
-2019-12-11
+2019-12-16
 270
 6
 Pineapple Upside Down Cake
@@ -5634,12 +5431,12 @@ Vegan,Vegetarian,
 13225
 1
 Pistachio Muffin
-Breads
-Breakfast
-Eggs,Gluten,Milk,Soy,Tree Nuts,Vegetarian,Wheat,
-2019-12-11
-10352
-1
+ALC Daily Specials
+Daily Menu
+Corn,Eggs,Gluten,Milk,Soy,Tree Nuts,Vegetarian,Wheat,
+2019-12-12
+10364
+9
 Pita Bread
 Breads
 Light Lunch
@@ -5658,21 +5455,21 @@ Pizza Dipping Sauce
 Sauces
 Daily Menu
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 17207
 7
-Pizza Sauce
-Sauces
+Plain Greek Yogurt
+Desserts
 Dinner
-Kosher,Vegan,Vegetarian,
-2019-12-11
-619
+Milk,Vegetarian,
+2019-12-18
+15768
 1
 Plain Scrambled Eggs
 Proteins
 Lunch
 Eggs,Soy,Vegetarian,
-2019-12-11
+2019-12-12
 8837
 2
 Poblano and Garlic Mashed Potatoes
@@ -5684,11 +5481,11 @@ Milk,Sulfites,Vegetarian,
 6
 Poke Bowl
 Appetizers & Sides
-Dinner
+Lunch
 Fish,Gluten,Sesame,Soy,Wheat,
-2019-12-11
+2019-12-16
 19724
-2
+1
 Polenta w/Tomato, Corn and Basil
 Entrees
 Lunch
@@ -5703,25 +5500,18 @@ Alcohol,Fish,Milk,Sustainable Seafood,
 2019-12-13
 20543
 1
-Pop's Singapore Noodles
-Entrees
-Specialty Restaurant
-Alcohol,Corn,Eggs,Gluten,Shellfish,Soy,Sulfites,Wheat,
-2019-12-11
-5697
-17
 Popcorn Shrimp
 Entrees
-After Dark Late Dinner
+Lunch
 Corn,Gluten,Milk,Shellfish,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-13
 7226
-2
+1
 Pork & Beef Bologna
 Entrees
 Oglesby Grinder Bar
 Corn,Pork,Soy,
-2019-12-11
+2019-12-12
 56
 6
 Pork Bacon 3 Strips
@@ -5738,13 +5528,6 @@ Pork,
 2019-12-16
 11697
 1
-Pork Bulgogi
-Entrees
-Dinner
-Alcohol,Gluten,Pork,Sesame,Soy,Sulfites,Wheat,
-2019-12-11
-10615
-2
 Pork Carnitas
 Entrees
 Lunch
@@ -5758,6 +5541,13 @@ Dinner
 Corn,Pork,Soy,Sulfites,
 2019-12-14
 5981
+2
+Pork Eggroll
+Appetizers & Sides
+Lunch
+Corn,Eggs,Fish,Gluten,Pork,Soy,Wheat,
+2019-12-18
+10976
 2
 Pork Loin with Herb Mustard Crust
 Entrees
@@ -5781,12 +5571,12 @@ Pork,
 42
 1
 Pork Sausage Patties
-Entrees
-Breakfast
+Proteins
+Daily Menu
 Pork,
-2019-12-11
+2019-12-12
 4255
-5
+14
 Pork Stew with Kim Chee
 Entrees
 Dinner
@@ -5794,6 +5584,13 @@ Gluten,Pork,Sesame,Soy,Sulfites,Wheat,
 2019-12-15
 17551
 2
+Pork Stir Fry
+Entrees
+Dinner
+Alcohol,Corn,Gluten,Pork,Sesame,Soy,Sulfites,Wheat,
+2019-12-18
+9309
+4
 Portabella Gravy
 Entrees
 Dinner
@@ -5801,25 +5598,32 @@ Corn,Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
 2019-12-15
 18102
 1
+Potato Hashbrowns ALC
+ALC Daily Specials
+Daily Menu
+Corn,Gluten,Soy,Wheat,
+2019-12-18
+18089
+11
 Potato Salad
-Salads & Salad Bar
-Lunch
-Eggs,Soy,Vegetarian,
-2019-12-11
-5430
-2
+Others
+Kosher Dinner
+Eggs,Kosher,Soy,
+2019-12-12
+18587
+5
 Prairie Farms Plain Yogurt
 Sauces
 Lunch
 Corn,Milk,Vegetarian,
-2019-12-11
+2019-12-12
 2284
 2
 Pretzel Bun
 Breads
 Dinner
 Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 12984
 1
 Prince Edward Vegetable Blend
@@ -5840,21 +5644,21 @@ Provolone Cheese Slices
 Cheeses
 Lunch
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 6944
-1
+2
 Pulled Pork
 Entrees
 Dinner
 Pork,
-2019-12-11
+2019-12-12
 9474
-1
+27
 Pumpkin Pie Latte 16oz
 Beverages
 Daily Menu
 Corn,Milk,Vegetarian,
-2019-12-11
+2019-12-12
 17036
 14
 Purple Rice
@@ -5868,7 +5672,7 @@ Quarter Pound Hamburger Patty
 Entrees
 Lunch
 
-2019-12-11
+2019-12-12
 2586
 2
 Quiche Lorraine
@@ -5880,18 +5684,18 @@ Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 27
 Quinoa
 Starches
-Midnight Breakfast
+Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 15015
-5
+1
 Quinoa Avocado Kale Burger
 Entrees
-Lunch
+Kosher Dinner
 Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 16614
-1
+5
 Quinoa Stuffed Poblano Peppers
 Entrees
 Lunch
@@ -5915,18 +5719,18 @@ Vegan,Vegetarian,
 1
 Ranch Dressing
 Dressings & Condiments
-Specialty Restaurant
-Corn,Eggs,Milk,MSG,Soy,Vegetarian,
-2019-12-11
-3584
-6
-Ranch Powder
-Toppings
 Lunch
-Corn,Milk,MSG,Soy,Vegetarian,
-2019-12-11
-337
+Corn,Eggs,Milk,MSG,Soy,Vegetarian,
+2019-12-16
+3584
 1
+Raspberry Bavarian Danish
+ALC Daily Specials
+Daily Menu
+Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
+2019-12-18
+20047
+9
 Raspberry Walnut Bars
 Desserts
 Lunch
@@ -5938,7 +5742,7 @@ Red Bean Buns
 Appetizers & Sides
 Dinner
 Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 7544
 2
 Red Beans and Rice
@@ -5952,7 +5756,7 @@ Red Delicious Apples
 Fruits
 Daily Menu
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 837
 26
 Red Grapes
@@ -5963,24 +5767,24 @@ Vegan,Vegetarian,
 851
 5
 Red Onion
-Vegetables
-Lunch
+Toppings
+Light Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6488
 1
 Red Pepper Hummus
-Salads & Salad Bar
+Toppings
 Light Lunch
 Sesame,Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 5546
 1
 Red Peppers
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6508
 2
 Red Raspberry Danish
@@ -6004,18 +5808,11 @@ Alcohol,Corn,Eggs,Gluten,Milk,Red Dye,Soy,Sulfites,Vegetarian,Wheat,
 2019-12-16
 11792
 5
-Red Velvet Cupcake
-Desserts
-Light Lunch
-Alcohol,Corn,Eggs,Gluten,Milk,Red Dye,Sulfites,Vegetarian,Wheat,
-2019-12-11
-10666
-1
 Red Velvet Muffins
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 20104
 9
 Red Velvet Sheet Cake
@@ -6060,13 +5857,6 @@ Corn,Gelatin,Milk,Soy,
 2019-12-15
 10868
 1
-Rice Krispie Treat w/ Peanut Butter
-Desserts
-Light Lunch
-Corn,Gelatin,Milk,Peanuts,Soy,
-2019-12-11
-6764
-1
 Rice Krispie Treat with Chocolate Glaze
 Desserts
 Light Lunch
@@ -6076,18 +5866,18 @@ Corn,Gelatin,Milk,Soy,
 1
 Rice Krispie Treats
 Desserts
-Kosher Dinner
-Corn,Eggs,Kosher,
-2019-12-11
-18616
-5
+Lunch
+Corn,Gelatin,Milk,
+2019-12-16
+3592
+2
 Rice Noodles
 Starches
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 5301
-1
+2
 Rigatoni Pasta
 Starches
 After Dark Late Dinner
@@ -6118,11 +5908,11 @@ Vegan,Vegetarian,
 1
 Roasted Buffalo Cauliflower
 Vegetables
-Dinner
+Specialty Restaurant
 Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-16
 18243
-4
+6
 Roasted Carrots tossed with Fresh Herbs
 Vegetables
 Lunch
@@ -6136,13 +5926,6 @@ Lunch
 Corn,Sulfites,Vegan,Vegetarian,
 2019-12-15
 5651
-1
-Roasted Mediterranean Vegetable Risotto
-Entrees
-Dinner
-Alcohol,Corn,Milk,Sulfites,Vegetarian,
-2019-12-11
-15823
 1
 Roasted Potato Melange
 Starches
@@ -6158,13 +5941,6 @@ Eggs,Soy,Sulfites,Vegetarian,
 2019-12-15
 6332
 2
-Roasted Red Pepper Soup
-Soups
-Light Lunch
-Corn,Gluten,Milk,Vegetarian,Wheat,
-2019-12-11
-6651
-1
 Roasted Red Peppers
 Toppings
 Light Lunch
@@ -6207,13 +5983,6 @@ Corn,
 2019-12-12
 6174
 5
-S'mores Bars
-Desserts
-Lunch
-Corn,Gelatin,Gluten,Milk,Soy,Wheat,
-2019-12-11
-5987
-2
 Sage, Walnut & Mushroom Tofu Loaf
 Entrees
 Dinner
@@ -6229,12 +5998,12 @@ Alcohol,Milk,Sulfites,Vegetarian,
 9196
 1
 Salsa Fresca
-Dressings & Condiments
-Lunch
+Sauces
+Specialty Restaurant L
 Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-16
 16547
-1
+10
 Salsa Verde
 Dressings & Condiments
 Specialty Restaurant
@@ -6246,7 +6015,7 @@ Sambal Paste
 Sauces
 Lunch
 Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6331
 2
 Sandwich Slider Tofu Crispy Vegan
@@ -6267,23 +6036,23 @@ Sausage Egg & Cheese Croissant
 Entrees
 Daily Menu
 Eggs,Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
+2019-12-12
 19142
 14
 Sausage Gravy
 Entrees
-Breakfast
+After Dark Late Dinner
 Gluten,Milk,Pork,Wheat,
-2019-12-11
+2019-12-12
 3303
 2
 Sausage Pizza
 Entrees
-Lunch
+Light Lunch
 Corn,Gluten,Milk,Pork,Soy,Wheat,
-2019-12-11
-12263
-2
+2019-12-12
+20903
+1
 Sausage Thin Crust Pizza
 Entrees
 After Dark Late Dinner
@@ -6342,11 +6111,11 @@ Milk,Sulfites,Tree Nuts,Vegetarian,
 4
 Sauteed Squash Medley
 Vegetables
-Lunch
+Dinner
 Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-16
 4728
-5
+1
 Sauteed Sugar Snap Peas with Garlic
 Vegetables
 Lunch
@@ -6365,51 +6134,58 @@ Sautéed Mushrooms
 Vegetables
 Light Lunch
 Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 4361
 1
 Sautéed Onions
-Vegetables
+Toppings
 Light Lunch
 Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 3315
+1
+Sautéed Shitake
+Vegetables
+Lunch
+Gluten,Sesame,Soy,Sulfites,Vegetarian,Wheat,
+2019-12-18
+18343
 1
 Scrambled Egg Toppings
 Dressings & Condiments
-Midnight Breakfast
+Breakfast
 Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 10192
 1
 Scrambled Eggs
 Entrees
-Midnight Breakfast
+Breakfast
 Eggs,Soy,Vegetarian,
-2019-12-11
+2019-12-12
 3791
 1
 Seafood Salad
 Salads & Salad Bar
 Lunch
 Corn,Eggs,Fish,Gluten,Shellfish,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-14
 5481
-6
-Seasoned Broccoli
-Vegetables
-Lunch
-Milk,Vegetarian,
-2019-12-11
-9458
-4
+2
+Seared Tofu w/ Five Spice Mushroom Sauce
+Entrees
+Dinner
+Corn,Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
+2019-12-18
+15712
+5
 Seasoned Curly Fries
 Starches
-Lunch
-Corn,Gluten,Soy,Wheat,
-2019-12-11
-3112
-2
+Kosher Lunch
+Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
+2019-12-12
+504
+5
 Seasoned Mixed Vegetables
 Vegetables
 Dinner
@@ -6419,11 +6195,11 @@ Corn,Milk,Vegetarian,
 5
 Seasoned Potatoes
 Starches
-Midnight Breakfast
+Breakfast
 Corn,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-12
 8391
-1
+27
 Seasoned Turkey Gravy
 Sauces
 Dinner
@@ -6435,16 +6211,16 @@ Seasoned Waffle Fries
 Starches
 Lunch
 Corn,Gluten,Soy,Wheat,
-2019-12-11
+2019-12-13
 7231
-1
+2
 Seasoned White and Wild Rice
 Starches
-Lunch
+Dinner
 Corn,Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-14
 3684
-27
+1
 Sesame Dressing
 Dressings & Condiments
 Lunch
@@ -6454,32 +6230,32 @@ Alcohol,Corn,Gluten,Sesame,Soy,Vegetarian,Wheat,
 1
 Sharp Cheddar Cheese Sauce
 Sauces
-Light Lunch
+Lunch
 Gluten,Milk,Vegetarian,Wheat,
-2019-12-11
+2019-12-14
 14240
-1
+5
 Shoestring Fries
 Starches
 Lunch
 Corn,Soy,
-2019-12-11
+2019-12-13
 7236
-5
+1
 Shredded Carrots
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6536
-1
+2
 Shredded Cheddar Cheese
 Cheeses
-Oglesby Grinder Bar
+After Dark Late Dinner
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 5598
-6
+2
 Shredded Chicken Carnitas
 Entrees
 Lunch
@@ -6491,7 +6267,7 @@ Shredded Lettuce
 Vegetables
 Oglesby Grinder Bar
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6270
 6
 Shredded Mozzarella/Provelone Mix
@@ -6512,7 +6288,7 @@ Shrimp
 Proteins
 Lunch
 Shellfish,Sulfites,
-2019-12-11
+2019-12-13
 11556
 2
 Shrimp Chilaquiles
@@ -6522,6 +6298,13 @@ Corn,Gluten,Milk,Pork,Red Dye,Shellfish,Sulfites,Wheat,
 2019-12-17
 12352
 1
+Shrimp Chow Mein
+Entrees
+Lunch
+Corn,Eggs,Gluten,Shellfish,Soy,Sulfites,Wheat,
+2019-12-18
+9265
+4
 Shrimp Cocktail
 Appetizers & Sides
 Dinner
@@ -6564,13 +6347,6 @@ Alcohol,Fish,Sulfites,Sustainable Seafood,
 2019-12-15
 20541
 5
-Silverfin Cake Slider with Bistro Sauce
-Entrees
-Lunch
-Alcohol,Corn,Eggs,Fish,Gluten,Milk,Soy,Wheat,
-2019-12-11
-19850
-4
 Simmered Summer Greens
 Vegetables
 Dinner
@@ -6599,18 +6375,11 @@ Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-12
 1537
 2
-Sliced BBQ Beef Brisket
-Entrees
-Specialty Restaurant
-Corn,
-2019-12-16
-17229
-24
 Sliced Beef Strips
 Proteins
 Lunch
 
-2019-12-11
+2019-12-12
 6616
 2
 Sliced Chicken
@@ -6624,35 +6393,35 @@ Sliced Garlic Bread
 Breads
 Dinner
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 6938
 1
 Sliced Mushrooms
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 2467
 2
 Sliced Pepper Jack Cheese
 Cheeses
 Lunch
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 8203
-1
+2
 Sliced Peppers
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6987
 2
 Sliced Scallions
-Vegetables
+Toppings
 Light Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 5848
 1
 Sliced Strawberries
@@ -6666,28 +6435,28 @@ Sliced Swiss Cheese
 Cheeses
 Lunch
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 6942
-1
+2
 Sliced Tomatoes
 Vegetables
-Lunch
+After Dark Late Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 7380
-1
+2
 Sliced Water Chestnuts
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 309
 2
 Slider Bun
 Breads
 Lunch
 Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-14
 9643
 1
 Slider Hot Dog Bun
@@ -6729,16 +6498,16 @@ Smoked Gouda Cheese Sauce
 Sauces
 Light Lunch
 Gluten,Milk,Vegetarian,Wheat,
-2019-12-11
+2019-12-18
 14031
 1
 Smoked Hummus
 Salads & Salad Bar
 Lunch
 Sesame,Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 15076
-5
+1
 Smoked Potato Salad
 Salads & Salad Bar
 Dinner
@@ -6755,11 +6524,11 @@ Corn,Soy,Vegan,Vegetarian,
 1
 Smoked Salmon
 Entrees
-Midnight Breakfast
+Lunch
 Fish,
-2019-12-11
+2019-12-13
 6485
-5
+1
 Smoked Salmon BLT Sandwich
 Entrees
 Lunch
@@ -6774,13 +6543,6 @@ Alcohol,Fish,Milk,
 2019-12-13
 13531
 4
-Smoked Tofu Steak
-Entrees
-Lunch
-Corn,Sesame,Soy,Sulfites,Vegan,Vegetarian,
-2019-12-11
-14340
-1
 Smoked Tofu w/ Pickled Onion
 Entrees
 Dinner
@@ -6788,20 +6550,13 @@ Alcohol,Corn,Sesame,Soy,Sulfites,Vegan,Vegetarian,
 2019-12-15
 18963
 27
-Smoked Whole Silverfin Fish
-Entrees
-Dinner
-Fish,
-2019-12-11
-20354
-1
-Smothered Grilled Chicken Breast
-Entrees
+Smoked Turkey Salad
+Salads & Salad Bar
 Lunch
-Milk,
-2019-12-11
-5727
-1
+Eggs,Soy,
+2019-12-18
+5158
+6
 Snickerdoodle Cookies
 Desserts
 Lunch
@@ -6813,9 +6568,16 @@ Snow Peas
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 7154
-1
+2
+Snow Peas w/ Red Peppers and Mushrooms
+Vegetables
+Dinner
+Soy,Sulfites,Vegan,Vegetarian,
+2019-12-18
+16525
+5
 Sonoran Hot Dog w/ Bun
 Entrees
 Dinner
@@ -6823,13 +6585,20 @@ Corn,Gluten,Milk,Pork,Soy,Sulfites,Wheat,
 2019-12-17
 17568
 1
+Sopapillas
+Desserts
+Dinner
+Corn,Gluten,Soy,Sulfites,Vegetarian,Wheat,
+2019-12-18
+5137
+2
 Sour Cream
 Sauces
-Lunch
+Daily Menu
 Kosher,Milk,Vegetarian,
-2019-12-11
+2019-12-12
 1029
-2
+14
 Southern Chargrilled Chicken Breast
 Entrees
 Dinner
@@ -6872,27 +6641,13 @@ Milk,
 2019-12-16
 13784
 4
-Southwest Polenta Cakes w/ Cilantro Lime
-Entrees
-Dinner
-Corn,Soy,Sulfites,Vegetarian,
-2019-12-11
-18239
-4
 Spaghetti
 Starches
-Specialty Restaurant
+Lunch
 Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-15
 4949
-6
-Spaghetti & Veatballs
-Entrees
-Dinner
-Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
-13991
-5
+2
 Spaghetti Neapolitan w/ Meat Sauce
 Entrees
 Specialty Restaurant
@@ -6916,23 +6671,30 @@ Corn,Sulfites,Vegan,Vegetarian,
 4
 Spelt
 Starches
-Midnight Breakfast
+Lunch
 Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 15106
-5
-Spicy BBQ Sauce
-Sauces
-Specialty Restaurant
-Corn,Fish,Milk,Red Dye,Soy,Sulfites,
-2019-12-16
-6229
-24
+1
+Spelt, Arugula & Chimichurri Salad
+Salads & Salad Bar
+Lunch
+Alcohol,Gluten,Vegan,Vegetarian,Wheat,
+2019-12-18
+13929
+2
+Spice Blackening
+Dressings & Condiments
+Lunch
+
+2019-12-18
+9011
+1
 Spicy Black Bean Burger Patty
 Entrees
-After Dark Late Dinner
+Lunch
 Corn,Gluten,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 10788
 2
 Spicy Black Beans
@@ -6953,14 +6715,14 @@ Spicy Chicken Sandwich
 Entrees
 Daily Menu
 Corn,Gluten,Milk,Soy,Wheat,
-2019-12-11
+2019-12-12
 18254
 7
 Spicy Ketchup
 Dressings & Condiments
 Lunch
 Corn,Fish,Soy,Sulfites,
-2019-12-11
+2019-12-18
 14561
 1
 Spinach Fettucine
@@ -6970,12 +6732,12 @@ Eggs,Gluten,Vegetarian,Wheat,
 2019-12-12
 4489
 1
-Spinach Lasagna
-Entrees
+Spinach Kashmiri
+Vegetables
 Dinner
-Coconut,Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
-11748
+Soy,Vegan,Vegetarian,
+2019-12-18
+10731
 1
 Spinach Mushroom & Jack Frittata
 Entrees
@@ -6995,7 +6757,7 @@ Spinach Tortilla Wrap
 Breads
 Daily Menu
 Gluten,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 2520
 14
 Spinach and Cauliflower Bhaji
@@ -7012,13 +6774,6 @@ Sulfites,Vegan,Vegetarian,
 2019-12-16
 7431
 1
-Spinach and Pecan Salad
-Salads & Salad Bar
-Lunch
-Alcohol,Milk,Sulfites,Tree Nuts,Vegetarian,
-2019-12-11
-15180
-4
 Spinach, Strawberry & Walnut Salad
 Salads & Salad Bar
 Dinner
@@ -7026,13 +6781,6 @@ Alcohol,Sulfites,Tree Nuts,Vegan,Vegetarian,
 2019-12-15
 5200
 27
-Split Pea Soup
-Soups
-Lunch
-Corn,Soy,Sulfites,Vegan,Vegetarian,
-2019-12-11
-10657
-2
 Sport Peppers
 Dressings & Condiments
 After Dark Late Dinner
@@ -7048,18 +6796,11 @@ Alcohol,Eggs,Shellfish,Sulfites,Tree Nuts,
 10726
 5
 Spring Mix
-Salads & Salad Bar
+Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6873
-2
-Spring Mix Salad w/ Berries & Almonds
-Salads & Salad Bar
-Light Lunch
-Alcohol,Milk,Soy,Sulfites,Tree Nuts,Vegetarian,
-2019-12-11
-16740
 1
 Sriracha Mayonnaise
 Vegetables
@@ -7086,7 +6827,7 @@ Steak Tenderloin
 Entrees
 Dinner
 Soy,
-2019-12-11
+2019-12-12
 11057
 1
 Steamed Asparagus
@@ -7098,25 +6839,18 @@ Vegan,Vegetarian,
 1
 Steamed Kyoto Blend Vegetables
 Vegetables
-Specialty Restaurant
+Lunch
 Corn,Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 14356
-17
-Steamed Pollock
-Entrees
-Dinner
-Fish,Sustainable Seafood,
-2019-12-11
-20365
-1
+6
 Steamed Pork Char Siu Bun
 Appetizers & Sides
-Specialty Restaurant
+After Dark Late Dinner
 Alcohol,Corn,Gluten,Pork,Red Dye,Sesame,Shellfish,Soy,Wheat,
-2019-12-11
+2019-12-15
 7412
-17
+2
 Steamed Prince Edward Blend Vegetables
 Vegetables
 Dinner
@@ -7124,39 +6858,39 @@ Vegan,Vegetarian,
 2019-12-15
 9461
 6
+Steamed Spinach
+Vegetables
+Breakfast
+Vegan,Vegetarian,
+2019-12-18
+14951
+5
 Sticky Rice
 Starches
-Lunch
+Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-13
 11017
-6
+2
 Stir Fry Sauce
 Sauces
 Lunch
 Alcohol,Corn,Gluten,Milk,Sesame,Shellfish,Soy,Wheat,
-2019-12-11
+2019-12-12
 8339
 2
-Stir Fry Vegetables
-Vegetables
-Specialty Restaurant
-Vegetarian,
-2019-12-11
-7535
-6
 Strawberry Banana Smoothie
 Beverages
 Daily Menu
 Corn,Milk,Red Dye,Vegetarian,
-2019-12-11
+2019-12-12
 9808
 26
 Strawberry Banana Yogurt Parfait
 ALC Daily Specials
 Daily Menu
 Corn,Gluten,Milk,Wheat,
-2019-12-11
+2019-12-16
 12497
 11
 Strawberry Cake
@@ -7166,48 +6900,20 @@ Corn,Eggs,Gluten,Milk,Vegetarian,Wheat,
 2019-12-15
 18469
 1
-Strawberry Cheesecake Swirl Bar
-Desserts
-Light Lunch
-Corn,Eggs,Gelatin,Gluten,Milk,Soy,Wheat,
-2019-12-11
-12492
-1
-Strawberry Croissant
-Desserts
-Midnight Breakfast
-Corn,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
-2019-12-11
-12243
-1
-Strawberry Danish
-Desserts
-Midnight Breakfast
-Corn,Eggs,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
-2019-12-11
-12899
-1
 Strawberry Hummus Wrap
 Entrees
-Dinner
+Lunch
 Gluten,Sesame,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-17
 15010
-1
+4
 Strawberry Ice Bars
 Desserts
 Specialty Restaurant
 Corn,Milk,Red Dye,Vegetarian,
-2019-12-11
+2019-12-18
 14594
 17
-Strawberry Jelly
-Dressings & Condiments
-Midnight Breakfast
-Corn,Kosher,Vegetarian,
-2019-12-11
-16795
-1
 Strawberry Lemonade
 Beverages
 Specialty Restaurant
@@ -7217,9 +6923,9 @@ Vegan,Vegetarian,
 6
 Strawberry Panzanella Salad
 Salads & Salad Bar
-Midnight Breakfast
+Light Lunch
 Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 14622
 1
 Strawberry Preserves
@@ -7229,6 +6935,13 @@ Corn,Vegan,Vegetarian,
 2019-12-16
 580
 12
+Strawberry Shortcake
+Desserts
+Light Lunch
+Alcohol,Coconut,Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
+2019-12-18
+14049
+1
 Strawberry Topping
 Toppings
 Dinner
@@ -7250,13 +6963,6 @@ Eggs,Gluten,Milk,Vegetarian,Wheat,
 2019-12-13
 14047
 5
-Sugar Snap Peas
-Vegetables
-Dinner
-Vegan,Vegetarian,
-2019-12-11
-9526
-4
 Sundried Tomato
 Vegetables
 After Dark Late Dinner
@@ -7272,12 +6978,12 @@ Corn,Gluten,Milk,Pork,Soy,Wheat,
 7189
 2
 Surimi Crab
-Proteins
-Oglesby Grinder Bar
+Toppings
+Lunch
 Corn,Eggs,Fish,Gluten,Shellfish,Soy,Wheat,
-2019-12-11
+2019-12-12
 1147
-6
+1
 Sushi Rice
 Sushi
 Lunch
@@ -7296,7 +7002,7 @@ Sustainable Student Farm Pizza Sauce
 Sauces
 Specialty Restaurant
 Vegan,Vegetarian,
-2019-12-11
+2019-12-16
 17679
 6
 Swedish Meatballs
@@ -7331,21 +7037,21 @@ Sweet Baby Ray's BBQ Sauce
 Dressings & Condiments
 Lunch
 Corn,Kosher,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 821
 1
 Sweet Grean Juice
 Beverages
 Daily Menu
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 19982
 12
 Sweet Hawaiian Bread
 Breads
 Dinner
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-15
 6466
 2
 Sweet Pickle Relish
@@ -7369,13 +7075,6 @@ Corn,Soy,
 2019-12-12
 9218
 1
-Sweet Potato Hummus
-Salads & Salad Bar
-Midnight Breakfast
-Sesame,Sulfites,Vegan,Vegetarian,
-2019-12-11
-14953
-5
 Sweet Potato Pie
 Desserts
 Dinner
@@ -7394,14 +7093,14 @@ Sweet Potato Toppings
 Toppings
 Dinner
 Corn,Gelatin,Milk,Soy,
-2019-12-11
+2019-12-16
 7436
-1
+5
 Sweet Potato Tots
 Starches
 Breakfast
 Corn,Soy,
-2019-12-11
+2019-12-16
 14127
 5
 Sweet and Sour Pork
@@ -7415,23 +7114,16 @@ Sweet and Sour Sauce
 Sauces
 Lunch
 Corn,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 7666
 2
 Sweetened Coconut Flakes
 Toppings
-Midnight Breakfast
+Lunch
 Coconut,Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-16
 138
-5
-Syrup Maple Pure
-Sauces
-Midnight Breakfast
-Vegan,Vegetarian,
-2019-12-11
-17924
-5
+12
 Szechuan
 Sauces
 Lunch
@@ -7457,7 +7149,7 @@ Szechuan Sauce
 Sauces
 Lunch
 Alcohol,Corn,Gluten,Sesame,Shellfish,Soy,Sulfites,Wheat,
-2019-12-11
+2019-12-12
 8340
 2
 Taco & Nacho Bar
@@ -7492,9 +7184,9 @@ Taco Toppings
 Dressings & Condiments
 Lunch
 Milk,Vegetarian,
-2019-12-11
+2019-12-12
 5136
-4
+1
 Taco-Seasoned Beef
 Entrees
 Dinner
@@ -7511,18 +7203,18 @@ Gluten,Soy,Vegan,Vegetarian,Wheat,
 2
 Tartar Sauce
 Dressings & Condiments
-Dinner
+Specialty Restaurant
 Eggs,Soy,Sulfites,Vegetarian,
-2019-12-11
+2019-12-12
 1619
-2
+6
 Tater-Tots
 Starches
-Midnight Breakfast
+After Dark Late Dinner
 Corn,Soy,
-2019-12-11
+2019-12-12
 11039
-5
+2
 Tempeh Lettuce & Tomato Sandwich
 Entrees
 Dinner
@@ -7534,7 +7226,7 @@ Teriyaki Sauce
 Sauces
 Lunch
 Alcohol,Corn,Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 1225
 2
 Tex Mex Quinoa
@@ -7546,11 +7238,11 @@ Milk,Sulfites,Vegetarian,
 6
 Thai Beef Salad
 Salads & Salad Bar
-Specialty Restaurant
+Lunch
 Fish,Sulfites,
-2019-12-11
+2019-12-12
 4873
-17
+5
 Thai Chicken Noodle Soup
 Soups
 Lunch
@@ -7567,11 +7259,11 @@ Corn,Gluten,Sulfites,Wheat,
 2
 Thai Chili Sauce
 Sauces
-Lunch
+Dinner
 Corn,Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 6354
-2
+1
 Thai Lentil Bowl w/ Cashew Dressing
 Entrees
 Lunch
@@ -7579,46 +7271,53 @@ Coconut,Corn,Sesame,Soy,Sulfites,Tree Nuts,Vegan,Vegetarian,
 2019-12-12
 20850
 4
+Thai Shrimp Salad
+Salads & Salad Bar
+Specialty Restaurant
+Sesame,Shellfish,Sulfites,
+2019-12-18
+6545
+17
 The Chuck Burger
 Entrees
 Lunch
 
-2019-12-11
+2019-12-18
 18960
 1
 Thin Crust Three Cheese Pizza
 Entrees
 Light Lunch
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 20912
 1
 Three Cheese Lasagna
 Entrees
-Lunch
+Dinner
 Corn,Eggs,Gluten,Milk,Sulfites,Vegetarian,Wheat,
-2019-12-11
+2019-12-13
 5478
-27
+2
 Three Cheese Pizza
 Entrees
-Lunch
+Light Lunch
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-1300
-2
+2019-12-12
+20899
+1
 Three Cheese Stromboli
 Entrees
-Dinner
+Lunch
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 12871
-1
+6
 Three Cheese Thin Crust Pizza
 Entrees
 After Dark Late Dinner
 Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 15355
 2
 Tilapia Veracruz
@@ -7635,18 +7334,18 @@ Alcohol,Coconut,Corn,Eggs,Gluten,Milk,Vegetarian,Wheat,
 2019-12-13
 1312
 2
-Toasted Almonds
-Toppings
-Midnight Breakfast
-Tree Nuts,
-2019-12-11
-7817
-5
+Toasted Beef Ravioli
+Entrees
+Lunch
+Corn,Eggs,Gluten,Milk,Pork,Soy,Wheat,
+2019-12-18
+14385
+4
 Toasted Garbanzo Beans
 Starches
 Dinner
 Vegan,Vegetarian,
-2019-12-11
+2019-12-18
 14972
 1
 Toasted Sesame Oil
@@ -7657,12 +7356,12 @@ Sesame,Vegan,Vegetarian,
 1076
 28
 Tofu
-Proteins
-Lunch
+Toppings
+Light Lunch
 Soy,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6395
-2
+1
 Tofu Pad Thai
 Entrees
 Dinner
@@ -7670,20 +7369,13 @@ Alcohol,Eggs,Soy,Sulfites,Vegetarian,
 2019-12-15
 16563
 1
-Tofu Salad with Rice Wine Vinaigrette
-Salads & Salad Bar
-Lunch
-Alcohol,Soy,Sulfites,Vegan,Vegetarian,
-2019-12-11
-1376
-6
 Tofu Scramble
 Entrees
-Midnight Breakfast
+After Dark Late Dinner
 Gluten,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 15810
-1
+2
 Tofu W/key West Bbq Sauce
 Entrees
 Lunch
@@ -7698,13 +7390,6 @@ Gluten,Sesame,Soy,Sulfites,Vegan,Vegetarian,Wheat,
 2019-12-12
 4346
 27
-Toll House Pie
-Desserts
-Dinner
-Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
-13744
-1
 Tomato Basil Soup
 Soups
 Lunch
@@ -7716,7 +7401,7 @@ Tomato Basil Tortilla
 Breads
 Daily Menu
 Gluten,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 2519
 14
 Tomato Bread IKE
@@ -7733,20 +7418,6 @@ Gluten,Milk,Wheat,
 2019-12-15
 16293
 9
-Tomato, Green Chili & Red Bean Soup
-Soups
-Lunch
-Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-17
-12914
-4
-Topping Peppermint
-Toppings
-Midnight Breakfast
-Corn,Red Dye,
-2019-12-11
-21050
-5
 Toppings Fajita
 Dressings & Condiments
 Lunch
@@ -7793,7 +7464,7 @@ Turkey Breast
 Proteins
 Lunch
 
-2019-12-11
+2019-12-12
 2382
 2
 Turkey Burgers
@@ -7810,6 +7481,13 @@ Corn,Eggs,Gluten,Milk,Soy,Wheat,
 2019-12-14
 5701
 1
+Turkey Fillet w/ Peppercorn Jus
+Entrees
+Dinner
+Corn,Gluten,Milk,Wheat,
+2019-12-18
+17204
+1
 Turkey Gravy
 Sauces
 Dinner
@@ -7821,14 +7499,14 @@ Turkey Sausage Patty
 Entrees
 Breakfast
 Corn,Soy,
-2019-12-11
+2019-12-12
 2803
-1
+2
 Turkey Wrap
 Entrees
 Daily Menu
 Gluten,Sulfites,Wheat,
-2019-12-11
+2019-12-12
 1066
 14
 Turtle Pecan Cookies
@@ -7847,18 +7525,18 @@ Alcohol,Gluten,Milk,Soy,Sulfites,Vegetarian,Wheat,
 27
 Tuscan Soup
 Soups
-Lunch
+Light Lunch
 Corn,Milk,Pork,Sulfites,
-2019-12-11
+2019-12-16
 9092
-4
+1
 Tzatziki Sauce
 Dressings & Condiments
-Lunch
+After Dark Late Dinner
 Coconut,Milk,Vegetarian,
-2019-12-11
+2019-12-13
 9310
-6
+2
 U of I Meat Sales Hot Italian Sausage
 Toppings
 Specialty Restaurant
@@ -7866,27 +7544,13 @@ Corn,Pork,
 2019-12-16
 20067
 6
-U of I Meat Sales Pork Bacon
-Entrees
-Midnight Breakfast
-Pork,
-2019-12-11
-19939
-1
-Udon Noodle Bowl
-Entrees
-Dinner
-
-2019-12-11
-16857
-1
 Udon Noodles
 Starches
-Dinner
+Lunch
 Corn,Gluten,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 17117
-1
+2
 Ultimate Chocolate Layer Cake
 Desserts
 Specialty Restaurant Lunch
@@ -7908,13 +7572,6 @@ Corn,Gluten,Milk,Soy,Vegetarian,Wheat,
 2019-12-12
 10899
 1
-Veef and Broccoli Stir Fry
-Entrees
-Specialty Restaurant
-Alcohol,Corn,Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
-13762
-17
 Vegan Crumbles
 Proteins
 After Dark Late Dinner
@@ -7954,23 +7611,16 @@ Vegetable Cup w/ Ranch Dip
 ALC Daily Specials
 Daily Menu
 Corn,Eggs,Milk,MSG,Soy,Vegetarian,
-2019-12-11
+2019-12-12
 18253
 11
-Vegetable Dumpling Soup
-Soups
-Specialty Restaurant
-Alcohol,Corn,Gluten,Sesame,Soy,Sulfites,Vegetarian,Wheat,
-2019-12-11
-17275
-17
-Vegetable Egg Rolls
-Appetizers & Sides
+Vegetable Cutlets w/Walnuts & Almonds
+Entrees
 Lunch
-Corn,Eggs,Gluten,Sesame,Soy,Wheat,
-2019-12-11
-4206
-6
+Corn,Gluten,Peanuts,Soy,Tree Nuts,Vegan,Vegetarian,Wheat,
+2019-12-18
+12403
+1
 Vegetable Eggrolls
 Appetizers & Sides
 Lunch
@@ -7979,10 +7629,10 @@ Corn,Eggs,Gluten,Sesame,Soy,Wheat,
 10977
 2
 Vegetable Fried Rice
-Entrees
+Starches
 Specialty Restaurant
 Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-18
 4365
 17
 Vegetable Gumbo
@@ -8006,13 +7656,13 @@ Kosher,Sulfites,Vegan,Vegetarian,
 2019-12-15
 18612
 5
-Vegetable Pho
-Soups
-Lunch
-Sulfites,Vegan,Vegetarian,
-2019-12-11
-13371
-1
+Vegetable Pad Thai
+Entrees
+Specialty Restaurant
+Eggs,Gluten,Soy,Sulfites,Vegetarian,Wheat,
+2019-12-18
+5554
+17
 Vegetable Pot Pie
 Entrees
 Dinner
@@ -8028,17 +7678,24 @@ Vegan,Vegetarian,
 15330
 6
 Vegetable Spread
-Dressings & Condiments
-Midnight Breakfast
+Toppings
+Light Lunch
 Milk,Sulfites,Vegetarian,
-2019-12-11
+2019-12-12
 6780
+1
+Vegetable Stir Fry with Edamame
+Entrees
+Dinner
+Alcohol,Corn,Gluten,Sesame,Soy,Sulfites,Vegan,Vegetarian,Wheat,
+2019-12-18
+9481
 1
 Vegetable Wrap
 Entrees
 Daily Menu
 Corn,Eggs,Gluten,Milk,MSG,Soy,Sulfites,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 5544
 14
 Vegetables in Yellow Curry
@@ -8078,9 +7735,9 @@ Corn,Milk,Red Dye,Soy,Sulfites,Vegetarian,
 6
 Vegetarian Hot Dog
 Entrees
-Lunch
+After Dark Late Dinner
 Corn,Eggs,Gluten,Milk,Red Dye,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-14
 12201
 2
 Vegetarian Jollof Brown Rice
@@ -8090,25 +7747,18 @@ Corn,Soy,Sulfites,Vegan,Vegetarian,
 2019-12-15
 11646
 1
-Vegetarian Meatloaf
-Entrees
-Dinner
-Corn,Eggs,Gluten,Soy,Vegetarian,Wheat,
-2019-12-11
-12678
-4
 Vegetarian Sausage Gravy
 Entrees
 Breakfast
 Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-18
 14933
 2
 Vegetarian Sausage Patty
 Entrees
-Midnight Breakfast
+Breakfast
 Corn,Eggs,Gluten,Milk,Soy,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 9134
 1
 Veggie Lover Deep Dish Pizza
@@ -8150,7 +7800,7 @@ Very Berry Smoothie
 Beverages
 Daily Menu
 Corn,Milk,Red Dye,Vegetarian,
-2019-12-11
+2019-12-12
 5614
 26
 Vinaigrette Coleslaw
@@ -8174,13 +7824,6 @@ Corn,Gluten,Soy,Sulfites,Vegan,Vegetarian,Wheat,
 2019-12-14
 18251
 2
-Waffle Bar
-Breads
-Midnight Breakfast
-Coconut,Corn,Gluten,Milk,Red Dye,Soy,Tree Nuts,Vegetarian,Wheat,
-2019-12-11
-6282
-5
 Waffles
 Breads
 Breakfast
@@ -8199,7 +7842,7 @@ Walking Taco Salad
 Salads & Salad Bar
 Daily Menu
 Corn,Milk,Soy,
-2019-12-11
+2019-12-12
 6407
 7
 Warm Cinnamon Pecan Quinoa
@@ -8220,37 +7863,23 @@ Wheat Tortilla
 Breads
 Daily Menu
 Corn,Gluten,Sulfites,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 2535
 14
 Whipped Potatoes
 Starches
-After Dark Late Dinner
+Dinner
 Milk,Sulfites,Vegetarian,
-2019-12-11
+2019-12-12
 3575
-2
+1
 Whipped Salad Dressing
 Dressings & Condiments
 Lunch
 Corn,Eggs,Kosher,Soy,Vegetarian,
-2019-12-11
+2019-12-12
 2816
 2
-Whipped Sweet Cream Butter
-Dressings & Condiments
-Midnight Breakfast
-Milk,Vegetarian,
-2019-12-11
-14759
-1
-Whipped Topping
-Beverages
-Midnight Breakfast
-Milk,
-2019-12-11
-7010
-1
 White BBQ Chick'n
 Entrees
 After Dark Late Dinner
@@ -8290,9 +7919,9 @@ White Rice
 Starches
 Breakfast
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 4322
-2
+1
 White Sesame Seeds
 Toppings
 Lunch
@@ -8311,30 +7940,23 @@ Whole Fresh Fruit
 Fruits
 Oglesby Grinder Bar
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 10783
 6
-Whole Frozen Strawberries
-Fruits
-Midnight Breakfast
-Vegan,Vegetarian,
-2019-12-11
-881
-5
 Whole Grain Dijon Mustard
 Dressings & Condiments
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-18
 6254
 1
 Whole Kernel Corn
 Vegetables
-Lunch
+Dinner
 Corn,Vegan,Vegetarian,
-2019-12-11
-3578
-6
+2019-12-12
+9460
+1
 Whole Wheat Penne Pasta
 Starches
 Dinner
@@ -8356,32 +7978,46 @@ Corn,Soy,Vegan,Vegetarian,
 2019-12-13
 9417
 2
+Yellow Basmati Rice
+Starches
+Dinner
+Corn,Vegan,Vegetarian,
+2019-12-18
+14542
+1
+Yellow Cupcakes
+Desserts
+Lunch
+Corn,Eggs,Gluten,Milk,Soy,Wheat,
+2019-12-18
+17359
+4
 Yellow Peppers
 Vegetables
 Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 6509
 2
 Yellow Rice
 Starches
-Lunch
+After Dark Late Dinner
 Corn,Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-15
 6945
-4
+2
 Ying's Korean BBQ Sauce
 Sauces
 Lunch
 Gluten,Sesame,Soy,Vegan,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 18892
 2
 Yogurt Bar
 Others
 Breakfast
 Corn,Gluten,Milk,Red Dye,Vegetarian,Wheat,
-2019-12-11
+2019-12-12
 6284
 1
 Za'atar Roasted Carrots
@@ -8395,51 +8031,16 @@ Zesty Garden Soup
 Soups
 Lunch
 Corn,Sulfites,Vegan,Vegetarian,
-2019-12-11
+2019-12-12
 5184
-6
+2
 Zesty Oven Roasted Broccoli
 Vegetables
-Dinner
+Lunch
 Vegan,Vegetarian,
-2019-12-11
+2019-12-14
 14779
-1
-
-
-
-
-
-0
-0
-
-
-
-
-
-0
-0
-
-
-
-
-
-0
-0
-
-
-
-
-
-0
-0
-
-
-
-
-
-0
-0
+27
 
 
 
